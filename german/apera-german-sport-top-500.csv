@@ -1,0 +1,502 @@
+rank,word,lemma,meaning
+1,der,der,the (masc./gen./dat. fem.)
+2,die,die,the (fem./plural); who/which
+3,und,und,and
+4,in,in,in
+5,den,der,the (acc. masc./dat. pl.)
+6,das,das,the (neuter); that
+7,mit,mit,with
+8,auf,auf,on; up
+9,im,im,in the
+10,zu,zu,to; too
+11,für,für,for
+12,von,von,of; from; by
+13,ist,sein,is
+14,es,es,it
+15,sich,sich,himself/herself/themselves
+16,ein,ein,"a, an (masc./neuter)"
+17,dem,der,the (dative)
+18,nicht,nicht,not
+19,auch,auch,"also, too"
+20,eine,ein,"a, an (fem.)"
+21,bei,bei,at; with; near
+22,nach,nach,after; to; according to
+23,er,er,he
+24,des,der,of the (genitive)
+25,ich,ich,I
+26,als,als,as; than; when
+27,am,am,on the; at the
+28,an,an,at; on; to
+29,aus,aus,from; out of
+30,dass,dass,that (conjunction)
+31,wir,wir,we
+32,sie,sie,they; she; you (formal)
+33,hat,haben,has (he/she/it)
+34,war,sein,was (he/she/it)
+35,noch,noch,still; yet; another
+36,einen,ein,"a, an (acc. masc.)"
+37,aber,aber,but
+38,um,um,around; at (time); for
+39,zum,zum,to the; for the
+40,wird,werden,becomes; will; is (passive)
+41,wie,wie,how; like; as
+42,gegen,gegen,against
+43,einem,ein,"a, an (dative)"
+44,vor,vor,before; in front of
+45,so,so,so; like this
+46,Team,Team,team
+47,über,über,over; about; above
+48,haben,haben,have; to have (they)
+49,nur,nur,"only, just"
+50,werden,werden,become; will; are (passive)
+51,sind,sein,are (they)
+52,einer,ein,"a, an (fem. dative/gen.); of one"
+53,man,man,one; you; they (generic)
+54,oder,oder,or
+55,sein,sein,to be; his
+56,mehr,mehr,more
+57,beim,beim,at the; while (doing)
+58,dann,dann,then
+59,durch,durch,through; by
+60,Spiel,Spiel,game; match
+61,kann,können,can (he/she/it)
+62,wieder,wieder,again
+63,wurde,werden,was (passive); became
+64,wenn,wenn,if; when
+65,Saison,Saison,season
+66,bis,bis,until; by; to
+67,schon,schon,already; indeed
+68,zwei,zwei,two
+69,was,was,what
+70,zur,zur,to the; for the
+71,hatte,haben,had (he/she/it)
+72,doch,doch,but; yet; after all
+73,seine,sein,his; its (fem./plural)
+74,ersten,erste,first (inflected)
+75,jetzt,jetzt,now
+76,da,da,there; then; since
+77,können,können,"can, be able; we/they can"
+78,uns,wir,us; ourselves
+79,sehr,sehr,very
+80,Uhr,Uhr,o'clock (time)
+81,diese,dieser,this; these
+82,dieser,dieser,this (masc.); of this
+83,vom,vom,from the; of the
+84,immer,immer,always
+85,unter,unter,under; among
+86,alle,alle,all; everyone
+87,Platz,Platz,place; rank; pitch
+88,bereits,bereits,already
+89,Spieler,Spieler,player
+90,mal,mal,times; once; just (filler)
+91,habe,haben,have (I)
+92,nun,nun,now; well
+93,drei,drei,three
+94,hier,hier,here
+95,Jahr,Jahr,year
+96,dabei,dabei,thereby; at it; with it
+97,letzten,letzt,last (inflected)
+98,damit,damit,so that; with it
+99,Trainer,Trainer,coach; trainers (pl)
+100,gut,gut,good; well
+101,gibt,geben,gives (he/she/it); there is
+102,ab,ab,from; off; away
+103,du,du,you (informal)
+104,seiner,sein,his/its (fem. dat/gen)
+105,Mannschaft,Mannschaft,team; squad
+106,konnte,können,could; was able (he/she/it)
+107,muss,müssen,must; has to (he/she/it)
+108,keine,kein,no; not any
+109,Sieg,Sieg,victory; win
+110,ihr,ihr,her; their; you (pl)
+111,Ende,Ende,end
+112,seinen,sein,his/its (acc. masc./dat. pl.)
+113,ihre,ihr,her; their
+114,mich,ich,me (acc.)
+115,Zeit,Zeit,time
+116,Rennen,Rennen,race (motor/cycling)
+117,spielen,spielen,to play; play (they)
+118,Tor,Tor,goal
+119,geht,gehen,goes; walks (he/she/it)
+120,ins,in das,into the
+121,diesem,dieser,this (dat.)
+122,seit,seit,since; for (time)
+123,Minuten,Minute,minutes
+124,viel,viel,much; a lot
+125,Sport,Sport,sport
+126,Spiele,Spiel,games; matches
+127,während,während,during; while
+128,Fans,Fan,fans
+129,ohne,ohne,without
+130,waren,sein,were (we/they)
+131,steht,stehen,stands; is (at/in) (he/she/it)
+132,Jahren,Jahr,years (dative)
+133,alles,alles,everything
+134,seinem,sein,his/its (dat.)
+135,etwas,etwas,something; somewhat
+136,viele,viel,many
+137,ganz,ganz,quite; whole; entirely
+138,denn,denn,because; for
+139,Liga,Liga,league
+140,weiter,weiter,further; on
+141,heute,heute,today
+142,jedoch,jedoch,however
+143,Punkte,Punkt,points
+144,lesen,lesen,to read
+145,vier,vier,four
+146,sowie,sowie,as well as
+147,Bundesliga,Bundesliga,Bundesliga (German top league)
+148,zweiten,zweite,second (inflected)
+149,zwischen,zwischen,between
+150,Fußball,Fußball,football; soccer
+151,mir,ich,me (dat.); to me
+152,erste,erste,first
+153,neue,neu,new (inflected)
+154,ihn,er,him (acc.)
+155,deutschen,deutsch,German (inflected)
+156,soll,sollen,should; is supposed to (he/she/it)
+157,TV,TV,TV
+158,dieses,dieser,this (neut.)
+159,beiden,beide,both; the two
+160,Tour,Tour,tour (e.g. Tour de France)
+161,erst,erst,only; not until; first
+162,kam,kommen,came (he/she/it)
+163,Teams,Team,teams
+164,einmal,einmal,once; one time
+165,League,League,league (as in Champions League)
+166,neuen,neu,new (inflected)
+167,selbst,selbst,himself; even; self
+168,zurück,zurück,back
+169,machen,machen,to make; to do
+170,Start,Start,start; kickoff
+171,müssen,müssen,must; have to (we/they)
+172,eines,ein,of a; one of (gen.)
+173,Partie,Partie,match; game
+174,jährige,-jährig,-year-old (person)
+175,einfach,einfach,simply; simple; easy
+176,ob,ob,whether; if
+177,ja,ja,yes; indeed
+178,dazu,dazu,in addition; for that
+179,allerdings,allerdings,however; admittedly
+180,ihm,er,him (dat.); to him
+181,bin,sein,am (I)
+182,könnte,können,could; might (he/she/it)
+183,kommt,kommen,comes (he/she/it)
+184,Euro,Euro,euro (currency)
+185,live,live,live (broadcast)
+186,Jahre,Jahr,years
+187,gab,geben,gave; there was
+188,anderen,andere,other (inflected)
+189,Samstag,Samstag,Saturday
+190,Tore,Tor,goals
+191,Minute,Minute,minute (of play)
+192,Ball,Ball,ball
+193,natürlich,natürlich,of course; naturally
+194,sondern,sondern,but rather
+195,Formel,Formel,formula (Formel 1: Formula One)
+196,also,also,so; therefore
+197,kein,kein,no; not any
+198,sollte,sollen,should; was supposed to (he/it)
+199,will,wollen,wants to (he/she/it)
+200,weitere,weiter,further; more
+201,vergangenen,vergangen,last; past (inflected)
+202,wer,wer,who
+203,pro,pro,per; pro
+204,Runde,Runde,round (of competition)
+205,deutsche,deutsch,German (inflected)
+206,weil,weil,because
+207,stehen,stehen,to stand; be (placed); they stand
+208,allem,all,all; (vor allem) above all
+209,wo,wo,where
+210,fünf,fünf,five
+211,Match,Match,match (game)
+212,beide,beide,both
+213,wäre,sein,would be (he/she/it)
+214,hatten,haben,had (they/we)
+215,dort,dort,there
+216,sonstiges,sonstig,miscellaneous; other
+217,Verein,Verein,club (sports club)
+218,Weg,Weg,way; away
+219,Sonntag,Sonntag,Sunday
+220,musste,müssen,had to (he/she)
+221,Tag,Tag,day
+222,würde,werden,would (he/she/it)
+223,Titel,Titel,title (championship)
+224,ging,gehen,went (he/she/it)
+225,Woche,Woche,week
+226,dafür,dafür,for it; in return
+227,Finale,Finale,final (deciding match)
+228,sei,sein,be (subjunctive; reported speech)
+229,gerade,gerade,just; right now
+230,stand,stehen,stood; was (at) (he/she/it)
+231,zwar,zwar,admittedly; to be sure
+232,sagte,sagen,said (he/she)
+233,andere,ander,other; others
+234,macht,machen,makes; does (he/she)
+235,deutlich,deutlich,clear; clearly; by a margin
+236,wurden,werden,were; became (they)
+237,ihren,ihr,their; her (inflected)
+238,Ziel,Ziel,goal; target; finish line
+239,sehen,sehen,to see; they see
+240,ihrer,ihr,of their; of her
+241,einige,einige,some; a few
+242,große,groß,big; great
+243,gute,gut,good (inflected)
+244,Spieltag,Spieltag,matchday
+245,klar,klar,clear; clearly
+246,kurz,kurz,short; briefly
+247,rund,rund,around; about
+248,neben,neben,next to; besides
+249,kommen,kommen,to come; they come
+250,später,spät,later
+251,Runden,Runde,rounds; laps
+252,gehen,gehen,to go; they go
+253,lange,lange,long; for a long time
+254,wohl,wohl,probably; well
+255,großen,groß,big; great (inflected)
+256,diesen,dieser,this; these (inflected)
+257,News,News,news (English loan)
+258,wollen,wollen,to want; they want
+259,nichts,nichts,nothing
+260,geben,geben,to give; they give
+261,Führung,Führung,lead; leadership
+262,hätte,haben,would have (he/she/it)
+263,sogar,sogar,even
+264,top,top,top; excellent
+265,Fahrer,Fahrer,driver; rider
+266,lassen,lassen,to let; leave; they let
+267,unsere,unser,our
+268,schnell,schnell,fast; quickly
+269,Strecke,Strecke,course; route; distance
+270,Wochen,Woche,weeks
+271,Training,Training,training; practice
+272,zudem,zudem,in addition; also
+273,bleibt,bleiben,stays; remains (he/she/it)
+274,dies,dies,this
+275,Name,Name,name
+276,besonders,besonders,especially
+277,erneut,erneut,again; once more
+278,genau,genau,exactly
+279,Seite,Seite,side; page
+280,ebenfalls,ebenfalls,also; likewise
+281,zuletzt,zuletzt,most recently; lastly
+282,nächsten,nächster,next (inflected form)
+283,besser,gut,better
+284,hinter,hinter,behind
+285,statt,statt,instead of
+286,wirklich,wirklich,really; truly
+287,darauf,darauf,on it; after that
+288,Meter,Meter,metres; meter
+289,weiß,wissen,(I/he) know
+290,Stadion,Stadion,stadium
+291,trotz,trotz,despite
+292,besten,gut,best (inflected form)
+293,sechs,sechs,six
+294,nachdem,nachdem,after (conjunction)
+295,wenig,wenig,little; few
+296,vs,vs,versus; against
+297,Chance,Chance,chance; scoring opportunity
+298,Millionen,Million,millions
+299,Erfolg,Erfolg,success
+300,zunächst,zunächst,at first; initially
+301,finden,finden,to find; (they) find
+302,Gegner,Gegner,opponent
+303,direkt,direkt,directly; straight
+304,allen,alle,all (dative/plural)
+305,Gäste,Gast,guests; visiting team
+306,gewinnen,gewinnen,to win; (they) win
+307,liegt,liegen,(it) lies; is placed
+308,eigentlich,eigentlich,actually; really
+309,gleich,gleich,equal; right away
+310,Frauen,Frau,women
+311,insgesamt,insgesamt,in total; overall
+312,Niederlage,Niederlage,defeat
+313,Champions,Champion,champions (Champions League)
+314,konnten,können,could (they); were able to
+315,Ausgabe,Ausgabe,edition; issue
+316,Wochenende,Wochenende,weekend
+317,Tage,Tag,days
+318,sicher,sicher,certain; safe
+319,fast,fast,almost
+320,gewann,gewinnen,won (he/she/it)
+321,gemacht,machen,made; done
+322,Welt,Welt,world
+323,zweite,zweit,second
+324,sagt,sagen,says (he/she)
+325,Sekunden,Sekunde,seconds
+326,Halbzeit,Halbzeit,half-time; half
+327,kommenden,kommend,coming; upcoming
+328,davon,davon,of it; of them
+329,möchte,mögen,(I/he) would like
+330,Teil,Teil,part
+331,Zweck,Zweck,purpose
+332,Leistung,Leistung,performance
+333,weiteren,weiter,further (inflected form)
+334,Cup,Cup,cup (competition)
+335,weiterhin,weiterhin,still; continuing to
+336,unser,unser,our
+337,Zuschauer,Zuschauer,spectators; viewers
+338,vielen,viel,many (inflected form)
+339,möglich,möglich,possible
+340,Sommer,Sommer,summer
+341,unserer,unser,our (inflected form)
+342,knapp,knapp,narrow; close
+343,wegen,wegen,because of
+344,vielleicht,vielleicht,maybe; perhaps
+345,bietet,bieten,offers (he/she/it)
+346,meine,mein,my
+347,online,online,online
+348,letzte,letzt,last
+349,eigenen,eigen,own (inflected form)
+350,jeder,jeder,each; every one
+351,dritten,dritt,third (inflected form)
+352,sofort,sofort,immediately
+353,aktuellen,aktuell,current (inflected form)
+354,punkten,punkten,to score points
+355,kaum,kaum,hardly; barely
+356,km,km,kilometres
+357,keinen,kein,no; not any (inflected)
+358,nächste,nächst,next
+359,Informationen,Information,information
+360,dennoch,dennoch,nevertheless
+361,richtig,richtig,correct; right
+362,Vertrag,Vertrag,contract
+363,setzte,setzen,put; set (he/she)
+364,zehn,zehn,ten
+365,Kader,Kader,squad; team roster
+366,Wechsel,Wechsel,substitution; change
+367,weiterlesen,weiterlesen,continue reading
+368,aktuell,aktuell,current; latest
+369,gewonnen,gewinnen,won (past participle)
+370,Position,Position,position; ranking spot
+371,Download,Download,download
+372,Folge,Folge,episode; consequence
+373,Turnier,Turnier,tournament
+374,Borussia,Borussia,Borussia (club name)
+375,bleiben,bleiben,to stay; (they) remain
+376,ihrem,ihr,her; their (dative)
+377,Serie,Serie,series; streak
+378,Karriere,Karriere,career
+379,guten,gut,good (inflected)
+380,nie,nie,never
+381,Coach,Coach,coach
+382,zeigte,zeigen,showed (he/she/it)
+383,Entscheidung,Entscheidung,decision
+384,stark,stark,strong
+385,zuvor,zuvor,before; previously
+386,gilt,gelten,is valid; counts as (it)
+387,Daten,Daten,data
+388,gespielt,spielen,played (past participle)
+389,sieht,sehen,sees (he/she/it)
+390,Frage,Frage,question
+391,Fall,Fall,case; fall
+392,sieben,sieben,seven
+393,Rang,Rang,rank; place
+394,Freitag,Freitag,Friday
+395,aufgrund,aufgrund,because of
+396,findet,finden,finds; takes place (it)
+397,Ergebnis,Ergebnis,result; score
+398,machte,machen,made; did (he/she/it)
+399,mein,mein,my
+400,zeigt,zeigen,shows (he/she/it)
+401,aktuelle,aktuell,current (inflected)
+402,Laufzeit,Laufzeit,runtime; duration; contract term
+403,Form,Form,form; shape
+404,Einsatz,Einsatz,appearance; deployment; stake
+405,weniger,weniger,less; fewer
+406,gar,gar,at all; even
+407,laut,laut,according to
+408,blieb,bleiben,stayed; remained (he/she/it)
+409,zusammen,zusammen,together
+410,Beginn,Beginn,start; beginning
+411,acht,acht,eight
+412,per,per,by; via
+413,Auto,Auto,car
+414,eher,eher,rather; sooner
+415,spielt,spielen,plays (he/she/it)
+416,gewesen,sein,been (past participle)
+417,Rolle,Rolle,role
+418,denen,der,whom; which (dative plural)
+419,Etappe,Etappe,stage (of a race)
+420,jeden,jeder,each; every (accusative)
+421,welche,welche,which
+422,Blick,Blick,look; view
+423,oft,oft,often
+424,deshalb,deshalb,therefore
+425,Preis,Preis,price; prize
+426,ihnen,sie,them (dative); you (formal)
+427,ließ,lassen,let; left (he/she/it)
+428,danach,danach,afterwards
+429,schließlich,schließlich,finally; after all
+430,Eintracht,Eintracht,Eintracht (club name)
+431,darüber,darüber,about it; over it
+432,wollte,wollen,wanted (he/she/it)
+433,Chancen,Chance,chances
+434,paar,paar,few; couple (ein paar)
+435,Gruppe,Gruppe,group
+436,werde,werden,will (I); become (I)
+437,gemeinsam,gemeinsam,together; joint
+438,Interview,Interview,interview
+439,beste,gut,best (inflected)
+440,Treffer,Treffer,goal; hit
+441,Duell,Duell,duel; head-to-head
+442,Druck,Druck,pressure
+443,warum,warum,why
+444,Technik,Technik,technique; technology
+445,August,August,August
+446,laufen,laufen,to run; to walk
+447,dir,du,(to) you (informal)
+448,Pause,Pause,break; half-time
+449,Geschichte,Geschichte,history; story
+450,mehrere,mehrere,several
+451,Pokal,Pokal,cup; cup competition
+452,sowohl,sowohl,both (sowohl ... als auch)
+453,bieten,bieten,to offer; to provide (they)
+454,bekannt,bekannt,known; well-known
+455,Sieger,Sieger,winner
+456,Kilometer,Kilometer,kilometre(s)
+457,gegenüber,gegenüber,opposite; compared to; towards
+458,weit,weit,far; wide
+459,bislang,bislang,so far
+460,bisher,bisher,so far; until now
+461,dich,du,"you (accusative, informal)"
+462,vorne,vorne,in front; at the front
+463,aller,alle,of all; all (genitive)
+464,lässt,lassen,lets; leaves (he/she/it)
+465,daher,daher,therefore; hence
+466,erstmals,erstmals,for the first time
+467,wichtig,wichtig,important
+468,derzeit,derzeit,currently
+469,außerdem,außerdem,besides; in addition
+470,Ring,Ring,ring; circuit (racetrack)
+471,Stunden,Stunde,hours
+472,schwer,schwer,heavy; difficult; serious
+473,erhalten,erhalten,to receive; to keep
+474,zeigen,zeigen,to show (they)
+475,Schiedsrichter,Schiedsrichter,referee
+476,Zukunft,Zukunft,future
+477,Kampf,Kampf,fight; battle; bout
+478,Mannschaften,Mannschaft,teams
+479,bevor,bevor,before
+480,Elf,Elf,eleven; (football) eleven/team
+481,gerne,gerne,gladly; happy to
+482,Mittelfeld,Mittelfeld,midfield
+483,dürfte,dürfen,should probably; is likely to
+484,Meister,Meister,champion; master
+485,Lauf,Lauf,run; race; course
+486,Moment,Moment,moment
+487,spielte,spielen,played (he/she/it)
+488,Feld,Feld,field; pitch; field of riders
+489,anderem,andere,other (dative)
+490,erklärte,erklären,explained; said (he/she)
+491,verloren,verlieren,lost
+492,euch,ihr,"you (plural, informal)"
+493,Anzahl,Anzahl,number; quantity
+494,anders,anders,differently; otherwise
+495,leider,leider,unfortunately
+496,Situation,Situation,situation
+497,erzielte,erzielen,scored; achieved (he/she)
+498,dank,dank,thanks to
+499,anschließend,anschließend,afterwards; subsequently
+500,Anfang,Anfang,beginning; start
+,,,Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - sources and credits: https://apera.me/sources#reading-lists

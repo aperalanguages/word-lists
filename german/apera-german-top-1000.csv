@@ -1,0 +1,1002 @@
+rank,word,lemma,meaning
+1,ich,ich,I
+2,sie,sie,she/they
+3,das,das,the/that
+4,ist,sein,is
+5,du,du,you
+6,nicht,nicht,not
+7,die,die,the
+8,es,es,it
+9,und,und,and
+10,der,der,the
+11,wir,wir,we
+12,was,was,what
+13,zu,zu,to
+14,er,er,he
+15,ein,ein,a/an
+16,in,in,in
+17,ja,ja,yes
+18,mir,ich,to me/me
+19,mit,mit,with
+20,wie,wie,how/as
+21,den,der,the
+22,mich,ich,me
+23,auf,auf,on/up
+24,dass,dass,that
+25,aber,aber,but
+26,eine,ein,a/an
+27,so,so,so
+28,hat,haben,has
+29,hier,hier,here
+30,haben,haben,to have
+31,für,für,for
+32,sind,sein,are
+33,war,sein,was
+34,von,von,from/of
+35,wenn,wenn,if/when
+36,dich,du,you
+37,ihr,ihr,you all/her
+38,nein,nein,no
+39,habe,haben,have
+40,an,an,at/on
+41,bin,sein,am
+42,noch,noch,still/yet
+43,nur,nur,only
+44,da,da,there/since
+45,dir,du,to you/you
+46,sich,sich,oneself
+47,einen,ein,a/an
+48,uns,wir,us
+49,hast,haben,have
+50,dem,der,the
+51,kann,können,can
+52,gut,gut,good
+53,auch,auch,also
+54,schon,schon,already
+55,als,als,than/when
+56,sein,sein,to be/his
+57,mal,mal,once/times
+58,jetzt,jetzt,now
+59,ihn,er,him
+60,dann,dann,then
+61,aus,aus,out/from
+62,meine,mein,my
+63,um,um,around/in order to
+64,im,in,in the
+65,wird,werden,becomes/will
+66,mein,mein,my
+67,bist,sein,are
+68,doch,doch,but/yet
+69,alles,all,everything
+70,weiß,wissen,know/white
+71,keine,kein,no/none
+72,oder,oder,or
+73,nach,nach,after/to
+74,nichts,nichts,nothing
+75,man,man,one/you
+76,muss,müssen,must
+77,werden,werden,to become
+78,will,wollen,want(s)
+79,ihnen,sie,to them
+80,geht,gehen,goes
+81,wo,wo,where
+82,etwas,etwas,something
+83,oh,oh,oh
+84,mehr,mehr,more
+85,bei,bei,at/near
+86,also,also,so/therefore
+87,bitte,bitte,please
+88,immer,immer,always
+89,hab,haben,have
+90,warum,warum,why
+91,vor,vor,before/in front of
+92,los,los,go!/loose
+93,können,können,to be able to
+94,wieder,wieder,again
+95,sagen,sagen,to say
+96,machen,machen,to do/make
+97,danke,danke,thanks
+98,sehr,sehr,very
+99,alle,all,all
+100,denn,denn,because/then
+101,Mann,Mann,man
+102,tun,tun,to do
+103,ihm,er,to him
+104,zum,zu,to the
+105,gehen,gehen,to go
+106,sehen,sehen,to see
+107,vielleicht,vielleicht,perhaps
+108,einem,ein,a/an
+109,wer,wer,who
+110,ihre,ihr,her/their
+111,diese,dieser,this/these
+112,euch,ihr,you all
+113,einer,ein,one/a
+114,komm,kommen,come!
+115,über,über,over/about
+116,gibt,geben,gives/there is
+117,okay,okay,okay
+118,wissen,wissen,to know
+119,deine,dein,your
+120,müssen,müssen,to have to
+121,soll,sollen,should
+122,werde,werden,will/become
+123,nie,nie,never
+124,wirklich,wirklich,really
+125,hey,hey,hey
+126,kein,kein,no/none
+127,viel,viel,much/a lot
+128,weg,Weg,away
+129,würde,werden,would
+130,tut,tun,does
+131,am,an,at the
+132,des,der,of the
+133,einfach,einfach,simple/simply
+134,leben,leben,to live
+135,hatte,haben,had
+136,Zeit,Zeit,time
+137,weil,weil,because
+138,willst,wollen,want
+139,kommen,kommen,to come
+140,dein,dein,your
+141,heute,heute,today
+142,kommt,kommen,comes
+143,wollen,wollen,to want
+144,damit,damit,with that/so that
+145,ganz,ganz,whole/quite
+146,wäre,sein,would be
+147,wollte,wollen,wanted
+148,weißt,wissen,know
+149,ok,ok,ok
+150,sicher,sicher,sure/safe
+151,gesagt,sagen,said
+152,Frau,Frau,woman
+153,nun,nun,now/well
+154,bis,bis,until
+155,wurde,werden,was
+156,Leid,Leid,sorrow
+157,na,na,well/so
+158,kannst,können,can
+159,macht,machen,makes/does
+160,dieser,dieser,this
+161,zurück,zurück,back
+162,lassen,lassen,to let/allow
+163,hallo,hallo,hello
+164,meinen,mein,my/to mean
+165,Gott,Gott,god
+166,seine,sein,his
+167,hätte,haben,would have
+168,zwei,zwei,two
+169,könnte,können,could
+170,genau,genau,exactly
+171,waren,sein,were
+172,zur,zu,to the
+173,lass,lassen,let
+174,klar,klar,clear/sure
+175,morgen,Morgen,tomorrow/morning
+176,Leute,Leute,people
+177,Vater,Vater,father
+178,schön,schön,beautiful/nice
+179,glaube,glauben,believe
+180,ab,ab,off/from
+181,gerade,gerade,just now/straight
+182,Tag,Tag,day
+183,gesehen,sehen,seen
+184,reden,reden,to talk
+185,wohl,wohl,probably
+186,liebe,lieben,love
+187,sollte,sollen,should
+188,sagte,sagen,said
+189,unsere,unser,our
+190,jemand,jemand,someone
+191,Geld,Geld,money
+192,durch,durch,through
+193,ob,ob,whether/if
+194,keinen,kein,no/none
+195,Mutter,Mutter,mother
+196,raus,raus,out
+197,gemacht,machen,done/made
+198,paar,paar,a few/pair
+199,mach,machen,do!/make!
+200,passiert,passieren,happens/happened
+201,dachte,denken,thought
+202,besser,besser,better
+203,musst,müssen,must
+204,wieso,wieso,why
+205,sir,sir,sir
+206,dieses,dieser,this
+207,selbst,selbst,self/even
+208,gehört,hören,heard/belongs
+209,möchte,mögen,would like
+210,ohne,ohne,without
+211,hör,hören,listen!
+212,her,her,here/hither
+213,sag,sagen,say!
+214,meiner,mein,my
+215,anderen,ander,other
+216,helfen,helfen,to help
+217,Nacht,Nacht,night
+218,finden,finden,to find
+219,diesen,dieser,this
+220,gute,gut,good
+221,wirst,werden,will
+222,lange,lang,long
+223,natürlich,natürlich,naturally/of course
+224,ach,ach,ah
+225,meinem,mein,my
+226,gar,gar,even/at all
+227,ins,in,into the
+228,sei,sein,be
+229,dort,dort,there
+230,weiter,weiter,further/continue
+231,geben,geben,to give
+232,seit,seit,since
+233,gleich,gleich,equal/right away
+234,sagt,sagen,says
+235,recht,recht,right/quite
+236,ihren,ihr,her/their
+237,richtig,richtig,correct/right
+238,Ordnung,Ordnung,order
+239,vom,von,from the
+240,hören,hören,to hear
+241,sieht,sehen,sees
+242,davon,davon,of it/from that
+243,dafür,dafür,for that
+244,geh,gehen,go!
+245,diesem,dieser,this
+246,wegen,wegen,because of
+247,Hause,Haus,home
+248,sollten,sollen,should
+249,Mädchen,Mädchen,girl
+250,hin,hin,there/toward
+251,sollen,sollen,to be supposed to
+252,Abend,Abend,evening
+253,Haus,Haus,house
+254,denke,denken,think
+255,viele,viel,many
+256,drei,drei,three
+257,deinen,dein,your
+258,Freund,Freund,friend
+259,guten,gut,good
+260,unser,unser,our
+261,warte,warten,wait
+262,machst,machen,do/make
+263,Menschen,Mensch,people
+264,essen,essen,to eat
+265,Angst,Angst,fear
+266,bleiben,bleiben,to stay
+267,zusammen,zusammen,together
+268,Welt,Welt,world
+269,unter,unter,under/among
+270,habt,haben,have
+271,schnell,schnell,fast/quick
+272,andere,ander,other
+273,tot,tot,dead
+274,getan,tun,done
+275,darf,dürfen,may/is allowed to
+276,erst,erst,only/first
+277,rein,rein,in/pure
+278,stimmt,stimmen,is right/matches
+279,nehmen,nehmen,to take
+280,Kinder,Kind,children
+281,eines,ein,of a/one
+282,glauben,glauben,to believe
+283,bringen,bringen,to bring
+284,ganze,ganz,whole
+285,genug,genug,enough
+286,scheiße,scheiße,shit
+287,brauchen,brauchen,to need
+288,gegen,gegen,against
+289,Moment,Moment,moment
+290,Junge,Junge,boy/young
+291,steht,stehen,stands
+292,sonst,sonst,otherwise
+293,Musik,Musik,music
+294,Arbeit,Arbeit,work
+295,seid,sein,are
+296,ihrer,ihr,her/their
+297,fragen,fragen,to ask
+298,Herr,Herr,Mr./lord
+299,dabei,dabei,thereby
+300,heißt,heißen,is called
+301,Familie,Familie,family
+302,warten,warten,to wait
+303,niemand,niemand,nobody
+304,sofort,sofort,immediately
+305,bevor,bevor,before
+306,Jahre,Jahr,years
+307,einmal,einmal,once
+308,Problem,Problem,problem
+309,Sohn,Sohn,son
+310,wann,wann,when
+311,brauche,brauchen,need
+312,fertig,fertig,ready/finished
+313,halt,halt,just/stop!
+314,allein,allein,alone
+315,beim,bei,at the
+316,sprechen,sprechen,to speak
+317,beide,beide,both
+318,gefunden,finden,found
+319,hatten,haben,had
+320,Sache,Sache,thing/matter
+321,Hilfe,Hilfe,help
+322,verdammt,verdammt,damn
+323,ne,ne,no/right
+324,jeder,jeder,everyone/every
+325,warst,sein,were
+326,gern,gern,gladly
+327,konnte,können,could
+328,darüber,darüber,about that/over that
+329,halten,halten,to hold/stop
+330,siehst,sehen,see
+331,verstehe,verstehen,understand
+332,Jahren,Jahr,years
+333,kam,kommen,came
+334,Kind,Kind,child
+335,wusste,wissen,knew
+336,wahr,wahr,true
+337,seinen,sein,his
+338,dazu,dazu,to that/for that
+339,Bruder,Bruder,brother
+340,daran,daran,on that/about that
+341,ihrem,ihr,her/their
+342,denken,denken,to think
+343,könnten,können,could
+344,Dank,Dank,thanks
+345,würden,werden,would
+346,lieber,lieber,rather
+347,Fall,Fall,case
+348,deiner,dein,your
+349,sehe,sehen,see
+350,egal,egal,doesn't matter
+351,kennen,kennen,to know (someone)
+352,deinem,dein,your
+353,vergessen,vergessen,to forget
+354,Frage,Frage,question/ask
+355,mache,machen,do/make
+356,komme,kommen,come
+357,sage,sagen,say
+358,mag,mögen,like(s)
+359,sieh,sehen,see!
+360,echt,echt,real/really
+361,gib,geben,give!
+362,eigentlich,eigentlich,actually
+363,jeden,jeder,every
+365,gab,geben,gave
+366,Uhr,Uhr,clock/o'clock
+367,Stadt,Stadt,city
+368,Männer,Mann,men
+369,Baby,Baby,baby
+370,fahren,fahren,to drive
+371,Namen,Name,name
+372,bekommen,bekommen,to receive
+373,Kopf,Kopf,head
+374,hi,hi,hi
+375,gehe,gehen,go
+376,kleine,klein,small
+377,später,später,later
+378,Glück,Glück,luck/happiness
+379,letzte,letzt,last
+380,Freunde,Freund,friends
+381,all,all,all
+382,darauf,darauf,on that/thereupon
+383,Ende,Ende,end
+384,bald,bald,soon
+385,töten,töten,to kill
+386,Dinge,Ding,things
+387,meinst,meinen,think/mean
+388,toll,toll,great/cool
+389,eins,eins,one
+390,Minuten,Minute,minutes
+391,vielen,viel,many
+392,bereit,bereit,ready
+393,weit,weit,far/wide
+394,Ahnung,Ahnung,idea/clue
+395,seiner,sein,his
+396,bisschen,bisschen,a little bit
+397,Tür,Tür,door
+398,Auto,Auto,car
+399,Jungs,Junge,guys/boys
+400,eure,euer,your
+401,Augen,Auge,eyes
+402,Polizei,Polizei,police
+403,stehen,stehen,to stand
+404,sterben,sterben,to die
+405,hätten,haben,would have
+406,draußen,draußen,outside
+407,kenne,kennen,know
+408,fast,fast,almost
+409,runter,runter,down
+410,vorbei,vorbei,past/over
+411,treffen,treffen,to meet
+412,gerne,gern,gladly
+413,dran,dran,at it/on it
+414,wurden,werden,were
+415,arbeiten,arbeiten,to work
+417,verrückt,verrückt,crazy
+418,neue,neu,new
+419,ging,gehen,went
+420,hinter,hinter,behind
+421,sorgen,sorgen,to worry/worries
+422,einzige,einzig,only/sole
+423,jemanden,jemand,someone
+424,darum,darum,therefore/around that
+425,Tochter,Tochter,daughter
+426,braucht,brauchen,needs
+427,Idee,Idee,idea
+428,Schwester,Schwester,sister
+429,drin,drin,inside
+430,ruhig,ruhig,calm/quiet
+431,sah,sehen,saw
+432,ganzen,ganz,whole
+433,spät,spät,late
+434,ziemlich,ziemlich,quite
+435,solltest,sollen,should
+436,Name,Name,name
+437,sogar,sogar,even
+438,kurz,kurz,short/brief
+439,Kerl,Kerl,guy/fellow
+440,Frauen,Frau,women
+441,liegt,liegen,lies
+442,suchen,suchen,to search
+443,finde,finden,find
+444,je,je,ever/each
+445,woher,woher,where from
+446,lang,lang,long
+447,Job,Job,job
+448,keiner,kein,no one
+449,seinem,sein,his
+450,hört,hören,hears
+451,verstehen,verstehen,to understand
+452,spielen,spielen,to play
+453,überhaupt,überhaupt,at all/anyway
+454,Teufel,Teufel,devil
+455,verstanden,verstehen,understood
+456,verloren,verlieren,lost
+457,große,groß,big
+458,Hand,Hand,hand
+459,Grund,Grund,reason/ground
+460,Jahr,Jahr,year
+461,kommst,kommen,come
+462,Mama,Mama,mom
+463,Ruhe,Ruhe,peace/quiet
+464,gewesen,sein,been
+465,Tod,Tod,death
+466,Stunden,Stunde,hours
+467,hoffe,hoffen,hope
+468,denkst,denken,think
+469,oben,oben,above/upstairs
+470,gestern,gestern,yesterday
+471,versuchen,versuchen,to try
+472,Art,Art,kind/type
+473,letzten,letzt,last
+474,Schatz,Schatz,treasure/darling
+475,endlich,endlich,finally
+476,he,he,hey
+477,nimm,nehmen,take!
+478,etwa,etwa,approximately/perhaps
+479,erzählt,erzählen,tells/told
+480,läuft,laufen,runs
+481,schwer,schwer,heavy/difficult
+482,anders,anders,differently
+483,miss,miss,miss
+484,musste,müssen,had to
+485,fünf,fünf,five
+486,Wasser,Wasser,water
+487,lässt,lassen,lets
+488,erste,erst,first
+489,versucht,versuchen,tries/tried
+490,gekommen,kommen,come
+491,Geschichte,Geschichte,story/history
+492,wenig,wenig,little/few
+493,holen,holen,to fetch
+494,bedeutet,bedeuten,means
+495,nett,nett,nice
+496,Wahrheit,Wahrheit,truth
+497,Woche,Woche,week
+498,bringt,bringen,brings
+499,deshalb,deshalb,therefore
+500,welche,welcher,which
+501,bestimmt,bestimmt,certainly
+502,hoch,hoch,high
+503,Alter,Alter,age/dude
+504,sagst,sagen,say
+505,schau,schauen,look!
+506,ah,ah,ah
+507,Land,Land,land/country
+508,Zimmer,Zimmer,room
+509,wagen,wagen,car/wagon
+510,vier,vier,four
+511,gefallen,gefallen,pleased/fallen
+512,Spaß,Spaß,fun
+513,niemals,niemals,never
+514,Schuld,Schuld,guilt/fault
+515,getötet,töten,killed
+516,wollten,wollen,wanted
+517,verlassen,verlassen,to leave
+518,zeigen,zeigen,to show
+519,beste,best,best
+520,ernst,ernst,serious
+521,unserer,unser,our
+522,denen,der,those/to whom
+523,Ort,Ort,place
+524,bleibt,bleiben,stays
+525,würdest,werden,would
+526,manchmal,manchmal,sometimes
+527,glaubst,glauben,believe
+528,Seite,Seite,side/page
+529,lasst,lassen,let
+530,zwischen,zwischen,between
+531,eben,eben,just/precisely
+532,während,während,during/while
+533,Spiel,Spiel,game
+534,nehme,nehmen,take
+535,ersten,erst,first
+536,guter,gut,good
+537,Chance,Chance,chance
+538,Freundin,Freundin,girlfriend
+539,Krieg,Krieg,war
+540,gefällt,gefallen,pleases
+541,kleinen,klein,small
+542,erzählen,erzählen,to tell
+543,anderes,ander,other
+544,Tage,Tag,days
+545,entschuldigen,entschuldigen,to excuse
+546,wichtig,wichtig,important
+547,gehst,gehen,go
+548,allen,all,all
+549,Bett,Bett,bed
+550,Sachen,Sache,things
+551,schlecht,schlecht,bad
+552,Schule,Schule,school
+553,Entschuldigung,Entschuldigung,sorry/excuse me
+554,Wort,Wort,word
+555,hättest,haben,would have
+556,wären,sein,would be
+557,Typ,Typ,guy/type
+558,schlafen,schlafen,to sleep
+559,äh,äh,uh
+560,tu,tun,do
+561,euer,euer,your
+563,Gesicht,Gesicht,face
+564,falls,falls,in case/if
+565,neuen,neu,new
+566,bloß,bloß,just/merely
+567,unten,unten,below
+568,Teil,Teil,part
+569,beiden,beide,both
+570,Mensch,Mensch,human/person
+571,kleiner,klein,smaller/small
+572,stellen,stellen,to place/put
+573,oft,oft,often
+574,Sorge,Sorge,worry
+575,gedacht,denken,thought
+576,tust,tun,do
+577,trinken,trinken,to drink
+578,einige,einige,some/several
+579,dies,dieser,this
+580,Ding,Ding,thing
+581,unseren,unser,our
+582,kriegen,kriegen,to get
+583,Blut,Blut,blood
+584,ehrlich,ehrlich,honest
+585,Eltern,Eltern,parents
+586,scheint,scheinen,seems/shines
+587,Herz,Herz,heart
+588,glücklich,glücklich,happy
+589,alte,alt,old
+590,alt,alt,old
+591,bleib,bleiben,stay!
+592,wiedersehen,wiedersehen,goodbye
+593,frei,frei,free
+594,wen,wer,whom
+595,drauf,drauf,on it
+596,möglich,möglich,possible
+597,irgendwie,irgendwie,somehow
+598,reicht,reichen,is enough
+599,fest,fest,firm/solid
+600,besten,best,best
+601,Waffe,Waffe,weapon
+602,kaum,kaum,hardly
+603,irgendwas,irgendwas,something
+604,klingt,klingen,sounds
+605,Platz,Platz,place/square
+606,brauchst,brauchen,need
+607,rede,reden,talk
+608,Papa,Papa,dad
+609,falsch,falsch,wrong/false
+610,sondern,sondern,but rather
+611,alten,alt,old
+612,Nummer,Nummer,number
+613,früher,früher,earlier/formerly
+614,Jungen,Junge,boys
+615,wohin,wohin,where to
+616,außer,außer,except
+617,früh,früh,early
+618,setzen,setzen,to sit/set
+619,zuerst,zuerst,first of all
+620,wahrscheinlich,wahrscheinlich,probably
+621,dürfen,dürfen,to be allowed to
+622,jede,jeder,every
+623,Arsch,Arsch,ass
+624,Telefon,Telefon,telephone
+625,tue,tun,do
+626,kennst,kennen,know
+627,willkommen,willkommen,welcome
+628,Plan,Plan,plan
+629,großen,groß,big
+630,retten,retten,to save/rescue
+631,hierher,hierher,(to) here
+632,wär,sein,would be
+633,bring,bringen,bring!
+634,Fehler,Fehler,mistake/error
+635,wollt,wollen,want
+636,Dollar,Dollar,dollar
+637,zehn,zehn,ten
+638,allem,all,all
+639,Pass,Pass,passport/watch out!
+640,nächste,nächst,next
+641,Stunde,Stunde,hour
+642,Hände,Hand,hands
+643,gegeben,geben,given
+644,Menge,Menge,amount/crowd
+645,langsam,langsam,slow(ly)
+646,bereits,bereits,already
+647,wartet,warten,waits
+648,sechs,sechs,six
+649,lieben,lieben,to love
+650,meines,mein,my
+651,Büro,Büro,office
+652,nächsten,nächst,next
+653,gebe,geben,give
+654,Wochen,Woche,weeks
+655,ruf,rufen,call!
+656,schaffen,schaffen,to manage/create
+657,leider,leider,unfortunately
+658,scheiß,scheiße,shitty
+659,Hölle,Hölle,hell
+660,trotzdem,trotzdem,nevertheless
+661,Doktor,Doktor,doctor
+662,tja,tja,well
+663,voll,voll,full
+664,Film,Film,film
+665,überall,überall,everywhere
+666,Hund,Hund,dog
+667,geworden,werden,become
+668,direkt,direkt,direct(ly)
+669,wolltest,wollen,wanted
+670,tat,tun,did/deed
+671,denkt,denken,thinks
+672,Schiff,Schiff,ship
+673,neues,neu,new
+674,wem,wer,to whom
+675,König,König,king
+676,danach,danach,after that
+677,funktioniert,funktionieren,works/functions
+678,hattest,haben,had
+679,lernen,lernen,to learn
+680,deswegen,deswegen,therefore
+681,wow,wow,wow
+682,nennen,nennen,to name/call
+683,hm,hm,hm
+684,Feuer,Feuer,fire
+685,laufen,laufen,to run/walk
+686,alleine,allein,alone
+687,erinnern,erinnern,to remember
+688,völlig,völlig,completely
+689,kleines,klein,small
+690,könnt,können,can
+691,stelle,stellen,place/put
+692,Kumpel,Kumpel,buddy/pal
+693,verlieren,verlieren,to lose
+694,Probleme,Problem,problems
+695,spricht,sprechen,speaks
+696,Kaffee,Kaffee,coffee
+697,Luft,Luft,air
+698,fand,finden,found
+699,entschuldige,entschuldigen,excuse
+700,ziehen,ziehen,to pull/move
+701,verschwinden,verschwinden,to disappear
+702,könntest,können,could
+703,seht,sehen,see
+704,aufhören,aufhören,to stop
+705,eigenen,eigen,own
+706,richtige,richtig,correct/right
+707,unserem,unser,our
+708,suche,suchen,search
+709,zwar,zwar,indeed/admittedly
+710,groß,groß,big/tall
+711,hol,holen,fetch!
+712,Buch,Buch,book
+713,krank,krank,sick/ill
+714,fühle,fühlen,feel
+715,jedes,jeder,every
+716,verstehst,verstehen,understand
+717,Wert,Wert,worth/value
+718,Arzt,Arzt,doctor
+719,froh,froh,glad
+720,versuche,versuchen,try
+721,Straße,Straße,street
+722,rufen,rufen,to call
+723,heiraten,heiraten,to marry
+724,super,super,super/great
+725,lebt,leben,lives
+726,gutes,gut,good
+727,lasse,lassen,let
+728,Onkel,Onkel,uncle
+729,total,total,totally
+730,gebracht,bringen,brought
+731,Party,Party,party
+732,erklären,erklären,to explain
+733,spielt,spielen,plays
+734,Wahl,Wahl,choice/election
+735,vertrauen,vertrauen,to trust
+736,damals,damals,back then
+737,Tagen,Tag,days
+738,leicht,leicht,easy/light
+739,nachdem,nachdem,after
+740,gegangen,gehen,gone
+741,Gefühl,Gefühl,feeling
+742,kaufen,kaufen,to buy
+743,geschafft,schaffen,managed
+744,Typen,Typ,guys/types
+745,interessiert,interessieren,interested/interests
+746,möchten,mögen,would like
+747,halte,halten,hold
+748,hält,halten,holds
+749,glaub,glauben,believe
+750,irgendwo,irgendwo,somewhere
+751,Stück,Stück,piece
+752,genauso,genauso,just as/exactly
+753,kennt,kennen,knows
+754,genommen,nehmen,taken
+755,Zukunft,Zukunft,future
+756,weniger,wenig,less/fewer
+757,cool,cool,cool
+758,Licht,Licht,light
+759,getroffen,treffen,met/hit
+760,Himmel,Himmel,sky/heaven
+761,Nachricht,Nachricht,message/news
+762,drüben,drüben,over there
+763,passt,passen,fits
+764,sagten,sagen,said
+765,kümmern,kümmern,to care for
+766,laut,laut,loud/according to
+767,vergiss,vergessen,forget!
+768,angerufen,anrufen,called
+769,sitzen,sitzen,to sit
+770,Erde,Erde,earth
+771,großer,groß,big
+772,Schlüssel,Schlüssel,key
+773,Rest,Rest,rest/remainder
+774,passieren,passieren,to happen
+775,eher,eher,rather/sooner
+776,gefragt,fragen,asked
+777,Gefängnis,Gefängnis,prison
+778,Opfer,Opfer,victim/sacrifice
+779,Körper,Körper,body
+780,solche,solcher,such
+781,Mist,Mist,rubbish
+782,mr,mr,Mr.
+783,findet,finden,finds
+784,schreiben,schreiben,to write
+785,böse,böse,evil/angry
+786,gesprochen,sprechen,spoken
+787,versuch,versuchen,try!/attempt
+788,vorstellen,vorstellen,to introduce/imagine
+789,wovon,wovon,of what
+790,sobald,sobald,as soon as
+791,nochmal,nochmal,once more
+792,Herren,Herr,gentlemen
+793,Sex,Sex,sex
+794,Waffen,Waffe,weapons
+795,Wohnung,Wohnung,apartment
+796,weh,weh,hurt/pain
+797,heißen,heißen,to be called
+798,Krankenhaus,Krankenhaus,hospital
+799,bringe,bringen,bring
+800,höre,hören,hear
+801,Millionen,Million,millions
+802,Klasse,Klasse,class/great
+803,hart,hart,hard
+804,worden,werden,been (auxiliary)
+805,Sinn,Sinn,sense/meaning
+806,außerdem,außerdem,besides/moreover
+807,verletzt,verletzen,injured
+808,ändern,ändern,to change
+809,erfahren,erfahren,to learn/experience
+810,tragen,tragen,to carry/wear
+811,wenigstens,wenigstens,at least
+812,vorsichtig,vorsichtig,careful
+814,stolz,stolz,proud
+815,stark,stark,strong
+816,fällt,fallen,falls
+817,möchtest,mögen,would like
+818,Leuten,Leute,people
+819,besonders,besonders,especially
+820,schöne,schön,beautiful
+821,schicken,schicken,to send
+822,Person,Person,person
+823,Schätze,Schatz,treasures/estimate
+824,solange,solange,as long as
+825,länger,lang,longer
+826,großartig,großartig,great/wonderful
+827,lacht,lachen,laughs
+828,anrufen,anrufen,to call (phone)
+829,stand,stehen,stood
+830,redest,reden,talk
+831,fühlen,fühlen,to feel
+832,erwartet,erwarten,expects/expected
+833,Boden,Boden,floor/ground
+834,Boss,Boss,boss
+835,Stimme,Stimme,voice/agree
+836,glaubt,glauben,believes
+837,still,still,quiet/silent
+838,Sicherheit,Sicherheit,safety/security
+839,setz,setzen,sit!
+840,ma,ma,mom
+841,Mund,Mund,mouth
+842,kämpfen,kämpfen,to fight
+843,wisst,wissen,know
+844,lachen,lachen,to laugh
+845,hörst,hören,hear
+846,Zeug,Zeug,stuff
+847,lustig,lustig,funny
+848,umbringen,umbringen,to kill
+849,sollst,sollen,should
+850,hasse,hassen,hate
+851,schlimm,schlimm,bad/serious
+852,unglaublich,unglaublich,unbelievable
+853,wärst,sein,would be
+854,laden,laden,to load/shop
+855,führen,führen,to lead
+856,gestorben,sterben,died
+857,schauen,schauen,to look
+858,Meinung,Meinung,opinion
+859,lesen,lesen,to read
+860,Mörder,Mörder,murderer
+861,ähm,ähm,uhm
+862,geschehen,geschehen,to happen
+863,Geschäft,Geschäft,business/shop
+864,Idiot,Idiot,idiot
+865,Verzeihung,Verzeihung,pardon/sorry
+866,fliegen,fliegen,to fly
+867,zeig,zeigen,show!
+868,Team,Team,team
+869,General,General,general
+870,aufs,auf,onto the
+871,vorher,vorher,beforehand
+872,Schluss,Schluss,end/conclusion
+873,schneller,schnell,faster
+874,liebt,lieben,loves
+875,verdient,verdienen,earns/deserves
+876,mögen,mögen,to like
+877,meisten,meist,most
+878,denk,denken,think!
+879,umgebracht,umbringen,killed
+880,perfekt,perfekt,perfect
+881,versprochen,versprechen,promised
+882,Handy,Handy,mobile phone
+883,hinten,hinten,at the back
+884,Monate,Monat,months
+885,erinnere,erinnern,remember
+886,acht,acht,eight
+887,arbeitet,arbeiten,works
+888,fallen,fallen,to fall
+889,rufe,rufen,call
+890,nötig,nötig,necessary
+891,Mord,Mord,murder
+892,heraus,heraus,out (of something)
+893,Tages,Tag,day's
+894,unmöglich,unmöglich,impossible
+895,Liebling,Liebling,darling/favorite
+896,tatsächlich,tatsächlich,actually/indeed
+897,folgen,folgen,to follow
+898,bitten,bitten,to ask/request
+899,behalten,behalten,to keep
+900,Nähe,Nähe,vicinity
+901,arbeite,arbeiten,work
+902,verdammte,verdammt,damned
+903,plötzlich,plötzlich,suddenly
+904,Lebens,leben,life's
+905,hole,holen,fetch
+906,Tisch,Tisch,table
+907,hörte,hören,heard
+908,jemals,jemals,ever
+909,liegen,liegen,to lie (be located)
+910,verkaufen,verkaufen,to sell
+911,gefährlich,gefährlich,dangerous
+912,anfangen,anfangen,to begin
+913,bekommt,bekommen,gets/receives
+914,machte,machen,made/did
+915,ha,ha,ha
+916,Hotel,Hotel,hotel
+917,hilft,helfen,helps
+918,werdet,werden,will (future)
+919,Meister,Meister,master
+920,Kampf,Kampf,fight/battle
+921,Antwort,Antwort,answer
+922,konnten,können,could
+923,geschickt,schicken,sent/skillful
+924,jedem,jeder,every
+925,obwohl,obwohl,although
+926,sieben,sieben,seven
+927,komisch,komisch,strange/funny
+928,gewinnen,gewinnen,to win
+929,ihres,ihr,her/their
+930,bezahlt,bezahlen,paid
+931,voller,voll,full of
+932,unterwegs,unterwegs,on the way
+933,dumm,dumm,dumb/stupid
+934,Ärger,Ärger,anger/trouble
+935,Bild,Bild,picture
+936,neu,neu,new
+937,bezahlen,bezahlen,to pay
+938,dagegen,dagegen,against it
+939,seien,sein,be
+940,starb,sterben,died
+941,Monaten,Monat,months
+942,Leiche,Leiche,corpse
+943,niemanden,niemand,nobody
+944,Auge,Auge,eye
+945,Arschloch,Arschloch,asshole
+946,verheiratet,verheiraten,married
+947,zieh,ziehen,pull!
+948,nimmt,nehmen,takes
+949,gerettet,retten,saved
+950,Agent,Agent,agent
+951,Traum,Traum,dream
+952,Entscheidung,Entscheidung,decision
+953,schlimmer,schlimm,worse
+954,Regeln,Regel,rules/to regulate
+955,Fenster,Fenster,window
+956,fangen,fangen,to catch
+957,fort,fort,away/gone
+958,ständig,ständig,constantly
+959,findest,finden,find
+960,Gefahr,Gefahr,danger
+961,absolut,absolut,absolutely
+962,Augenblick,Augenblick,moment
+963,Bescheid,Bescheid,notice/info
+964,Rum,Rum,around/rum
+965,Gedanken,Gedanke,thoughts
+966,werd,werden,will
+967,Ziel,Ziel,goal/target
+968,benutzt,benutzen,uses/used
+969,Bewegung,Bewegung,movement
+970,jemandem,jemand,someone
+971,wünschte,wünschen,wished
+972,Worte,Wort,words
+973,kamen,kommen,came
+974,welcher,welcher,which
+975,zahlen,zahlen,to pay/numbers
+976,Anfang,Anfang,beginning
+977,legen,legen,to lay/put
+978,erinnerst,erinnern,remember
+979,Anwalt,Anwalt,lawyer
+980,fahr,fahren,drive!
+981,sitzt,sitzen,sits
+982,hilf,helfen,help!
+983,offen,offen,open
+984,schönen,schön,beautiful
+985,monsieur,monsieur,sir/Mr
+986,müsste,müssen,would have to
+987,arme,arm,arms/poor
+988,Bier,Bier,beer
+989,fürs,für,for the
+990,Partner,Partner,partner
+991,klein,klein,small
+992,Klappe,Klappe,trap/flap
+993,süß,süß,sweet/cute
+994,herum,herum,around
+995,Finger,Finger,finger
+996,Ehe,Ehe,marriage/before
+997,Rolle,Rolle,role
+998,ließ,lassen,let
+999,gleiche,gleich,same
+1000,Monat,Monat,month
+1001,Hochzeit,Hochzeit,wedding
+1002,führt,führen,leads
+1003,wach,wach,awake
+1004,wozu,wozu,what for
+,,,Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - sources and credits: https://apera.me/sources#word-list-sources

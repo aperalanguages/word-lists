@@ -1,0 +1,502 @@
+rank,word,lemma,meaning
+1,di,di,of; from
+2,e,e,and
+3,il,il,the (masc. sing.)
+4,la,la,the (fem. sing.)
+5,che,che,that; which; who
+6,in,in,in; into
+7,per,per,for; in order to
+8,a,a,to; at; in
+9,un,un,a; an; one (masc.)
+10,è,essere,is (he/she/it)
+11,i,il,the (masc. plural)
+12,con,con,with
+13,del,del,of the; some (masc.)
+14,le,la,the (fem. plural)
+15,una,un,a; an; one (fem.)
+16,da,da,from; by; since
+17,non,non,not
+18,si,si,oneself; one (reflexive/impersonal)
+19,della,di,of the; some (fem.)
+20,al,a,to the; at the (masc.)
+21,più,più,more; most
+22,dei,di,of the (masc. plural)
+23,ha,avere,has (he/she/it)
+24,come,come,as; like; how
+25,anche,anche,also; too; even
+26,sono,essere,am; are (they)
+27,nel,in,in the (masc.)
+28,delle,di,of the (fem. plural)
+29,su,su,on; about; up
+30,o,o,or
+31,ma,ma,but
+32,gli,il,the (masc. pl. before vowel/s+cons.)
+33,alla,a,to the; at the (fem.)
+34,questo,questo,this; this one
+35,se,se,if
+36,ad,a,to; at (before vowel)
+37,sul,su,on the (masc.)
+38,lo,il,the (masc. before s+cons.)
+39,dal,da,from the; by the (masc.)
+40,essere,essere,to be
+41,ai,a,to the (masc. plural)
+42,cui,cui,whom; which (after preposition)
+43,nella,in,in the (fem.)
+44,tra,tra,between; among; within
+45,tutti,tutto,all; everyone
+46,degli,di,of the (masc. plural)
+47,solo,solo,only; alone
+48,dati,dato,data
+49,ed,e,and (before vowel)
+50,questa,questo,this (fem.)
+51,ci,ci,us; there; to us
+52,alle,a,to the (fem. plural)
+53,uno,uno,a; one (masc.)
+54,sia,essere,be (subjunctive); both/either
+55,euro,euro,euro (currency)
+56,hanno,avere,have (they)
+57,tutto,tutto,everything; all
+58,sempre,sempre,always; still
+59,parte,parte,part; side; role
+60,può,potere,can; may (he/she/it)
+61,nuovo,nuovo,new (masc.)
+62,sulla,su,on the (fem.)
+63,prima,prima,first; before; earlier
+64,sarà,essere,will be (he/she/it)
+65,molto,molto,very; much; a lot
+66,senza,senza,without
+67,due,due,two
+68,già,già,already
+69,dalla,da,from the; by the (fem.)
+70,ancora,ancora,still; yet; again
+71,modo,modo,way; manner; mode
+72,stato,stato,state; been (participle)
+73,gioco,gioco,game; play
+74,quanto,quanto,how much; as much as
+75,sistema,sistema,system
+76,proprio,proprio,own; really; exactly
+77,loro,loro,they; them; their
+78,quindi,quindi,therefore; so; then
+79,ogni,ogni,every; each
+80,utenti,utente,users
+81,nei,in,in the (masc. plural)
+82,nuova,nuovo,new (fem.)
+83,tempo,tempo,time; weather
+84,app,app,app (mobile application)
+85,suo,suo,his; her; its
+86,smartphone,smartphone,smartphone
+87,possibile,possibile,possible
+88,dopo,dopo,after; afterwards
+89,caso,caso,case; chance
+90,quando,quando,when
+91,così,così,so; thus; like this
+92,sua,suo,his; her; its (fem.)
+93,altri,altro,others; other (plural)
+94,secondo,secondo,according to; second
+95,mondo,mondo,world
+96,anni,anno,years
+97,oltre,oltre,beyond; over; more than
+98,quello,quello,that; that one
+99,fino,fino,until; up to (fino a)
+100,fare,fare,to do; to make
+101,serie,serie,series; (TV) series; range
+102,ora,ora,now; hour
+103,infatti,infatti,in fact; indeed
+104,grazie,grazie,thanks; thank you
+105,poi,poi,then; afterwards
+106,possono,potere,they can; they may
+107,oggi,oggi,today
+108,ti,ti,you (object); to you
+109,altro,altro,other; another; else
+110,servizi,servizio,services
+111,nelle,nelle,in the (feminine plural)
+112,sicurezza,sicurezza,security; safety
+113,mercato,mercato,market
+114,nuovi,nuovo,new (masculine plural)
+115,versione,versione,version
+116,fatto,fatto,fact; done; made
+117,invece,invece,instead; on the other hand
+118,questi,questo,these
+119,anno,anno,year
+120,rete,rete,network; net
+121,inoltre,inoltre,furthermore; also
+122,video,video,video
+123,mentre,mentre,while; whereas
+124,perché,perché,why; because
+125,tutte,tutto,all (feminine plural)
+126,cosa,cosa,thing; what
+127,chi,chi,who; whoever
+128,volta,volta,time (occasion)
+129,rispetto,rispetto,compared to; respect
+130,mi,mi,me; to me; myself
+131,primo,primo,first
+132,informazioni,informazione,information
+133,disponibile,disponibile,available
+134,potrebbe,potere,it could; he/she could
+135,prezzo,prezzo,price
+136,sui,sui,on the (masculine plural); about the
+137,esempio,esempio,example
+138,ho,avere,I have
+139,fa,fare,he/she/it does; ago
+140,azienda,azienda,company; business
+141,momento,momento,moment; time
+142,alcuni,alcuno,some; a few
+143,clienti,cliente,customers; clients
+144,agli,agli,to the (masculine plural)
+145,digitale,digitale,digital
+146,tecnologia,tecnologia,technology
+147,software,software,software
+148,però,però,but; however
+149,nuove,nuovo,new (feminine plural)
+150,dispositivi,dispositivo,devices
+151,qui,qui,here
+152,abbiamo,avere,we have
+153,viene,venire,he/she/it comes; is (passive)
+154,sta,stare,he/she/it is; is staying
+155,quella,quello,that (feminine); that one
+156,lavoro,lavoro,work; job
+157,dai,da,from the (masculine plural)
+158,sito,sito,website; site
+159,tramite,tramite,via; through; by means of
+160,mobile,mobile,mobile (phone/devices)
+161,punto,punto,point; spot
+162,quali,quale,which (plural)
+163,vi,vi,"you (plural, object); there"
+164,servizio,servizio,service
+165,livello,livello,level
+166,base,base,base; basis
+167,aziende,azienda,companies; businesses
+168,offerta,offerta,offer; deal
+169,stesso,stesso,same; himself
+170,possibilità,possibilità,possibility; chance
+171,queste,questo,these (feminine)
+172,interno,interno,inside; internal
+173,dello,dello,of the (masculine)
+174,attraverso,attraverso,through; across
+175,data,data,date
+176,era,essere,he/she/it was
+177,online,online,online
+178,quale,quale,which; what
+179,meno,meno,less; minus
+180,stata,essere,been (feminine); was
+181,web,web,web
+182,avere,avere,to have
+183,mese,mese,month
+184,altre,altro,other (feminine plural)
+185,dispositivo,dispositivo,device
+186,grado,grado,degree; level
+187,stati,stato,states; been (plural)
+188,dove,dove,where
+189,utente,utente,user
+190,ne,ne,of it; of them
+191,modalità,modalità,mode; method
+192,prodotti,prodotto,products
+193,numero,numero,number
+194,tre,tre,three
+195,milioni,milione,millions
+196,ciò,ciò,that; this (thing)
+197,contenuti,contenuto,content; contents
+198,sviluppo,sviluppo,development
+199,fine,fine,end
+200,durante,durante,during
+201,grande,grande,big; great
+202,internet,internet,internet
+203,tv,tv,TV; television
+204,verso,verso,towards
+205,sistemi,sistema,systems
+206,tratta,tratta,it deals with; concerns
+207,cloud,cloud,cloud (computing)
+208,qualche,qualche,some; a few
+209,attività,attività,activity; business
+210,sulle,sulle,on the (fem. pl.)
+211,offerte,offerta,offers; deals
+212,file,file,file (computer)
+213,sotto,sotto,under; below
+214,ricerca,ricerca,search; research
+215,nostro,nostro,our
+216,gestione,gestione,management
+217,casa,casa,house; home
+218,dalle,dalle,from the (fem. pl.)
+219,permette,permettere,allows (it); lets
+220,qualità,qualità,quality
+221,via,via,via; through
+222,film,film,film; movie
+223,saranno,essere,will be (they)
+224,uso,uso,use; usage
+225,giorni,giorno,days
+226,supporto,supporto,support; medium
+227,tuo,tuo,your (informal)
+228,piattaforma,piattaforma,platform
+229,tipo,tipo,type; kind
+230,accesso,accesso,access; login
+231,modello,modello,model
+232,esperienza,esperienza,experience
+233,puoi,potere,you can
+234,applicazioni,applicazione,applications; apps
+235,persone,persona,people; persons
+236,novità,novità,news; new features
+237,ben,bene,well (before adj.)
+238,ore,ora,hours
+239,diversi,diverso,several; different (m. pl.)
+240,alcune,alcuno,some; a few (fem. pl.)
+241,soprattutto,soprattutto,especially; above all
+242,importante,importante,important
+243,società,società,company; society
+244,particolare,particolare,particular; special
+245,settore,settore,sector; industry
+246,funzionalità,funzionalità,features; functionality
+247,soluzioni,soluzione,solutions
+248,aver,avere,to have (short form)
+249,mesi,mese,months
+250,mai,mai,never; ever
+251,utilizzo,utilizzo,use; usage
+252,negli,negli,in the (masc. pl.)
+253,circa,circa,about; approximately
+254,suoi,suo,his; her; its (pl.)
+255,vita,vita,life
+256,poco,poco,little; not much
+257,display,display,display; screen
+258,ufficiale,ufficiale,official
+259,comunque,comunque,however; anyway
+260,disponibili,disponibile,available (pl.)
+261,propria,proprio,own (fem.)
+262,molti,molto,many
+263,business,business,business
+264,creare,creare,to create
+265,quelli,quello,those (ones)
+266,schermo,schermo,screen
+267,utilizzare,utilizzare,to use
+268,capacità,capacità,capacity; ability
+269,tecnologie,tecnologia,technologies
+270,allo,allo,to the (masc.)
+271,modelli,modello,models
+272,meglio,meglio,better; best
+273,giochi,gioco,games
+274,semplice,semplice,simple
+275,problema,problema,problem
+276,visto,vedere,seen
+277,sembra,sembrare,it seems
+278,storia,storia,story; history
+279,strumenti,strumento,tools; instruments
+280,aggiornamento,aggiornamento,update
+281,prodotto,prodotto,product
+282,diverse,diverso,several; different (fem. pl.)
+283,davvero,davvero,really; truly
+284,messaggio,messaggio,message
+285,articolo,articolo,article (news piece)
+286,ecco,ecco,here is; here are
+287,ultimo,ultimo,latest; last
+288,riguarda,riguardare,concerns; regards (it)
+289,applicazione,applicazione,app; application
+290,link,link,link (URL)
+291,offre,offrire,offers (it)
+292,codice,codice,code (software); promo code
+293,consente,consentire,allows (it)
+294,store,store,store (app store)
+295,progetto,progetto,project
+296,migliori,migliore,best; better (plural)
+297,titolo,titolo,title; headline
+298,nome,nome,name
+299,giocatori,giocatore,players (gamers)
+300,vedere,vedere,to see
+301,controllo,controllo,control; check
+302,realtà,realtà,reality (VR)
+303,insieme,insieme,together; set
+304,quelle,quello,those (feminine)
+305,smart,smart,smart (connected device)
+306,nostra,nostro,our (feminine)
+307,costo,costo,cost; price
+308,deve,dovere,must; has to (it)
+309,soluzione,soluzione,solution
+310,problemi,problema,problems
+311,messaggi,messaggio,messages
+312,computer,computer,computer
+313,spesso,spesso,often
+314,oppure,oppure,or; or else
+315,quasi,quasi,almost
+316,team,team,team
+317,valore,valore,value
+318,far,fare,to make; to do (short form)
+319,social,social,social (media)
+320,vista,vista,"view; sight (in ""in vista di"")"
+321,qualsiasi,qualsiasi,any; whatever
+322,partire,partire,to start; to leave (da partire da: starting from)
+323,tanto,tanto,so much; a lot
+324,presente,presente,present; current
+325,design,design,design
+326,propri,proprio,own (plural)
+327,direttamente,direttamente,directly
+328,dovrebbe,dovere,should (it)
+329,media,media,media; average
+330,corso,corso,course; (in corso) ongoing
+331,bene,bene,well; good
+332,foto,foto,photo
+333,dunque,dunque,so; therefore
+334,gruppo,gruppo,group
+335,stessa,stesso,same (feminine)
+336,programma,programma,program; software
+337,prestazioni,prestazione,performance (of devices)
+338,futuro,futuro,future
+339,vengono,venire,come; are (they) (passive aux)
+340,tuttavia,tuttavia,however
+341,guida,guida,guide; driving
+342,voce,voce,voice; entry (menu item)
+343,leggi,legge,laws
+344,batteria,batteria,battery
+345,grandi,grande,big; great (plural)
+346,caratteristiche,caratteristica,features; characteristics
+347,account,account,account (online)
+348,dato,dato,data point; given
+349,giorno,giorno,day
+350,siamo,essere,we are
+351,ultima,ultimo,latest; last (feminine)
+352,seconda,secondo,second (feminine)
+353,sarebbe,essere,would be (it)
+354,digitali,digitale,digital (plural)
+355,obiettivo,obiettivo,goal; camera lens
+356,va,andare,goes (it); is going
+357,contro,contro,against
+358,necessario,necessario,necessary
+359,pagina,pagina,page
+360,seguito,seguito,following; (in seguito) later; (a seguito di) after
+361,altra,altro,other; another (feminine)
+362,ottenere,ottenere,to get; to obtain
+363,velocità,velocità,speed
+364,immagini,immagine,images
+365,poter,potere,to be able to (short form)
+366,imprese,impresa,companies; businesses
+367,memoria,memoria,"memory (RAM, storage)"
+368,standard,standard,standard
+369,ruolo,ruolo,role
+370,hai,avere,you have
+371,pubblico,pubblico,public; audience
+372,audio,audio,audio
+373,principali,principale,main (plural)
+374,operativo,operativo,operating (sistema operativo: OS)
+375,dollari,dollaro,dollars
+376,successo,successo,success
+377,piano,piano,plan; floor
+378,scelta,scelta,choice
+379,maggiore,maggiore,greater; larger; main
+380,funzione,funzione,function; feature
+381,tale,tale,such; this kind of
+382,intelligenza,intelligenza,intelligence (e.g. artificial)
+383,crescita,crescita,growth
+384,spazio,spazio,space; storage room
+385,presenti,presente,present; existing (plural)
+386,siano,essere,"are (they, subjunctive)"
+387,almeno,almeno,at least
+388,alto,alto,high; tall
+389,subito,subito,immediately
+390,ultimi,ultimo,latest; last (plural)
+391,volte,volta,times; occasions
+392,pulsante,pulsante,button (on a device)
+393,generazione,generazione,generation (of devices)
+394,trovare,trovare,to find
+395,innovazione,innovazione,innovation
+396,ovviamente,ovviamente,obviously; of course
+397,core,core,core (processor core)
+398,produzione,produzione,production; manufacturing
+399,sue,suo,his/her/its (plural)
+400,fotocamera,fotocamera,camera (on a phone)
+401,ormai,ormai,by now; by this point
+402,attenzione,attenzione,attention; caution
+403,minuti,minuto,minutes
+404,console,console,console (gaming)
+405,annunciato,annunciare,announced
+406,porta,porta,port (e.g. USB port)
+407,artificiale,artificiale,artificial
+408,entro,entro,within; by (deadline)
+409,fase,fase,phase; stage
+410,server,server,server
+411,tablet,tablet,tablet
+412,prossimo,prossimo,next
+413,accedere,accedere,to access; to log in
+414,dettagli,dettaglio,details
+415,disposizione,disposizione,availability; arrangement
+416,noi,noi,we; us
+417,principale,principale,main; primary
+418,punti,punto,points; stitches
+419,detto,dire,said; (it's) said
+420,gamma,gamma,range (of products)
+421,costi,costo,costs
+422,città,città,city
+423,protezione,protezione,protection
+424,vero,vero,true; real
+425,prime,primo,first (feminine plural)
+426,processo,processo,process
+427,nostri,nostro,our (masculine plural)
+428,analisi,analisi,analysis
+429,lancio,lancio,launch; release
+430,privacy,privacy,privacy
+431,dagli,dagli,from the (masculine plural)
+432,dire,dire,to say
+433,stanno,stare,"are (they), staying/doing"
+434,canale,canale,channel
+435,uscita,uscita,release; exit; output
+436,infine,infine,finally
+437,funzioni,funzione,functions; features
+438,appena,appena,just; as soon as; barely
+439,gestire,gestire,to manage; to handle
+440,miliardi,miliardo,billions
+441,ram,RAM,RAM (memory)
+442,fra,fra,between; among; in (time)
+443,state,essere,been (plural/feminine); you were
+444,usare,usare,to use
+445,tua,tuo,your (feminine singular)
+446,continua,continuare,continues; (it) goes on
+447,primi,primo,first (masculine plural)
+448,periodo,periodo,period
+449,evento,evento,event
+450,risoluzione,risoluzione,resolution (screen)
+451,arrivo,arrivo,arrival; launch
+452,posto,posto,place; seat; spot
+453,alta,alto,high (feminine)
+454,sei,sei,you are; six
+455,nonostante,nonostante,despite
+456,scheda,scheda,"card (graphics, SIM); sheet"
+457,campo,campo,field; area
+458,ambito,ambito,field; scope; area
+459,vari,vario,various
+460,pollici,pollice,inches (screen size)
+461,io,io,I
+462,presenza,presenza,presence
+463,potrà,potere,will be able to (he/she/it)
+464,telefono,telefono,phone
+465,verrà,venire,will come; will be (he/she/it)
+466,potranno,potere,will be able to (they)
+467,risorse,risorsa,resources
+468,utilizzando,utilizzare,using
+469,ovvero,ovvero,that is; or rather
+470,partner,partner,partner (business)
+471,potrebbero,potere,they could; might
+472,ricarica,ricarica,recharge; top-up
+473,tutta,tutto,all; whole (fem.)
+474,test,test,test; benchmark test
+475,termini,termine,terms; conditions
+476,processi,processo,processes
+477,risultati,risultato,results
+478,italiano,italiano,Italian
+479,personali,personale,personal (plural)
+480,acquisto,acquisto,purchase
+481,studio,studio,study; studio
+482,dare,dare,to give
+483,migliore,migliore,better; best
+484,hardware,hardware,hardware
+485,quel,quello,that (before noun)
+486,vendita,vendita,sale; selling
+487,linea,linea,line; product line
+488,casi,caso,cases
+489,operatore,operatore,operator; carrier
+490,prezzi,prezzo,prices
+491,troppo,troppo,too much; too
+492,aveva,avere,had (he/she)
+493,paese,paese,country; village
+494,piattaforme,piattaforma,platforms
+495,mio,mio,my; mine
+496,processore,processore,processor; CPU
+497,nello,nello,in the (masc.)
+498,certo,certo,certain; of course
+499,maniera,maniera,manner; way
+500,personaggi,personaggio,characters
+,,,Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - sources and credits: https://apera.me/sources#reading-lists

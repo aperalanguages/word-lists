@@ -1,0 +1,502 @@
+rank,word,lemma,meaning
+1,die,der,the (f./pl.)
+2,der,der,the (m.); of the (f.)
+3,und,und,and
+4,in,in,in; into
+5,das,das,the (neuter); that
+6,den,der,the (m. acc./dat. pl.)
+7,von,von,of; from; by
+8,zu,zu,to; at; too
+9,mit,mit,with
+10,ist,sein,is
+11,für,für,for
+12,auf,auf,on; onto; up
+13,im,in,in the
+14,es,es,it
+15,sich,sich,himself/herself/themselves (reflexive)
+16,nicht,nicht,not
+17,ein,ein,a; an; one
+18,sie,sie,she; they; you (formal)
+19,eine,ein,a; an (fem.)
+20,des,der,of the (m./neuter)
+21,auch,auch,also; too
+22,dem,der,the (dative); to the
+23,als,als,as; when; than
+24,an,an,at; on; to
+25,dass,dass,that (conjunction)
+26,aus,aus,from; out of
+27,werden,werden,become; will; be (passive); they become
+28,wie,wie,how; like; as
+29,er,er,he; it
+30,am,an,on the; at the; on (day)
+31,bei,bei,at; near; with
+32,nach,nach,after; to; according to
+33,sind,sein,are (they/we)
+34,hat,haben,has
+35,um,um,around; at (time); to (um...zu)
+36,wir,wir,we
+37,oder,oder,or
+38,einer,ein,of a (f.); one (m.); a
+39,wird,werden,becomes; will; is (passive)
+40,so,so,so; thus; like this
+41,über,über,over; about; above
+42,einen,ein,a; one (m. acc.)
+43,vor,vor,before; in front of; ago
+44,einem,ein,a; one (dative)
+45,haben,haben,have; (we/they) have
+46,aber,aber,but
+47,noch,noch,still; yet; another
+48,zum,zu,to the; for the
+49,ich,ich,I
+50,war,sein,was
+51,nur,nur,only; just
+52,man,man,one; you; people (generic)
+53,mehr,viel,more
+54,zur,zu,to the; for the (f.)
+55,wurde,werden,was (passive); became
+56,wenn,wenn,if; when; whenever
+57,was,was,what; which
+58,durch,durch,through; by
+59,diese,dieser,this; these
+60,bis,bis,until; up to; by
+61,gegen,gegen,against; around (time); versus
+62,sein,sein,to be; his; its
+63,vom,von,from the; of the; by the
+64,unter,unter,under; among; below
+65,kann,können,can; is able to
+66,können,können,can; (they/we) are able
+67,ihre,ihr,her; their; your (formal)
+68,dann,dann,then
+69,hier,hier,here
+70,Menschen,Mensch,people; humans
+71,dieser,dieser,this; of this (f.)
+72,schon,schon,already; yet
+73,sei,sein,be (subjunctive); is said to be
+74,immer,immer,always; ever
+75,uns,wir,us; ourselves
+76,wieder,wieder,again
+77,hatte,haben,had
+78,alle,alle,all; everyone
+79,gibt,geben,gives; (es gibt) there is
+80,seit,seit,since; for (time)
+81,doch,doch,yet; however; but still
+82,keine,kein,no; none; not any
+83,da,da,there; then; since
+84,habe,haben,have (I); has (subjunctive)
+85,seine,sein,his; its
+86,Jahren,Jahr,years (dative); in years
+87,damit,damit,so that; with it
+88,Uhr,Uhr,o'clock; clock; watch
+89,ihr,ihr,her; their; you (pl.)
+90,Euro,Euro,euro (currency)
+91,dabei,dabei,thereby; in doing so; involved
+92,Jahr,Jahr,year
+93,zwei,zwei,two
+94,eines,ein,of a; one of
+95,viele,viel,many
+96,Prozent,Prozent,percent
+97,jetzt,jetzt,now
+98,soll,sollen,should; is supposed to; reportedly is
+99,nun,nun,now; well
+100,bereits,bereits,already
+101,sondern,sondern,but rather; but instead
+102,wurden,werden,were; became (they)
+103,heute,heute,today
+104,sehr,sehr,very
+105,zwischen,zwischen,between
+106,selbst,selbst,self; even; oneself
+107,waren,sein,were (they/we)
+108,ab,ab,from; starting from; off
+109,ihrer,ihr,her/their/of her/of them
+110,seiner,sein,his/its; of his
+111,geht,gehen,goes; works (it)
+112,diesem,dieser,this (dative)
+113,beim,bei dem,at the; during the
+114,neue,neu,new
+115,ohne,ohne,without
+116,Zeit,Zeit,time
+117,Jahre,Jahr,years
+118,denn,denn,because; for; then
+119,muss,müssen,must; has to (he/she/it/I)
+120,weil,weil,because
+121,anderen,andere,other; others (dative/plural)
+122,dazu,dazu,in addition; to that; for that
+123,sowie,sowie,as well as; and
+124,weiter,weiter,further; on; continued
+125,ganz,ganz,quite; entire; whole
+126,Polizei,Polizei,police
+127,deutschen,deutsch,German (inflected)
+128,müssen,müssen,must; have to (they/we)
+129,ihren,ihr,her/their (accusative)
+130,also,also,so; therefore; thus
+131,Welt,Welt,world
+132,ob,ob,whether; if
+133,andere,andere,other; others
+134,unsere,unser,our
+135,Stadt,Stadt,city; town
+136,dort,dort,there
+137,Leben,Leben,life; to live
+138,viel,viel,much; a lot
+139,wer,wer,who
+140,mal,mal,once; times; just
+141,etwa,etwa,about; approximately; for example
+142,will,wollen,wants (he/she/it); I want
+143,drei,drei,three
+144,machen,machen,make; do (they/we)
+145,ja,ja,yes; indeed
+146,News,News,news (English loanword)
+147,Ende,Ende,end
+148,rund,rund,around; about; round
+149,dieses,dieser,this (neuter)
+150,neuen,neu,new (inflected)
+151,sagt,sagen,says (he/she/it)
+152,allem,alle,all; everything (dative)
+153,während,während,while; during
+154,dies,dieser,this
+155,etwas,etwas,something; somewhat
+156,kein,kein,no; not any
+157,ersten,erste,first (inflected)
+158,gut,gut,good; well
+159,dafür,dafür,for it; in return; for that
+160,sagte,sagen,said (he/she/it)
+161,alles,alles,everything; all
+162,worden,werden,been (passive participle)
+163,steht,stehen,stands; is (he/she/it)
+164,ihnen,sie,them (dative); you (formal)
+165,macht,machen,makes; does (he/she/it)
+166,weitere,weitere,further; more; additional
+167,wollen,wollen,want (they/we)
+168,erst,erst,only; first; not until
+169,jedoch,jedoch,however; yet
+170,seinen,sein,his (accusative/dative pl.)
+171,ins,in das,into the
+172,wo,wo,where
+173,Land,Land,country; state; land
+174,könnte,können,could; might (he/she/it)
+175,Kinder,Kind,children
+176,ihn,er,him; it
+177,ihrem,ihr,her/their (dative)
+178,diesen,dieser,this/these (inflected)
+179,sollte,sollen,should; was supposed to (he/she/it)
+180,Politik,Politik,politics; policy
+181,gerade,gerade,just now; currently; straight
+182,einmal,einmal,once; one time; just
+183,sehen,sehen,see (they/we)
+184,deutsche,deutsch,German; Germans
+185,würde,werden,would (he/she/it/I)
+186,Millionen,Million,millions
+187,mich,ich,me
+188,Arbeit,Arbeit,work; job
+189,kommt,kommen,comes (he/she/it)
+190,sollen,sollen,should; are supposed to (they/we)
+191,seinem,sein,his (dative)
+192,laut,laut,according to
+193,wegen,wegen,because of
+194,lassen,lassen,to let; to have done (they)
+195,unserer,unser,of our
+196,Regierung,Regierung,government
+197,finden,finden,to find; to think (they)
+198,seien,sein,"be (subjunctive, they)"
+199,ihm,er,him; to him
+200,wäre,sein,would be
+201,hatten,haben,had (they)
+202,kommen,kommen,to come (they)
+203,allerdings,allerdings,however; admittedly
+204,Frage,Frage,question; issue
+205,Teil,Teil,part; share
+206,nichts,nichts,nothing
+207,gab,geben,gave; there was
+208,mir,ich,me; to me
+209,denen,der,to whom; to which (pl.)
+210,stehen,stehen,to stand; to be (they)
+211,großen,groß,big; great (inflected)
+212,besonders,besonders,especially; particularly
+213,letzten,letzt,last (inflected)
+214,darauf,darauf,on it; thereupon
+215,große,groß,big; great (inflected)
+216,allen,all,all; to all
+217,davon,davon,of it; from that
+218,weg,weg,away; gone
+219,sogar,sogar,even
+220,Fall,Fall,case; fall
+221,geben,geben,to give (they)
+222,Tag,Tag,day
+223,statt,statt,instead of
+224,du,du,you (informal)
+225,eigenen,eigen,own (inflected)
+226,zwar,zwar,admittedly; indeed
+227,einfach,einfach,simple; simply
+228,Unternehmen,Unternehmen,company; business
+229,zudem,zudem,moreover; in addition
+230,Partei,Partei,party (political)
+231,deutlich,deutlich,clear; significantly
+232,heißt,heißen,is called; means
+233,vergangenen,vergangen,past; last (inflected)
+234,natürlich,natürlich,of course; natural
+235,konnte,können,could; was able to
+236,Daten,Daten,data
+237,beiden,beide,both; the two
+238,fast,fast,almost
+239,möglich,möglich,possible
+240,Krieg,Krieg,war
+241,Mann,Mann,man; husband
+242,bleibt,bleiben,remains; stays
+243,Seite,Seite,side; page
+244,vielen,viel,many; much (inflected)
+245,Straße,Straße,street; road
+246,werde,werden,will; become (I)
+247,weniger,wenig,fewer; less
+248,Frau,Frau,woman; wife; Mrs.
+249,kam,kommen,came
+250,erste,erst,first (inflected)
+251,Geschichte,Geschichte,history; story
+252,vier,vier,four
+253,Beispiel,Beispiel,example
+254,gar,gar,at all; even
+255,welche,welch,which; some
+256,zeigt,zeigen,shows
+257,genau,genau,exactly
+258,Frauen,Frau,women
+259,liegt,liegen,lies; is located
+260,Thema,Thema,topic; subject
+261,gegenüber,gegenüber,towards; opposite
+262,darüber,darüber,about it; above it
+263,lange,lange,long (time)
+264,deren,deren,whose; of which
+265,erhalten,erhalten,to receive; to preserve
+266,einige,einige,some; several
+267,deshalb,deshalb,therefore; that is why
+268,neben,neben,next to; besides
+269,gehen,gehen,to go (they)
+270,Corona,Corona,coronavirus; Covid
+271,Mai,Mai,May
+272,Rezepte,Rezept,recipes
+273,Medien,Medium,media
+274,oft,oft,often
+275,wissen,wissen,to know (they)
+276,später,spät,later
+277,würden,werden,would (they)
+278,warum,warum,why
+279,Gesellschaft,Gesellschaft,society; company
+280,aktuell,aktuell,current; currently
+281,bleiben,bleiben,to stay; remain (they)
+282,zurück,zurück,back
+283,tun,tun,to do (they)
+284,politischen,politisch,political (inflected)
+285,Juli,Juli,July
+286,jährige,-jährig,"-year-old (aged, after number)"
+287,stellen,stellen,to put; to pose; (they) put
+288,Präsident,Präsident,president
+289,gemacht,machen,made; done
+290,Geld,Geld,money
+291,gilt,gelten,applies; is considered (it)
+292,jeder,jeder,everyone; each; every
+293,anderem,ander,other (dative); (unter anderem) among other things
+294,September,September,September
+295,gewesen,sein,been
+296,Fragen,Frage,questions; to ask (they)
+297,kaum,kaum,hardly; barely
+298,Artikel,Artikel,article
+299,politische,politisch,political (inflected)
+300,sagen,sagen,to say; (they) say
+301,fünf,fünf,five
+302,Redaktion,Redaktion,editorial team; newsroom
+303,August,August,August
+304,Juni,Juni,June
+305,zusammen,zusammen,together
+306,eigentlich,eigentlich,actually; really
+307,hätte,haben,"would have; had (subj., he/she/it)"
+308,Platz,Platz,place; square; space; (sports) rank
+309,sieht,sehen,sees (he/she/it); looks
+310,bekannt,bekannt,known; well-known
+311,wohl,wohl,probably; well
+312,Informationen,Information,information (pieces of)
+313,Zukunft,Zukunft,future
+314,sollten,sollen,should; were supposed to (they)
+315,Recht,Recht,law; right
+316,März,März,March
+317,innen,innen,-in/-innen (gender suffix); inside
+318,lesen,lesen,to read; (they) read
+319,mehrere,mehrere,several
+320,klar,klar,clear; of course
+321,damals,damals,back then; at that time
+322,Unterstützung,Unterstützung,support; assistance
+323,Grünen,Grüne,the Greens (party); green (inflected)
+324,vielleicht,vielleicht,maybe; perhaps
+325,Ort,Ort,place; town; location
+326,Folgen,Folge,consequences; to follow (they)
+327,Januar,Januar,January
+328,ebenfalls,ebenfalls,also; likewise
+329,hätten,haben,would have (they); had (subj.)
+330,Art,Art,kind; way; type
+331,Oktober,Oktober,October
+332,junge,jung,young; boy
+333,wenig,wenig,little; few
+334,erklärt,erklären,explained; declared; explains (he/she/it)
+335,Woche,Woche,week
+336,aller,alle,of all; all (genitive)
+337,wirklich,wirklich,really; truly
+338,zunächst,zunächst,at first; initially
+339,insgesamt,insgesamt,in total; overall
+340,aktuellen,aktuell,current; latest (inflected)
+341,unser,unser,our
+342,derzeit,derzeit,currently; at present
+343,kurz,kurz,short; briefly
+344,bin,sein,am (I)
+345,zuletzt,zuletzt,most recently; lastly
+346,lässt,lassen,lets; leaves; has (he/she/it) done
+347,Ziel,Ziel,goal; target; destination
+348,gemeinsam,gemeinsam,together; joint
+349,nie,nie,never
+350,keinen,kein,no; not any (masc. acc.)
+351,Personen,Person,people; persons
+352,April,April,April
+353,außerdem,außerdem,also; in addition
+354,dessen,dessen,whose; of which
+355,bisher,bisher,so far; until now
+356,stand,stehen,stood (he/she/it); status
+357,trotz,trotz,despite
+358,Blick,Blick,look; view
+359,wichtig,wichtig,important
+360,schnell,schnell,fast; quickly
+361,pro,pro,per; for (pro-)
+362,Wochen,Woche,weeks
+363,unterstützen,unterstützen,to support; (they) support
+364,hin,hin,toward; there (direction)
+365,Familie,Familie,family
+366,solche,solch,such; such (ones)
+367,meine,mein,my; mine (inflected)
+368,online,online,online
+369,daher,daher,therefore; hence
+370,Tage,Tag,days
+371,Staat,Staat,state; country
+372,könnten,können,could (they)
+373,Bild,Bild,picture; image
+374,Anfang,Anfang,beginning; start
+375,zeigen,zeigen,to show; (they) show
+376,jeden,jeder,every; each (acc.)
+377,November,November,November
+378,Milliarden,Milliarde,billions
+379,hinter,hinter,behind
+380,arbeiten,arbeiten,to work; (they) work
+381,Februar,Februar,February
+382,nehmen,nehmen,to take; (we/they) take
+383,findet,finden,finds; (it) takes place
+384,Entwicklung,Entwicklung,development
+385,weit,weit,far; wide; widely
+386,Buch,Buch,book
+387,ging,gehen,went (he/she/it); was about
+388,Kritik,Kritik,criticism
+389,anders,anders,differently; otherwise
+390,direkt,direkt,direct; directly
+391,zehn,zehn,ten
+392,Rolle,Rolle,role
+393,Region,Region,region
+394,bitte,bitte,please; you're welcome
+395,fest,fest,firm; fixed; solid
+396,eher,eher,rather; sooner
+397,gehört,gehören,belongs; heard
+398,Bürger,Bürger,citizens; citizen
+399,tatsächlich,tatsächlich,actually; indeed
+400,Bevölkerung,Bevölkerung,population
+401,Lage,Lage,situation; location
+402,inzwischen,inzwischen,meanwhile; by now
+403,möchte,mögen,would like (I/he/she)
+404,daran,daran,on it; of it
+405,darf,dürfen,may; is allowed to
+406,weiteren,weiter,further; other
+407,allein,allein,alone; solely
+408,weiß,wissen,knows; know (I)
+409,stellt,stellen,puts; poses; presents
+410,Grund,Grund,reason; ground
+411,Staaten,Staat,states; countries
+412,Angaben,Angabe,information; details; statements
+413,wollte,wollen,wanted (he/she/I)
+414,zuvor,zuvor,before; previously
+415,erklärte,erklären,explained; stated (he/she)
+416,besser,besser,better
+417,Berliner,Berliner,Berlin; Berliner
+418,nächsten,nächster,next
+419,neu,neu,new
+420,eben,eben,just; precisely; even
+421,Themen,Thema,topics; issues
+422,Team,Team,team
+423,Demokratie,Demokratie,democracy
+424,linke,linke,left; The Left (party)
+425,weiterhin,weiterhin,still; continued
+426,europäischen,europäisch,European
+427,Sonntag,Sonntag,Sunday
+428,zweiten,zweit,second
+429,Dezember,Dezember,December
+430,Kosten,Kosten,costs
+431,Bereich,Bereich,area; field; sector
+432,Situation,Situation,situation
+433,eigene,eigen,own
+434,Bundesregierung,Bundesregierung,federal government
+435,sozialen,sozial,social
+436,gute,gut,good
+437,aktuelle,aktuell,current; latest
+438,stark,stark,strong; strongly
+439,halten,halten,to hold; keep; (they) hold
+440,dürfen,dürfen,may; (they) are allowed to
+441,Politiker,Politiker,politicians; politician
+442,Problem,Problem,problem
+443,Quelle,Quelle,source
+444,Maßnahmen,Maßnahme,measures
+445,aufgrund,aufgrund,because of; due to
+446,schließlich,schließlich,finally; after all
+447,geworden,werden,become (past participle)
+448,Wirtschaft,Wirtschaft,economy
+449,Debatte,Debatte,debate
+450,Freitag,Freitag,Friday
+451,Einsatz,Einsatz,deployment; operation; effort
+452,berichtet,berichten,reports; reported
+453,erfahren,erfahren,to learn; experienced
+454,Haus,Haus,house; building
+455,Zahl,Zahl,number; figure
+456,könne,können,could; can (reported speech)
+457,treffen,treffen,to meet; to hit; meeting
+458,nachdem,nachdem,after (conjunction)
+459,Wahl,Wahl,election; choice
+460,sicher,sicher,safe; sure; certainly
+461,Video,Video,video
+462,Entscheidung,Entscheidung,decision
+463,linken,link,left; of the Left party
+464,überhaupt,überhaupt,at all; in general
+465,ganze,ganz,whole; entire
+466,bringen,bringen,to bring; (they) bring
+467,beide,beide,both
+468,Union,Union,CDU/CSU; union
+469,gleich,gleich,same; equal; right away
+470,meisten,meist,most
+471,gleichzeitig,gleichzeitig,at the same time
+472,Leute,Leute,people
+473,Gruppe,Gruppe,group
+474,konnten,können,could (we/they)
+475,musste,müssen,had to (he/she/I)
+476,bekommen,bekommen,to get; received
+477,sechs,sechs,six
+478,Kölner,Kölner,of Cologne; Cologne resident
+479,Juden,Jude,Jews
+480,zahlen,zahlen,to pay; numbers
+481,jede,jeder,"every, each (fem.)"
+482,insbesondere,insbesondere,in particular
+483,Eltern,Eltern,parents
+484,führt,führen,leads (it)
+485,ebenso,ebenso,just as; likewise
+486,unseren,unser,our (inflected)
+487,Beitrag,Beitrag,"contribution; article, post"
+488,Samstag,Samstag,Saturday
+489,alten,alt,old (inflected)
+490,Spiel,Spiel,game; match
+491,führen,führen,to lead; (they) lead
+492,Rahmen,Rahmen,frame; (im Rahmen) as part of
+493,Sicherheit,Sicherheit,security; safety
+494,Programm,Programm,program; schedule
+495,jungen,jung,young (inflected)
+496,kleinen,klein,small (inflected)
+497,kleine,klein,small (inflected)
+498,Tagen,Tag,days (dative plural)
+499,innerhalb,innerhalb,within
+500,Kreis,Kreis,district; circle
+,,,Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - sources and credits: https://apera.me/sources#reading-lists

@@ -1,0 +1,1002 @@
+rank,word,lemma,meaning
+1,e,e,and
+2,non,non,not
+3,che,che,that/which
+4,di,di,of
+5,la,il,the
+6,il,il,the
+7,un,un,a
+8,a,a,to
+9,per,per,for
+10,è,essere,is
+11,in,in,in
+12,una,un,a
+13,mi,mi,me
+14,sono,essere,am/are
+15,ho,avere,I have
+16,si,si,oneself
+17,ha,avere,has
+18,ma,ma,but
+19,lo,lo,it/him
+20,cosa,cosa,what
+21,con,con,with
+22,no,no,no
+23,le,il,the
+24,ti,ti,you
+25,se,se,if
+26,da,da,from
+27,i,il,the
+28,come,come,how
+29,io,io,I
+30,ci,ci,us/there
+31,hai,avere,you have
+32,questo,questo,this
+33,bene,bene,well
+34,qui,qui,here
+35,sei,essere,you are
+36,del,di,of the
+37,tu,tu,you
+38,solo,solo,only
+39,mio,mio,my
+40,al,a,to the
+41,me,me,me
+42,tutto,tutto,everything
+43,te,te,you
+44,era,essere,was
+45,della,di,of the
+46,mia,mio,my
+47,fatto,fare,done
+48,fare,fare,to do
+49,essere,essere,to be
+50,so,sapere,I know
+51,quando,quando,when
+52,sì,sì,yes
+53,ora,ora,now
+54,lei,lei,she
+55,gli,il,the
+56,ne,ne,of it
+57,oh,oh,oh
+58,questa,questo,this
+59,detto,dire,said
+60,ok,ok,okay
+61,va,andare,goes
+62,quello,quello,that
+63,mai,mai,never
+64,alla,a,to the
+65,o,o,or
+66,anche,anche,also
+67,stato,essere,been
+68,abbiamo,avere,we have
+69,tutti,tutto,everyone
+70,dei,di,of the
+71,grazie,grazie,thanks
+72,chi,chi,who
+73,sta,stare,is
+74,molto,molto,very
+75,più,più,more
+76,voglio,volere,I want
+77,perché,perché,because
+78,tuo,tuo,your
+79,beh,beh,well
+80,sia,essere,may be
+81,nel,in,in the
+82,lui,lui,he
+83,allora,allora,then
+84,posso,potere,I can
+85,ehi,ehi,hey
+86,prima,prima,before
+87,tua,tuo,your
+88,suo,suo,his/her
+89,niente,niente,nothing
+90,qualcosa,qualcosa,something
+91,sai,sapere,you know
+92,siamo,essere,we are
+93,davvero,davvero,really
+94,ancora,ancora,still
+95,hanno,avere,they have
+96,stai,stare,you are
+97,fa,fare,does
+98,sua,suo,his/her
+99,così,così,like this
+100,casa,casa,house
+101,uno,uno,one
+102,dove,dove,where
+103,su,su,on
+104,vero,vero,true
+105,vuoi,volere,you want
+106,noi,noi,we
+107,due,due,two
+108,quindi,quindi,so
+109,dire,dire,to say
+110,delle,di,of the
+111,quella,quello,that
+112,sempre,sempre,always
+113,altro,altro,other
+114,sto,stare,I am
+115,andare,andare,to go
+116,ad,a,to
+117,po,poco,a bit
+118,loro,loro,they
+119,devo,dovere,I must
+120,quel,quello,that
+121,forse,forse,maybe
+122,li,lo,them
+123,proprio,proprio,really
+124,certo,certo,sure
+125,tempo,tempo,time
+126,nella,in,in the
+127,poi,poi,then
+128,vi,vi,you all
+129,credo,credere,I believe
+130,vita,vita,life
+131,cose,cosa,things
+132,sul,su,on the
+133,quanto,quanto,how much
+134,puoi,potere,you can
+135,fuori,fuori,outside
+136,anni,anno,years
+137,cui,cui,which
+138,andiamo,andare,we go
+139,parte,parte,part
+140,visto,vedere,seen
+141,qualcuno,qualcuno,someone
+142,lavoro,lavoro,work
+143,voi,voi,you all
+144,ciao,ciao,hi
+145,dio,dio,god
+146,volta,volta,time
+147,dopo,dopo,after
+148,adesso,adesso,now
+149,stata,essere,been
+150,uomo,uomo,man
+151,padre,padre,father
+152,devi,dovere,you must
+153,bisogno,bisogno,need
+154,amico,amico,friend
+155,ed,e,and
+156,posto,posto,place
+157,nessuno,nessuno,no one
+158,via,via,away
+159,fai,fare,you do
+160,signore,signore,sir
+161,meglio,meglio,better
+162,cazzo,cazzo,damn
+163,dai,dare,come on
+164,dal,da,from the
+165,vuole,volere,wants
+166,sembra,sembrare,seems
+167,giorno,giorno,day
+168,ogni,ogni,every
+169,modo,modo,way
+170,senza,senza,without
+171,vedere,vedere,to see
+172,dobbiamo,dovere,we must
+173,signor,signore,Mr.
+174,qualche,qualche,some
+175,dispiace,dispiacere,sorry
+176,penso,pensare,I think
+177,ecco,ecco,here is
+178,parlare,parlare,to speak
+179,tra,tra,between
+180,mamma,mamma,mom
+181,già,già,already
+182,sarebbe,essere,would be
+183,dalla,da,from the
+184,troppo,troppo,too much
+185,fosse,essere,were
+186,possiamo,potere,we can
+187,ce,ci,there/it
+188,nuovo,nuovo,new
+189,male,male,badly
+190,madre,madre,mother
+191,avete,avere,you have
+192,tanto,tanto,so much
+193,favore,favore,favor
+194,successo,succedere,happened
+195,vai,andare,you go
+196,sulla,su,on the
+197,giusto,giusto,right
+198,sa,sapere,knows
+199,miei,mio,my
+200,aspetta,aspettare,wait
+201,avere,avere,to have
+202,altra,altro,other
+203,farlo,fare,to do it
+204,alle,a,at the
+205,facendo,fare,doing
+206,abbia,avere,may have
+207,momento,momento,moment
+208,ero,essere,I was
+209,aveva,avere,had
+210,ragazzi,ragazzo,guys
+211,deve,dovere,must
+212,persone,persona,people
+213,nostro,nostro,our
+214,tipo,tipo,type
+215,prego,prego,you're welcome
+216,grande,grande,big
+217,può,potere,can
+218,senti,sentire,listen
+219,appena,appena,just
+220,potrebbe,potere,could
+221,soldi,soldo,money
+222,dice,dire,says
+223,sapere,sapere,to know
+224,tre,tre,three
+225,oggi,oggi,today
+226,questi,questo,these
+227,piace,piacere,likes
+228,idea,idea,idea
+229,siete,essere,you are
+230,ai,a,to the
+231,avevo,avere,I had
+232,figlio,figlio,son
+233,accordo,accordo,agreed
+234,gente,gente,people
+235,sicuro,sicuro,sure
+236,vieni,venire,you come
+237,degli,di,of the
+238,guarda,guardare,look
+239,dentro,dentro,inside
+240,trovato,trovare,found
+241,queste,questo,these
+242,caso,caso,case
+243,forza,forza,come on
+244,tutte,tutto,all
+245,pensi,pensare,you think
+246,signora,signora,madam
+247,faccio,fare,I do
+248,nome,nome,name
+249,avuto,avere,had
+250,problema,problema,problem
+251,altri,altro,others
+252,aver,avere,to have
+253,mondo,mondo,world
+254,tutta,tutto,all
+255,preso,prendere,taken
+256,nulla,nulla,nothing
+257,nostra,nostro,our
+258,donna,donna,woman
+259,stare,stare,to stay
+260,basta,bastare,enough
+261,insieme,insieme,together
+262,faccia,faccia,face
+263,ragazza,ragazza,girl
+264,subito,subito,immediately
+265,famiglia,famiglia,family
+266,ragazzo,ragazzo,boy
+267,volevo,volere,I wanted
+268,okay,okay,okay
+269,sentito,sentire,heard
+270,ah,ah,ah
+271,stesso,stesso,same
+272,ragione,ragione,reason
+273,sarà,essere,will be
+274,tuoi,tuo,your
+275,capito,capire,understood
+276,notte,notte,night
+277,volte,volta,times
+278,testa,testa,head
+279,serve,servire,is needed
+280,tesoro,tesoro,darling
+281,sotto,sotto,under
+282,eh,eh,eh
+283,suoi,suo,his/her
+284,vado,andare,I go
+285,dato,dare,given
+286,stiamo,stare,we are
+287,bella,bello,beautiful
+288,scusa,scusare,sorry
+289,erano,essere,were
+290,pensavo,pensare,I thought
+291,avrei,avere,I would have
+292,prendere,prendere,to take
+293,buona,buono,good
+294,porta,porta,door
+295,bello,bello,beautiful
+296,moglie,moglie,wife
+297,vorrei,volere,I would like
+298,storia,storia,story
+299,succede,succedere,happens
+300,morto,morire,dead
+301,cercando,cercare,looking for
+302,dici,dire,you say
+303,persona,persona,person
+304,pronto,pronto,ready
+305,meno,meno,less
+306,dovuto,dovere,had to
+307,avanti,avanti,forward
+308,capisco,capire,I understand
+309,secondo,secondo,according to
+310,venire,venire,to come
+311,polizia,polizia,police
+312,lì,lì,there
+313,avrebbe,avere,would have
+314,stanno,stare,they are
+315,mentre,mentre,while
+316,letto,letto,bed
+317,fino,fino,until
+318,dico,dire,I say
+319,amici,amico,friends
+320,fine,fine,end
+321,aiuto,aiuto,help
+322,paura,paura,fear
+323,fratello,fratello,brother
+324,stavo,stare,I was
+325,uomini,uomo,men
+326,domani,domani,tomorrow
+327,facciamo,fare,we do
+328,abbastanza,abbastanza,enough
+329,capo,capo,boss
+330,amore,amore,love
+331,nei,in,in the
+332,ucciso,uccidere,killed
+333,state,essere,been
+334,piano,piano,slowly
+335,macchina,macchina,car
+336,trovare,trovare,to find
+337,comunque,comunque,anyway
+338,vediamo,vedere,we see
+339,giorni,giorno,days
+340,nemmeno,nemmeno,not even
+341,mano,mano,hand
+342,presto,presto,soon
+343,stati,essere,been
+344,merda,merda,shit
+345,far,fare,to do
+346,bambino,bambino,child
+347,andato,andare,gone
+348,vedo,vedere,I see
+349,tornare,tornare,to return
+350,quelle,quello,those
+351,primo,primo,first
+352,vostro,vostro,your
+353,neanche,neanche,not even
+354,sera,sera,evening
+355,giro,giro,turn
+356,morte,morte,death
+357,qua,qua,here
+358,pensato,pensare,thought
+359,buon,buono,good
+360,anno,anno,year
+361,mie,mio,my
+362,diavolo,diavolo,devil
+363,quasi,quasi,almost
+364,piacere,piacere,pleasure
+365,bel,bello,beautiful
+366,dovrei,dovere,I should
+367,nessun,nessuno,no
+368,contro,contro,against
+369,stessa,stesso,same
+370,felice,felice,happy
+371,colpa,colpa,fault
+372,punto,punto,point
+373,andata,andare,gone
+374,dovrebbe,dovere,should
+375,vedi,vedere,you see
+376,quale,quale,which
+377,chiesto,chiedere,asked
+378,invece,invece,instead
+379,migliore,migliore,better
+380,nostri,nostro,our
+381,finito,finire,finished
+382,figlia,figlia,daughter
+383,dovresti,dovere,you should
+384,almeno,almeno,at least
+385,sento,sentire,I feel
+386,quei,quello,those
+387,col,con,with the
+388,ore,ora,hours
+389,passato,passare,past
+390,magari,magari,maybe
+391,minuti,minuto,minutes
+392,terra,terra,earth
+393,vostra,vostro,your
+394,strada,strada,road
+395,sola,solo,alone
+396,credi,credere,you believe
+397,importante,importante,important
+398,sue,suo,her/his
+399,salve,salve,hello
+400,settimana,settimana,week
+401,perso,perdere,lost
+402,uscire,uscire,to go out
+403,parlato,parlare,spoken
+404,papà,papà,dad
+405,stasera,stasera,tonight
+406,scusi,scusare,excuse me
+407,dollari,dollaro,dollars
+408,occhi,occhio,eyes
+409,mani,mano,hands
+410,ultima,ultimo,last
+411,possibile,possibile,possible
+412,scuola,scuola,school
+413,significa,significare,it means
+414,sapevo,sapere,I knew
+415,nelle,in,in the
+416,potrei,potere,I could
+417,stava,stare,he/she was
+418,bambini,bambino,children
+419,eri,essere,you were
+420,importa,importare,it matters
+421,indietro,indietro,back
+422,riesco,riuscire,I manage
+423,sangue,sangue,blood
+424,chiama,chiamare,calls
+425,messo,mettere,put
+426,piccolo,piccolo,small
+427,traduzione,traduzione,translation
+428,tardi,tardi,late
+429,cuore,cuore,heart
+430,marito,marito,husband
+431,viene,venire,comes
+432,venuto,venire,come
+433,ieri,ieri,yesterday
+434,spero,sperare,I hope
+435,ricordi,ricordare,you remember
+436,quelli,quello,those
+437,dovremmo,dovere,we should
+438,lasciato,lasciare,left
+439,ascolta,ascoltare,listens
+440,difficile,difficile,difficult
+441,auto,auto,car
+442,chiamato,chiamare,called
+443,ciò,ciò,that
+444,altre,altro,other
+445,parlando,parlare,talking
+446,pensare,pensare,to think
+447,fantastico,fantastico,fantastic
+448,fatta,fare,done
+449,numero,numero,number
+450,veramente,veramente,really
+451,fanno,fare,they do
+452,serio,serio,serious
+453,possa,potere,may be able
+454,fossi,essere,I were
+455,entrare,entrare,to enter
+456,qualsiasi,qualsiasi,any
+457,pensa,pensare,thinks
+458,dicendo,dire,saying
+459,acqua,acqua,water
+460,portato,portare,brought
+461,stanza,stanza,room
+462,problemi,problema,problems
+463,forte,forte,strong
+464,nessuna,nessuno,none
+465,lascia,lasciare,leaves
+466,amo,amare,I love
+467,roba,roba,stuff
+468,agente,agente,agent
+469,dietro,dietro,behind
+470,corpo,corpo,body
+471,pare,parere,it seems
+472,sentire,sentire,to hear
+473,foto,foto,photo
+474,telefono,telefono,phone
+475,voleva,volere,wanted
+476,poco,poco,little
+477,prendi,prendere,you take
+478,piccola,piccolo,small
+479,vicino,vicino,near
+480,sacco,sacco,a lot
+481,stia,stare,may stay
+482,capire,capire,to understand
+483,potuto,potere,been able
+484,cinque,cinque,five
+485,strano,strano,strange
+486,tue,tuo,your
+487,andando,andare,going
+488,donne,donna,women
+489,sappiamo,sapere,we know
+490,bravo,bravo,good (skilled)
+491,ragazze,ragazza,girls
+492,festa,festa,party
+493,senso,senso,sense
+494,genere,genere,kind/genre
+495,quattro,quattro,four
+496,dare,dare,to give
+497,attimo,attimo,moment
+498,sorella,sorella,sister
+499,pure,pure,also
+500,probabilmente,probabilmente,probably
+501,film,film,film
+502,parla,parlare,speaks
+503,ufficio,ufficio,office
+504,verso,verso,towards
+505,mesi,mese,months
+506,farti,fare,to make you
+507,unica,unico,only
+508,morire,morire,to die
+509,signorina,signorina,miss
+510,vecchio,vecchio,old
+511,domanda,domanda,question
+512,ben,bene,well
+513,guerra,guerra,war
+514,dottore,dottore,doctor
+515,conosco,conoscere,I know
+516,qual,quale,which/what
+517,vivere,vivere,to live
+518,vista,vista,sight/view
+519,prova,prova,test/proof
+520,nuova,nuovo,new
+521,ricordo,ricordare,I remember
+522,divertente,divertente,fun
+523,avessi,avere,I had
+524,sicura,sicuro,sure
+525,paio,paio,pair/couple
+526,conto,conto,bill/account
+527,perdere,perdere,to lose
+528,dimmi,dire,tell me
+529,farmi,fare,to make me
+530,figli,figlio,children
+531,mezzo,mezzo,half
+532,lavorare,lavorare,to work
+533,unico,unico,only
+534,esattamente,esattamente,exactly
+535,squadra,squadra,team
+536,esatto,esatto,exact
+537,possono,potere,they can
+538,fate,fare,you (pl) do
+539,faro,faro,lighthouse
+540,sapete,sapere,you (pl) know
+541,dottor,dottore,doctor
+542,parola,parola,word
+543,piedi,piede,feet
+544,sopra,sopra,above
+545,motivo,motivo,reason
+546,avevi,avere,you had
+547,cavolo,cavolo,darn
+548,capitano,capitano,captain
+549,finita,finire,finished
+550,volete,volere,you (pl) want
+551,siano,essere,may be
+552,potresti,potere,you could
+553,gioco,gioco,game
+554,perfetto,perfetto,perfect
+555,be,bene,well
+556,mente,mente,mind
+557,mangiare,mangiare,to eat
+558,resto,resto,the rest
+559,credere,credere,to believe
+560,fortuna,fortuna,luck
+561,tratta,trattare,it's about
+562,chiamo,chiamare,I call/am called
+563,morta,morire,dead
+564,là,là,there
+565,entrambi,entrambi,both
+566,avresti,avere,you would have
+567,passare,passare,to pass
+568,cena,cena,dinner
+569,sarei,essere,I would be
+570,controllo,controllo,control
+571,affari,affare,business
+572,spiace,spiacere,sorry
+573,ultimo,ultimo,last
+574,facile,facile,easy
+575,farò,fare,I will do
+576,buongiorno,buongiorno,good morning
+577,davanti,davanti,in front
+578,tizio,tizio,guy
+579,dammi,dare,give me
+580,sicurezza,sicurezza,security
+581,dalle,da,from the
+582,quanti,quanto,how many
+583,dica,dire,tell me
+584,matrimonio,matrimonio,wedding
+585,vogliono,volere,they want
+586,molti,molto,many
+587,culo,culo,ass
+588,fuoco,fuoco,fire
+589,cercare,cercare,to search
+590,pistola,pistola,gun
+591,potremmo,potere,we could
+592,re,re,king
+593,mandato,mandare,sent
+594,puttana,puttana,whore
+595,negli,in,in the
+596,inizio,inizio,beginning
+597,saranno,essere,they will be
+598,causa,causa,cause
+599,voglia,voglia,desire
+600,mettere,mettere,to put
+601,fammi,fare,let me
+602,uccidere,uccidere,to kill
+603,vogliamo,volere,we want
+604,faremo,fare,we will do
+605,però,però,however
+606,genitori,genitore,parents
+607,sesso,sesso,sex
+608,potete,potere,you (pl) can
+609,ricevuto,ricevere,received
+610,vivo,vivo,alive
+611,presidente,presidente,president
+612,città,città,city
+613,succedendo,succedere,happening
+614,ospedale,ospedale,hospital
+615,fu,essere,was
+616,agli,a,to the
+617,scritto,scrivere,written
+618,smettila,smettere,stop it
+619,vada,andare,may go
+620,attenzione,attenzione,attention
+621,sulle,su,on the
+622,bere,bere,to drink
+623,situazione,situazione,situation
+624,omicidio,omicidio,murder
+625,revisione,revisione,revision
+626,avesse,avere,he/she had
+627,ottimo,ottimo,excellent
+628,cura,cura,care/cure
+629,durante,durante,during
+630,provato,provare,tried
+631,parole,parola,words
+632,lasciare,lasciare,to leave
+633,dicono,dire,they say
+634,prossima,prossimo,next
+635,nostre,nostro,our
+636,arrivato,arrivare,arrived
+637,paese,paese,country/town
+638,andate,andare,you (pl) go
+639,chiunque,chiunque,anyone
+640,capisci,capire,you understand
+641,pace,pace,peace
+642,immagino,immaginare,I imagine
+643,musica,musica,music
+644,tieni,tenere,you hold
+645,oddio,oddio,oh god
+646,libro,libro,book
+647,eravamo,essere,we were
+648,amica,amico,friend
+649,diventare,diventare,to become
+650,sui,su,on the
+651,sbagliato,sbagliare,wrong
+652,dirmi,dire,to tell me
+653,wow,wow,wow
+654,farai,fare,you will do
+655,entra,entrare,enters
+656,venuta,venire,come
+657,scelta,scelta,choice
+658,voluto,volere,wanted
+659,portare,portare,to bring
+660,assolutamente,assolutamente,absolutely
+661,molte,molto,many
+662,chiedo,chiedere,I ask
+663,torna,tornare,returns
+664,scoperto,scoprire,discovered
+665,fatti,fatto,facts
+666,settimane,settimana,weeks
+667,dirlo,dire,to say it
+668,alcuni,alcuno,some
+669,prigione,prigione,prison
+670,giornata,giornata,day
+671,piuttosto,piuttosto,rather
+672,buono,buono,good
+673,aspettare,aspettare,to wait
+674,parli,parlare,you speak
+675,arrivare,arrivare,to arrive
+676,lungo,lungo,long
+677,vede,vedere,sees
+678,avvocato,avvocato,lawyer
+679,deciso,decidere,decided
+680,sarai,essere,you will be
+681,messaggio,messaggio,message
+682,dormire,dormire,to sleep
+683,dieci,dieci,ten
+684,stupido,stupido,stupid
+685,usare,usare,to use
+686,dello,di,of the
+687,cielo,cielo,sky
+688,guardare,guardare,to watch
+689,bagno,bagno,bathroom
+690,aria,aria,air
+691,voce,voce,voice
+692,tornato,tornare,returned
+693,vuol,volere,wants/means
+694,giù,giù,down
+695,conosci,conoscere,you know
+696,benissimo,bene,very well
+697,prendo,prendere,I take
+698,cane,cane,dog
+699,restare,restare,to stay
+700,chiamare,chiamare,to call
+701,poter,potere,to be able
+702,campo,campo,field
+703,luce,luce,light
+704,qualunque,qualunque,any
+705,giovane,giovane,young
+706,signori,signore,gentlemen
+707,fra,fra,between
+708,provare,provare,to try
+709,minuto,minuto,minute
+710,saperlo,sapere,to know it
+711,lontano,lontano,far
+712,gruppo,gruppo,group
+713,continua,continuare,continues
+714,arrivo,arrivo,arrival
+715,gran,grande,great
+716,cerca,cercare,searches
+717,passo,passo,step
+718,domande,domanda,questions
+719,insomma,insomma,anyway
+720,bambina,bambino,little girl
+721,pensando,pensare,thinking
+722,capelli,capello,hair
+723,trova,trovare,finds
+724,onore,onore,honor
+725,aiutare,aiutare,to help
+726,verità,verità,truth
+727,prove,prova,tests/proofs
+728,funziona,funzionare,it works
+729,alto,alto,tall
+730,credevo,credere,I believed
+731,futuro,futuro,future
+732,preoccuparti,preoccuparsi,to worry
+733,idiota,idiota,idiot
+734,cibo,cibo,food
+735,fretta,fretta,hurry
+736,cara,caro,dear
+737,finalmente,finalmente,finally
+738,morti,morto,dead (people)
+739,odio,odiare,I hate
+740,solito,solito,usual
+741,brava,bravo,good
+742,incidente,incidente,accident
+743,allo,a,to the
+744,intenzione,intenzione,intention
+745,speciale,speciale,special
+746,cambiare,cambiare,to change
+747,vera,vero,true
+748,camera,camera,room
+749,oltre,oltre,beyond
+750,semplice,semplice,simple
+751,dirti,dire,to tell you
+752,riguardo,riguardo,regarding
+753,aspetto,aspettare,I wait
+754,viaggio,viaggio,trip
+755,chiaro,chiaro,clear
+756,chiamata,chiamata,call
+757,bocca,bocca,mouth
+758,permesso,permesso,permission
+759,piacerebbe,piacere,would like
+760,dovete,dovere,you (pl) must
+761,giocare,giocare,to play
+762,ordine,ordine,order
+763,circa,circa,about
+764,ovviamente,ovviamente,obviously
+765,finire,finire,to finish
+766,natale,natale,Christmas
+767,direi,dire,I would say
+768,vostri,vostro,your
+769,occhio,occhio,eye
+770,pronta,pronto,ready
+771,scusami,scusare,excuse me
+772,mattina,mattina,morning
+773,cercato,cercare,searched
+774,crede,credere,believes
+775,sistema,sistema,system
+776,fondo,fondo,bottom
+777,resta,restare,stays
+778,devono,dovere,they must
+779,prossimo,prossimo,next
+780,pronti,pronto,ready (pl)
+781,saputo,sapere,known
+782,scusate,scusare,sorry (pl)
+783,potere,potere,to be able
+784,milioni,milione,millions
+785,soltanto,soltanto,only
+786,armi,arma,weapons
+787,arriva,arrivare,arrives
+788,fermo,fermo,still/stopped
+789,mese,mese,month
+790,chiedere,chiedere,to ask
+791,cristo,cristo,Christ! (oath)
+792,torno,tornare,I return
+793,venite,venire,you (pl) come
+794,controllare,controllare,to check
+795,appuntamento,appuntamento,appointment
+796,chiami,chiamare,you call
+797,vecchia,vecchio,old (f)
+798,detective,detective,detective
+799,metti,mettere,you put
+800,grado,grado,degree/ability
+801,vanno,andare,they go
+802,nave,nave,ship
+803,iniziato,iniziare,started
+804,informazioni,informazione,information
+805,libero,libero,free
+806,stronzo,stronzo,asshole
+807,grandi,grande,big (pl)
+808,pezzo,pezzo,piece
+809,segreto,segreto,secret
+810,colpo,colpo,blow/hit
+811,faceva,fare,was doing
+812,piacciono,piacere,are liked
+813,porto,portare,I bring/take
+814,oppure,oppure,or
+815,completamente,completamente,completely
+816,vederti,vedere,to see you
+817,lista,lista,list
+818,venga,venire,(that) he come
+819,veloce,veloce,fast
+820,assassino,assassino,murderer
+821,sapeva,sapere,knew
+822,finché,finché,until
+823,ormai,ormai,by now
+824,interessa,interessare,interests
+825,generale,generale,general
+826,giusta,giusto,right/correct (f)
+827,tenere,tenere,to hold
+828,pazzo,pazzo,crazy
+829,vittima,vittima,victim
+830,giuro,giurare,I swear
+831,consiglio,consiglio,advice
+832,alcune,alcuno,some (f)
+833,semplicemente,semplicemente,simply
+834,zio,zio,uncle
+835,centro,centro,center
+836,specie,specie,species/kind
+837,mille,mille,thousand
+838,sogno,sogno,dream
+839,lasci,lasciare,you leave/let
+840,carino,carino,cute
+841,doveva,dovere,had to
+842,brutto,brutto,ugly/bad
+843,nello,in,in the
+844,aspetti,aspettare,you wait
+845,incredibile,incredibile,incredible
+846,sole,sole,sun
+847,glielo,lo,it to him/her
+848,legge,legge,law
+849,spesso,spesso,often
+850,guardate,guardare,look! (pl)
+851,cambiato,cambiare,changed
+852,scena,scena,scene
+853,volevi,volere,you wanted
+854,lasciami,lasciare,leave me
+855,gentile,gentile,kind
+856,rispetto,rispetto,respect
+857,ve,vi,"you (dat, clitic)"
+858,zitto,zitto,quiet/silent
+859,incontro,incontro,meeting
+860,farà,fare,will do
+861,servono,servire,are needed
+862,rapporto,rapporto,relationship
+863,errore,errore,error
+864,sanno,sapere,they know
+865,pagare,pagare,to pay
+866,sorpresa,sorpresa,surprise
+867,occhiata,occhiata,glance
+868,risposta,risposta,answer
+869,presa,prendere,taken (f)
+870,servizio,servizio,service
+871,medico,medico,doctor
+872,usato,usare,used
+873,hey,hey,hey
+874,caro,caro,dear/expensive
+875,schifo,schifo,disgust
+876,avrai,avere,you will have
+877,dolore,dolore,pain
+878,saresti,essere,you would be
+879,personale,personale,personal
+880,quali,quale,which (pl)
+881,peggio,peggio,worse
+882,addio,addio,farewell
+883,addosso,addosso,on (someone)
+884,dovevo,dovere,I had to
+885,poteva,potere,could
+886,pieno,pieno,full
+887,diverso,diverso,different
+888,vestiti,vestito,clothes
+889,sparato,sparare,shot
+890,realtà,realtà,reality
+891,do,dare,I give
+892,sarò,essere,I will be
+893,normale,normale,normal
+894,fame,fame,hunger
+895,programma,programma,program
+896,nonna,nonna,grandmother
+897,sappia,sapere,(that) he know
+898,sembrava,sembrare,seemed
+899,migliori,migliore,better/best (pl)
+900,notizie,notizia,news
+901,avevamo,avere,we had
+902,riesci,riuscire,you manage
+903,posizione,posizione,position
+904,vengo,venire,I come
+905,rimanere,rimanere,to remain
+906,compagnia,compagnia,company
+907,proposito,proposito,purpose
+908,farci,fare,to do it/us
+909,ricorda,ricordare,remembers
+910,prende,prendere,takes
+911,tante,tanto,so many (f)
+912,avevano,avere,they had
+913,arrivando,arrivare,arriving
+914,chiuso,chiudere,closed
+915,terribile,terribile,terrible
+916,ritardo,ritardo,delay
+917,attento,attento,careful
+918,bar,bar,bar
+919,sembri,sembrare,you seem
+920,fallo,fare,do it!
+921,dimenticato,dimenticare,forgotten
+922,bisogna,bisognare,one must
+923,impossibile,impossibile,impossible
+924,cioè,cioè,I mean
+925,studio,studio,study/office
+926,stessi,stesso,same (pl)
+927,arma,arma,weapon
+928,conosce,conoscere,knows
+929,uscita,uscita,exit
+930,fin,fino,until
+931,disse,dire,said
+932,vattene,andare,go away!
+933,quante,quanto,how many (f)
+934,guai,guaio,trouble
+935,intorno,intorno,around
+936,video,video,video
+937,manca,mancare,is missing
+938,esserci,essere,to be there
+939,grosso,grosso,big
+940,tanti,tanto,so many
+941,dolce,dolce,sweet
+942,chiave,chiave,key
+943,cervello,cervello,brain
+944,coraggio,coraggio,courage
+945,interessante,interessante,interesting
+946,peccato,peccato,shame/pity
+947,questione,questione,matter
+948,adoro,adorare,I adore
+949,aereo,aereo,airplane
+950,guardi,guardare,you look
+951,rubato,rubare,stolen
+952,sala,sala,hall/room
+953,base,base,base
+954,sette,sette,seven
+955,sente,sentire,feels/hears
+956,compleanno,compleanno,birthday
+957,potrebbero,potere,they could
+958,relazione,relazione,relationship
+959,cliente,cliente,customer
+960,spalle,spalla,shoulders
+961,seconda,secondo,second (f)
+962,parti,partire,you leave
+963,vale,valere,is worth
+964,qualcun,qualcuno,someone
+965,diritto,diritto,right (legal)
+966,sicuramente,sicuramente,surely
+967,appartamento,appartamento,apartment
+968,pranzo,pranzo,lunch
+969,saremo,essere,we will be
+970,denaro,denaro,money
+971,riuscito,riuscire,succeeded
+972,continuare,continuare,to continue
+973,serata,serata,evening
+974,nero,nero,black
+975,vestito,vestito,dress/suit
+976,carta,carta,paper
+977,ex,ex,ex
+978,dottoressa,dottoressa,doctor (f)
+979,bastardo,bastardo,bastard
+980,potevo,potere,I could
+981,iniziare,iniziare,to begin
+982,lavora,lavorare,works
+983,otto,otto,eight
+984,conosciuto,conoscere,known
+985,zona,zona,zone/area
+986,stavi,stare,you were
+987,intendo,intendere,I mean
+988,negozio,negozio,shop
+989,trovo,trovare,I find
+990,aspettando,aspettare,waiting
+991,partita,partita,match
+992,tv,tv,TV
+993,spazio,spazio,space
+994,notizia,notizia,news (item)
+995,tempi,tempo,times
+996,linea,linea,line
+997,riguarda,riguardare,concerns
+998,soli,solo,alone (pl)
+999,parliamo,parlare,we speak
+1000,uh,uh,uh
+,,,Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - sources and credits: https://apera.me/sources#word-list-sources

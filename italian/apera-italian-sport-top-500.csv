@@ -1,0 +1,502 @@
+rank,word,lemma,meaning
+1,di,di,of; from
+2,il,il,the (masc.)
+3,e,e,and
+4,la,la,the (fem.)
+5,in,in,in; into
+6,a,a,to; at; in
+7,che,che,that; which; who
+8,per,per,for; to; through
+9,è,essere,is (he/she/it)
+10,un,un,a; an (masc.)
+11,del,del,of the; some (masc.)
+12,con,con,with
+13,non,non,not
+14,ha,avere,has (he/she/it)
+15,i,il,the (masc. plural)
+16,al,al,to the; at the
+17,una,una,a; an (fem.)
+18,della,della,of the (fem.)
+19,le,le,the (fem. plural)
+20,da,da,from; by; since
+21,si,si,oneself; reflexive; one
+22,ma,ma,but
+23,anche,anche,also; even
+24,nel,nel,in the (masc.)
+25,più,più,more; most
+26,sono,essere,am; are (they)
+27,alla,alla,to the; at the (fem.)
+28,come,come,as; like; how
+29,dei,dei,of the (plural)
+30,lo,lo,the (masc.); him/it
+31,dopo,dopo,after; afterwards
+32,dal,dal,from the; since the
+33,gli,gli,the (masc. plural)
+34,squadra,squadra,team; squad
+35,nella,nella,in the (fem.)
+36,due,due,two
+37,su,su,on; about; up
+38,ci,ci,us; there; to us
+39,prima,prima,first; before; earlier
+40,sul,sul,on the (masc.)
+41,tra,tra,between; among; in (time)
+42,contro,contro,against
+43,ad,a,to; at (before vowel)
+44,questo,questo,this
+45,se,se,if
+46,delle,delle,of the (fem. plural)
+47,stagione,stagione,season
+48,serie,serie,series; league division (Serie A)
+49,ai,ai,to the (plural)
+50,suo,suo,his; her; its
+51,hanno,avere,have (they)
+52,stato,essere,been
+53,essere,essere,to be
+54,dalla,dalla,from the; since the (fem.)
+55,partita,partita,match; game
+56,ancora,ancora,still; again; yet
+57,sempre,sempre,always; still
+58,poi,poi,then; later
+59,questa,questo,this (fem.)
+60,molto,molto,very; much; a lot
+61,solo,solo,only; just
+62,punti,punto,points
+63,ed,e,and (before vowel)
+64,sua,suo,his; her; its (fem.)
+65,campo,campo,pitch; field
+66,sarà,essere,will be (he/she/it)
+67,campionato,campionato,league; championship
+68,gol,gol,goal
+69,tutti,tutto,everyone; all (plural)
+70,primo,primo,first
+71,club,club,club
+72,tutto,tutto,everything; all
+73,alle,alle,to the; at (fem. plural)
+74,fatto,fare,done; made
+75,gara,gara,match; race; competition
+76,già,già,already
+77,era,essere,was (he/she/it)
+78,tempo,tempo,time; half (of a match)
+79,calcio,calcio,football (soccer); kick
+80,uno,uno,one; a (masc.)
+81,cui,cui,whom; which (after prep.)
+82,secondo,secondo,second; according to
+83,mi,mi,me; to me; myself
+84,o,o,or
+85,anni,anno,years
+86,fare,fare,to do; to make
+87,perché,perché,why; because
+88,anno,anno,year
+89,sulla,sulla,on the (fem.)
+90,parte,parte,part; side
+91,quando,quando,when
+92,grande,grande,big; great; large
+93,abbiamo,avere,we have
+94,ho,avere,I have
+95,così,così,so; like this
+96,fa,fare,does; makes (he/she/it)
+97,ora,ora,now
+98,finale,finale,final (match)
+99,però,però,but; however
+100,tre,tre,three
+101,casa,casa,home (ground); house
+102,quello,quello,that one; that
+103,oggi,oggi,today
+104,sia,essere,be (subjunctive); both/either
+105,proprio,proprio,really; precisely
+106,giornata,giornata,matchday; day
+107,ore,ora,hours; o'clock
+108,nelle,nelle,in the (feminine plural)
+109,può,potere,can; may (he/she/it)
+110,giocatore,giocatore,player
+111,potrebbe,potere,could; might (he/she/it)
+112,bene,bene,well; good
+113,momento,momento,moment
+114,sport,sport,sport
+115,ex,ex,former; ex-
+116,lui,lui,he; him
+117,senza,senza,without
+118,sta,stare,is (doing); stays (he/she/it)
+119,nuovo,nuovo,new
+120,mercato,mercato,transfer market; market
+121,quanto,quanto,how much; as much as
+122,quella,quello,that one (feminine)
+123,nei,nei,in the (masculine plural)
+124,giocatori,giocatore,players
+125,degli,degli,of the (masculine plural); some
+126,allenatore,allenatore,coach; manager
+127,match,match,match; game
+128,posto,posto,place; position (in table)
+129,vittoria,vittoria,victory; win
+130,tecnico,tecnico,coach; manager
+131,stata,essere,been (feminine); was (she/it)
+132,dello,dello,of the (masculine)
+133,milioni,milione,millions (transfer fees)
+134,fine,fine,end
+135,siamo,essere,we are
+136,società,società,club; company
+137,loro,loro,they; them; their
+138,team,team,team
+139,altro,altro,other; another
+140,partite,partita,matches; games
+141,classifica,classifica,league table; standings
+142,squadre,squadra,teams
+143,dove,dove,where
+144,invece,invece,instead; whereas
+145,fino,fino,until (fino a); up to
+146,mai,mai,never; ever
+147,punto,punto,point
+148,importante,importante,important
+149,mentre,mentre,while; whereas
+150,gioco,gioco,game; play; style of play
+151,infatti,infatti,in fact; indeed
+152,qui,qui,here
+153,chi,chi,who; whoever
+154,ogni,ogni,every; each
+155,volta,volta,time (occasion); turn
+156,cosa,cosa,thing; what
+157,mondo,mondo,world
+158,tifosi,tifoso,fans; supporters
+159,sarebbe,essere,would be (he/she/it)
+160,giocare,giocare,to play
+161,aver,avere,to have (short form)
+162,giorni,giorno,days
+163,qualche,qualche,some; a few
+164,calciomercato,calciomercato,football transfer market
+165,fuori,fuori,out; outside; away
+166,sfida,sfida,challenge; clash (match)
+167,quindi,quindi,therefore; so
+168,poco,poco,little; not much
+169,minuti,minuto,minutes
+170,ne,ne,of it; of them; from there
+171,noi,noi,we; us
+172,oltre,oltre,beyond; more than; over
+173,girone,girone,group (stage); round-robin
+174,aveva,avere,had (he/she/it)
+175,ultimo,ultimo,last; latest
+176,tutte,tutto,all (feminine plural)
+177,altri,altro,others; other (plural)
+178,visto,vedere,seen; given that
+179,subito,subito,immediately; straight away
+180,ecco,ecco,here is; there is; that's it
+181,vista,vista,sight; view
+182,inizio,inizio,start; beginning
+183,via,via,way; street; away
+184,meno,meno,less; fewer; minus
+185,meglio,meglio,better; best
+186,euro,euro,euro(s)
+187,dai,dai,from the (masculine plural)
+188,attaccante,attaccante,forward; striker
+189,caso,caso,case; (in caso di) in case of
+190,futuro,futuro,future
+191,coppa,coppa,cup (trophy/competition)
+192,suoi,suo,his/her/its (plural things)
+193,nazionale,nazionale,national team
+194,soprattutto,soprattutto,above all; especially
+195,sue,suo,his/her/its (feminine plural)
+196,numero,numero,number
+197,seconda,secondo,second (feminine)
+198,ultime,ultimo,last; latest (feminine plural)
+199,porta,porta,goal; door
+200,palla,palla,ball
+201,testa,testa,head; (di testa) header
+202,parole,parola,words
+203,presidente,presidente,president; club chairman
+204,gruppo,gruppo,group; squad; pack
+205,va,andare,goes; is going (he/she)
+206,grazie,grazie,thanks; thank you
+207,stesso,stesso,same; himself
+208,sembra,sembrare,seems; looks (it/he/she)
+209,difesa,difesa,defence
+210,tanto,tanto,so much; a lot
+211,stati,essere,been (masc. pl.)
+212,ultima,ultimo,last; latest (feminine)
+213,possibile,possibile,possible
+214,nuova,nuovo,new (feminine)
+215,domenica,domenica,Sunday
+216,quale,quale,which; what
+217,modo,modo,way; manner
+218,sui,su,on the (plural); about the
+219,questi,questo,these (masculine)
+220,rispetto,rispetto,compared to; respect
+221,avere,avere,to have
+222,maglia,maglia,shirt; jersey
+223,detto,dire,said; (he) said
+224,me,me,me
+225,vincere,vincere,to win
+226,nostro,nostro,our
+227,deve,dovere,must; has to (he/she)
+228,allo,a,to the; at the (masc.)
+229,io,io,I
+230,lavoro,lavoro,work; job
+231,sotto,sotto,under; below
+232,avuto,avere,had
+233,ritorno,ritorno,return; second leg
+234,situazione,situazione,situation
+235,negli,in,in the (plural masc.)
+236,risultato,risultato,result; score
+237,san,santo,saint; (San Siro etc.)
+238,area,area,area; penalty area
+239,dalle,da,from the (feminine plural)
+240,contratto,contratto,contract
+241,ben,bene,well; (ben + number) fully
+242,altra,altro,other; another (feminine)
+243,queste,questo,these (feminine)
+244,quattro,quattro,four
+245,altre,altro,other (feminine plural)
+246,quel,quello,that (masculine)
+247,scorso,scorso,"last; previous (season, year)"
+248,col,con,with the
+249,occasione,occasione,chance; opportunity; occasion
+250,gennaio,gennaio,January
+251,successo,successo,success; happened
+252,sulle,su,on the (feminine plural)
+253,calciatore,calciatore,footballer; football player
+254,livello,livello,level
+255,volte,volta,times; occasions
+256,ieri,ieri,yesterday
+257,arriva,arrivare,arrives; is coming (he/she)
+258,giorno,giorno,day
+259,parlato,parlare,spoke; has spoken
+260,difficile,difficile,difficult; hard
+261,storia,storia,story; history
+262,quasi,quasi,almost
+263,nonostante,nonostante,despite; although
+264,italiano,italiano,Italian
+265,gare,gara,matches; races; competitions
+266,avanti,avanti,ahead; forward; on
+267,vantaggio,vantaggio,lead; advantage
+268,prova,prova,test; performance; trial
+269,settimana,settimana,week
+270,classe,classe,class; (born in year) generation
+271,agli,a,to the (plural masc.)
+272,stadio,stadio,stadium
+273,ultimi,ultimo,last; latest (masc. plural)
+274,saranno,essere,will be (they)
+275,dato,dato,given; data point
+276,corso,corso,course; (in corso) under way
+277,panchina,panchina,bench; coaching job
+278,difensore,difensore,defender
+279,forte,forte,strong
+280,centrocampista,centrocampista,midfielder
+281,risultati,risultato,results; scores
+282,avrebbe,avere,would have (he/she)
+283,durante,durante,during
+284,foto,foto,photo(s); picture(s)
+285,comunque,comunque,anyway; however
+286,attacco,attacco,attack; offense (forwards)
+287,diretta,diretta,live broadcast; (in diretta) live
+288,domani,domani,tomorrow
+289,prossima,prossimo,next (fem.)
+290,tanti,tanto,many; so many
+291,posizione,posizione,position; league standing
+292,qualità,qualità,quality
+293,verso,verso,toward; around (time)
+294,obiettivo,obiettivo,goal; target; objective
+295,mondiale,mondiale,world; World Cup (il Mondiale)
+296,far,fare,to make; to do
+297,dare,dare,to give
+298,dire,dire,to say; to tell
+299,terzo,terzo,third
+300,vedere,vedere,to see
+301,ufficiale,ufficiale,official
+302,vuole,volere,wants (he/she)
+303,carriera,carriera,career
+304,fase,fase,phase; stage
+305,davvero,davvero,really; truly
+306,andare,andare,to go
+307,giro,giro,lap; round; Giro (cycling race)
+308,esperienza,esperienza,experience
+309,insieme,insieme,together
+310,stampa,stampa,press; media
+311,ormai,ormai,by now; at this point
+312,grandi,grande,big; great (pl.)
+313,troppo,troppo,too much; too
+314,prossimo,prossimo,next
+315,dobbiamo,dovere,we must; we have to
+316,mesi,mese,months
+317,disposizione,disposizione,(a disposizione) available; disposal
+318,primi,primo,first (pl.)
+319,mio,mio,my; mine
+320,vinto,vincere,won
+321,arrivo,arrivo,arrival; finish line
+322,sabato,sabato,Saturday
+323,portiere,portiere,goalkeeper
+324,viene,venire,comes (he/she)
+325,termine,termine,end; deadline
+326,turno,turno,round; matchday; turn
+327,cose,cosa,things
+328,colpo,colpo,shot; blow; hit
+329,seguito,seguito,(in seguito) afterwards; followed
+330,tiro,tiro,shot (at goal)
+331,rosa,rosa,squad; roster
+332,davanti,davanti,in front; ahead
+333,programma,programma,program; schedule
+334,massimo,massimo,maximum; highest
+335,giocato,giocare,played
+336,tornare,tornare,to return; to come back
+337,sconfitta,sconfitta,defeat; loss
+338,quarto,quarto,fourth; quarter
+339,adesso,adesso,now
+340,qualcosa,qualcosa,something
+341,accordo,accordo,agreement; deal
+342,migliori,migliore,best; better (pl.)
+343,sei,sei,you are; six
+344,forse,forse,maybe; perhaps
+345,tutta,tutto,all; whole (fem.)
+346,giovane,giovane,young; young player
+347,trovare,trovare,to find
+348,giugno,giugno,June
+349,arrivare,arrivare,to arrive; to reach
+350,calciatori,calciatore,footballers; players
+351,rigore,rigore,penalty (kick)
+352,possibilità,possibilità,possibility; chances
+353,prime,primo,first (fem. pl.)
+354,gran,grande,great; big (before noun)
+355,importanti,importante,important (pl.)
+356,nome,nome,name
+357,mia,mio,my; mine (fem.)
+358,fra,fra,between; among; in (time)
+359,formazione,formazione,lineup; team formation
+360,nostra,nostro,our (fem.)
+361,rete,rete,goal; net
+362,sicuramente,sicuramente,surely; certainly
+363,sera,sera,evening
+364,top,top,top; best
+365,alcuni,alcuno,some; a few
+366,assist,assist,assist
+367,pronto,pronto,ready; hello (phone)
+368,certo,certo,certain; sure
+369,centro,centro,center; (football) cross
+370,cinque,cinque,five
+371,tv,tv,TV
+372,arrivato,arrivare,arrived (past participle)
+373,pallone,pallone,ball (football)
+374,ruolo,ruolo,role; playing position
+375,sportivo,sportivo,sporting; sports
+376,reti,rete,goals; nets
+377,titolo,titolo,title; championship
+378,alto,alto,high; tall
+379,andata,andata,first leg; outward trip
+380,news,news,news
+381,corsa,corsa,race; run; sprint
+382,derby,derby,derby (local rivalry match)
+383,continua,continuare,continues (he/she/it)
+384,prestito,prestito,loan (player on loan)
+385,almeno,almeno,at least
+386,resta,restare,stays; remains (he/she/it)
+387,tornei,torneo,tournaments
+388,estate,estate,summer
+389,ragazzi,ragazzo,boys; lads; guys
+390,difficoltà,difficoltà,difficulty; trouble
+391,messo,mettere,put; placed (past participle)
+392,pochi,poco,few; not many
+393,campione,campione,champion
+394,dunque,dunque,so; therefore
+395,propria,proprio,own (feminine)
+396,centrocampo,centrocampo,midfield
+397,lungo,lungo,long; (long ball)
+398,vita,vita,life
+399,migliore,migliore,best; better
+400,vero,vero,true; real
+401,no,no,no
+402,ripresa,ripresa,second half; recovery
+403,formula,formula,formula; format (of competition)
+404,problema,problema,problem
+405,formazioni,formazione,line-ups; teams
+406,appena,appena,just; as soon as; barely
+407,mister,mister,coach; manager
+408,scelta,scelta,choice; selection
+409,erano,essere,were (they)
+410,lega,lega,league
+411,problemi,problema,problems
+412,gioca,giocare,plays (he/she/it)
+413,poter,potere,to be able to
+414,mezzo,mezzo,half; means
+415,buona,buono,good (feminine)
+416,partire,partire,to leave; to start
+417,ti,ti,you (object); to you
+418,periodo,periodo,period; spell
+419,vittorie,vittoria,victories; wins
+420,passo,passo,step; pace
+421,infortunio,infortunio,injury
+422,media,media,average
+423,categoria,categoria,category; division
+424,torneo,torneo,tournament
+425,possono,potere,can (they); may (they)
+426,passato,passato,past
+427,possa,potere,may (he/she); can (subjunctive)
+428,giovani,giovane,young; youngsters
+429,città,città,city
+430,spesso,spesso,often
+431,dovrà,dovere,will have to (he/she)
+432,progetto,progetto,project; plan
+433,forza,forza,strength; force
+434,causa,causa,cause; reason
+435,diversi,diverso,several; different
+436,direttore,direttore,director; manager (sporting director)
+437,deciso,deciso,decided; determined
+438,set,set,set (tennis/volleyball)
+439,esterno,esterno,wide player; winger; outside
+440,scudetto,scudetto,league title (Serie A)
+441,minuto,minuto,minute
+442,torna,tornare,returns (he/she/it)
+443,femminile,femminile,women's; feminine
+444,dovrebbe,dovere,should (he/she/it)
+445,compagni,compagno,teammates; companions
+446,basket,basket,basketball
+447,notizia,notizia,piece of news
+448,tempi,tempo,times; periods (of play)
+449,spazio,spazio,space; room
+450,francese,francese,French
+451,pareggio,pareggio,draw; tie
+452,centrale,centrale,central; centre (midfielder/back)
+453,settimane,settimana,weeks
+454,stanno,stare,they are; they stay
+455,incontro,incontro,"match, meeting"
+456,quelli,quello,those (ones)
+457,credo,credere,"I believe, I think"
+458,molti,molto,many
+459,titolare,titolare,starter (first-team player)
+460,nulla,nulla,nothing
+461,pilota,pilota,driver (racing); pilot
+462,video,video,video
+463,quali,quale,which; what
+464,pista,pista,"track, circuit"
+465,recupero,recupero,stoppage time; recovery
+466,particolare,particolare,"particular, special; detail"
+467,tante,tanto,"many, so many"
+468,circa,circa,"about, approximately"
+469,arbitro,arbitro,referee
+470,terza,terzo,third (f.)
+471,condizioni,condizione,conditions; (fitness) condition
+472,percorso,percorso,"route, course; path"
+473,capire,capire,to understand
+474,vincitore,vincitore,winner
+475,prestazione,prestazione,performance
+476,mettere,mettere,to put; to place
+477,pro,pro,"pro; for, in favour of"
+478,destra,destra,right; right side
+479,entra,entrare,(he) comes on; enters
+480,microfoni,microfono,microphones
+481,giusto,giusto,"right, correct; fair"
+482,buon,buono,good (before noun)
+483,alcune,alcuno,some (f. pl.)
+484,destro,destro,right-footed; right foot
+485,ciò,ciò,"that, this (thing)"
+486,notizie,notizia,news; news items
+487,bisogna,bisognare,"one must, it is necessary"
+488,addio,addio,"farewell, goodbye"
+489,piace,piacere,(he/she/it) pleases; (I) like
+490,preso,prendere,taken; caught; conceded (goal)
+491,avversario,avversario,opponent
+492,maggio,maggio,May
+493,facendo,fare,"doing, making"
+494,sinistra,sinistra,left; left side
+495,fallo,fallo,foul
+496,sito,sito,"website, site"
+497,punta,punta,striker (forward); tip
+498,partenza,partenza,start; departure
+499,scorsa,scorso,"last, past (f.)"
+500,portare,portare,"to carry, to bring"
+,,,Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - sources and credits: https://apera.me/sources#reading-lists

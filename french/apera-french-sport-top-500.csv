@@ -1,0 +1,502 @@
+rank,word,lemma,meaning
+1,de,de,"of, from"
+2,la,le,the (feminine)
+3,le,le,the (masculine)
+4,et,et,and
+5,à,à,"to, at, in"
+6,les,le,the (plural)
+7,en,en,"in, as, while"
+8,un,un,"a, one (masculine)"
+9,des,de,"some, of the (plural)"
+10,du,de,"of the, some (masculine)"
+11,une,un,"a, one (feminine)"
+12,pour,pour,"for, in order to"
+13,est,être,is (he/she/it)
+14,a,avoir,has (he/she/it)
+15,sur,sur,"on, about"
+16,il,il,"he, it"
+17,dans,dans,"in, inside"
+18,au,à,"at the, to the"
+19,que,que,"that, than, which"
+20,qui,qui,"who, which"
+21,avec,avec,with
+22,ce,ce,"this, that"
+23,plus,plus,more
+24,pas,pas,not (negation)
+25,par,par,"by, through"
+26,son,son,"his, her, its"
+27,mais,mais,but
+28,cette,ce,"this, that (feminine)"
+29,se,se,"himself, herself, themselves"
+30,ne,ne,not (with pas)
+31,vous,vous,you (plural/formal)
+32,on,on,"one, we, people"
+33,ou,ou,or
+34,je,je,I
+35,sa,son,"his, her, its (feminine)"
+36,nous,nous,"we, us"
+37,aux,à,"to the, at the (plural)"
+38,après,après,after
+39,tout,tout,"all, everything, whole"
+40,sont,être,are (they)
+41,bien,bien,"well, good"
+42,être,être,to be
+43,saison,saison,season
+44,équipe,équipe,team
+45,deux,deux,two
+46,été,être,been
+47,ont,avoir,have (they)
+48,ses,son,"his, her, its (plural)"
+49,comme,comme,"as, like"
+50,club,club,club
+51,terrain,terrain,"pitch, field"
+52,match,match,"match, game"
+53,très,très,very
+54,peut,pouvoir,can (he/she/it)
+55,fait,faire,"does, makes (he/she/it)"
+56,même,même,"same, even"
+57,aussi,aussi,"also, too"
+58,avant,avant,before
+59,si,si,if
+60,elle,elle,"she, it"
+61,leur,leur,their
+62,ces,ce,"these, those"
+63,faire,faire,"to do, to make"
+64,tennis,tennis,tennis
+65,votre,votre,your (formal/plural)
+66,y,y,"there, to it"
+67,court,court,court (tennis)
+68,jeu,jeu,"game, play"
+69,ans,an,years (age)
+70,contre,contre,against
+71,course,course,race
+72,lors,lors,during (lors de)
+73,sans,sans,without
+74,était,être,was (he/she/it)
+75,joueurs,joueur,players
+76,temps,temps,"time, weather"
+77,entre,entre,between
+78,donc,donc,"so, therefore"
+79,monde,monde,world
+80,encore,encore,"still, again, yet"
+81,ainsi,ainsi,"thus, like this"
+82,également,également,"also, equally"
+83,ai,avoir,have (I)
+84,lui,lui,"him, to him/her"
+85,depuis,depuis,"since, for"
+86,face,face,facing (face à)
+87,première,premier,first (feminine)
+88,suite,suite,"following, result"
+89,place,place,"place, position"
+90,ils,ils,they (masculine)
+91,cela,cela,"that, this"
+92,fois,fois,"time, occasion"
+93,sera,être,will be (he/she/it)
+94,peu,peu,"little, few"
+95,premier,premier,first (masculine)
+96,avoir,avoir,to have
+97,où,où,"where, in which"
+98,prix,prix,"prize, price"
+99,avait,avoir,he/she/it had
+100,tour,tour,turn; round; lap
+101,tous,tout,all; everyone
+102,sport,sport,sport
+103,lire,lire,to read
+104,coupe,coupe,cup (trophy/competition)
+105,ligue,ligue,league
+106,alors,alors,so; then; at that time
+107,déjà,déjà,already; before
+108,finale,finale,final (match)
+109,va,aller,goes; is going to
+110,construction,construction,building; construction; build-up
+111,année,année,year; season
+112,grand,grand,big; great; tall
+113,notre,notre,our
+114,chaque,chaque,each; every
+115,toujours,toujours,always; still
+116,quelques,quelque,a few; some
+117,plusieurs,plusieurs,several
+118,stade,stade,stadium
+119,ça,ça,that; it
+120,effet,effet,effect; spin
+121,points,point,points; points scored
+122,bon,bon,good
+123,joueur,joueur,player
+124,dernier,dernier,last; latest
+125,permet,permettre,allows; enables (it)
+126,niveau,niveau,level; standard
+127,saint,saint,saint; Saint- (in names)
+128,football,football,football; soccer
+129,matchs,match,matches; games
+130,moins,moins,less; fewer; minus
+131,reste,rester,remains; stays (it)
+132,trois,trois,three
+133,victoire,victoire,victory; win
+134,fin,fin,end
+135,nouvelle,nouveau,new (fem.)
+136,départ,départ,start; departure
+137,selon,selon,according to
+138,km,km,km; kilometres
+139,autres,autre,other; others
+140,notamment,notamment,notably; in particular
+141,faut,falloir,is needed; must (it)
+142,championnat,championnat,championship; league
+143,vos,votre,your (plural)
+144,sous,sous,under; below
+145,projet,projet,project; plan
+146,beaucoup,beaucoup,a lot; much; many
+147,rugby,rugby,rugby
+148,français,français,French; Frenchman
+149,dernière,dernier,last; latest (fem.)
+150,nouveau,nouveau,new
+151,doit,devoir,must; has to; owes (it)
+152,choix,choix,choice; selection
+153,quand,quand,when
+154,souvent,souvent,often
+155,cet,ce,this (before vowel)
+156,retour,retour,return; second leg
+157,me,me,me; to me
+158,journée,journée,matchday; day
+159,non,non,no; not
+160,qualité,qualité,quality
+161,but,but,goal
+162,dès,dès,from; as early as
+163,là,là,there; here
+164,bonne,bon,good (fem.)
+165,début,début,start; beginning
+166,arrivée,arrivée,finish line; arrival
+167,samedi,samedi,Saturday
+168,jour,jour,day
+169,buts,but,goals
+170,dimanche,dimanche,Sunday
+171,car,car,because; for
+172,autre,autre,other; another
+173,mois,mois,month
+174,étape,étape,stage (of a race); step
+175,côté,côté,side; flank
+176,suis,être,I am
+177,clubs,club,clubs
+178,toute,tout,all; whole (fem.)
+179,groupe,groupe,group; squad
+180,trail,trail,trail running
+181,compte,compter,counts; account
+182,coup,coup,blow; shot; kick
+183,performance,performance,performance
+184,marque,marquer,scores; marks (it)
+185,équipes,équipe,teams
+186,confort,confort,comfort
+187,soit,être,be (subjunctive); either/or
+188,moment,moment,moment; time
+189,mieux,mieux,better
+190,deuxième,deuxième,second
+191,peuvent,pouvoir,they can; they may
+192,leurs,leur,their
+193,avons,avoir,we have
+194,chez,chez,at the home of; at
+195,pourrait,pouvoir,could; might (he/she/it)
+196,ligne,ligne,line (pitch/finish/track)
+197,point,point,point (score)
+198,jouer,jouer,to play
+199,dont,dont,"of which, whose"
+200,grâce,grâce,"thanks (to), grace"
+201,compétition,compétition,competition
+202,toutes,tout,all (feminine plural)
+203,parcours,parcours,"course, career path, route"
+204,semaine,semaine,week
+205,partie,partie,"part; match, game"
+206,trop,trop,"too much, too"
+207,expérience,expérience,experience
+208,mon,mon,my (masculine)
+209,nos,notre,our (plural)
+210,entraîneur,entraîneur,"coach, trainer"
+211,jours,jour,days
+212,voir,voir,to see
+213,pendant,pendant,"during, while"
+214,puis,puis,"then, next"
+215,tête,tête,head; header (football)
+216,vers,vers,"towards, around"
+217,meilleur,meilleur,"best, better"
+218,champions,champion,champions
+219,seulement,seulement,"only, just"
+220,site,site,"site, venue, website"
+221,offre,offre,offer; (he) offers
+222,cas,cas,case
+223,minutes,minute,minutes
+224,titre,titre,title (championship)
+225,malgré,malgré,despite
+226,entraînement,entraînement,"training, practice session"
+227,surface,surface,surface (court/pitch)
+228,classement,classement,"ranking, standings"
+229,prendre,prendre,to take
+230,grande,grand,"big, great (feminine)"
+231,jamais,jamais,"never, ever"
+232,sportif,sportif,sporting; athlete
+233,surtout,surtout,"especially, above all"
+234,eu,avoir,had (past participle)
+235,années,année,years
+236,jeux,jeu,games
+237,simple,simple,simple; singles (tennis)
+238,pied,pied,foot
+239,certains,certain,"some, certain ones"
+240,rencontre,rencontre,"match, meeting; (he) meets"
+241,afin,afin,in order (to) (afin de)
+242,haut,haut,"high, top"
+243,vraiment,vraiment,"really, truly"
+244,conditions,condition,conditions
+245,courses,course,races
+246,histoire,histoire,"history, story"
+247,comment,comment,how
+248,long,long,long
+249,mal,mal,"badly; pain, harm"
+250,milieu,milieu,midfield; middle
+251,désormais,désormais,"from now on, now"
+252,pays,pays,country
+253,aura,avoir,will have (he/she)
+254,om,OM,OM (Olympique de Marseille)
+255,quatre,quatre,four
+256,entretien,entretien,interview; upkeep
+257,team,team,team (anglicism)
+258,ancien,ancien,"former, old"
+259,ici,ici,here
+260,mercato,mercato,transfer window
+261,petit,petit,"small, little"
+262,technique,technique,technique; technical
+263,jeune,jeune,young; youngster
+264,techniques,technique,techniques; technical (plural)
+265,rapidement,rapidement,quickly
+266,juin,juin,June
+267,euros,euro,euros
+268,devant,devant,"in front of, ahead"
+269,elles,elles,they (feminine)
+270,olympique,olympique,Olympic
+271,performances,performance,performances
+272,champion,champion,champion
+273,forme,forme,"form, fitness"
+274,vie,vie,life
+275,tu,tu,you (informal)
+276,rien,rien,nothing
+277,week,week,week (in week-end)
+278,service,service,serve (tennis); service
+279,juillet,juillet,July
+280,carrière,carrière,career
+281,top,top,"top, best"
+282,jeunes,jeune,"young people, youngsters"
+283,ensuite,ensuite,"then, afterwards"
+284,pense,penser,think(s) (I/he)
+285,belle,beau,"beautiful, nice (feminine)"
+286,sol,sol,"ground, floor"
+287,ailleurs,ailleurs,elsewhere
+288,matériaux,matériau,materials
+289,coureurs,coureur,"runners, riders (cycling)"
+290,tournoi,tournoi,tournament
+291,occasion,occasion,chance (to score); occasion
+292,moi,moi,"me, I"
+293,ma,ma,my (feminine)
+294,vendredi,vendredi,Friday
+295,end,end,end (English word)
+296,troisième,troisième,third
+297,demi,demi,half; semi (final)
+298,pourquoi,pourquoi,why
+299,août,août,August
+300,pu,pouvoir,been able to; could (he/she)
+301,aller,aller,to go
+302,maillot,maillot,"jersey, shirt"
+303,revêtement,revêtement,"surface (pitch, track)"
+304,contrat,contrat,contract
+305,tant,tant,"so much, so many"
+306,quinté,quinté,quinté (horse-racing bet)
+307,mars,mars,March
+308,poids,poids,weight
+309,lieu,lieu,"place, venue"
+310,devrait,devoir,should (he/she/it)
+311,pris,prendre,taken
+312,semaines,semaine,weeks
+313,vélo,vélo,bike; cycling
+314,eau,eau,water
+315,résultats,résultat,results
+316,cependant,cependant,however
+317,septembre,septembre,September
+318,travail,travail,work
+319,kg,kg,kilograms
+320,sports,sport,sports
+321,millions,million,millions
+322,possible,possible,possible
+323,éviter,éviter,to avoid
+324,sportifs,sportif,athletes; sportsmen
+325,autant,autant,"as much, as many"
+326,mai,mai,May
+327,suivre,suivre,to follow
+328,important,important,important
+329,type,type,type; guy
+330,préparation,préparation,preparation; training
+331,partants,partant,starters (race runners)
+332,dire,dire,to say
+333,enfin,enfin,finally
+334,terme,terme,term; end
+335,objectif,objectif,"goal, target"
+336,score,score,score
+337,sécurité,sécurité,"safety, security"
+338,centre,centre,centre; cross (football)
+339,exemple,exemple,example
+340,pratique,pratique,practice; (he) practises
+341,international,international,international
+342,aurait,avoir,would have (he/she)
+343,soir,soir,evening
+344,part,part,share; (he) leaves
+345,dit,dire,said; says (he)
+346,édition,édition,edition
+347,drainage,drainage,drainage
+348,janvier,janvier,January
+349,équipements,équipement,equipment; facilities
+350,jean,Jean,Jean (first name)
+351,ensemble,ensemble,together
+352,passé,passé,past; passed
+353,autour,autour,around
+354,difficile,difficile,difficult
+355,vu,voir,seen
+356,dernières,dernier,last; latest (fem. pl.)
+357,période,période,period
+358,assez,assez,enough; rather
+359,chaussures,chaussure,shoes
+360,an,an,year
+361,mondial,mondial,world; World Cup (le Mondial)
+362,savoir,savoir,to know
+363,base,base,base
+364,semble,sembler,seems (it)
+365,celui,celui,the one; he who
+366,succès,succès,success
+367,hommes,homme,men
+368,parfois,parfois,sometimes
+369,piste,piste,"track (athletics, cycling)"
+370,meilleure,meilleur,best; better (fem.)
+371,cinq,cinq,five
+372,sportive,sportif,sporty; sportswoman (fem.)
+373,premiers,premier,first (masc. pl.)
+374,heures,heure,hours
+375,nombreux,nombreux,"many, numerous"
+376,meilleurs,meilleur,best (masc. pl.)
+377,pro,pro,"pro, professional"
+378,mettre,mettre,to put
+379,mise,mise,"bet, stake"
+380,loin,loin,far
+381,devient,devenir,becomes (he/she/it)
+382,partir,partir,to leave
+383,plutôt,plutôt,rather
+384,seront,être,will be (they)
+385,prochain,prochain,next
+386,foot,foot,football (soccer)
+387,seul,seul,alone; only
+388,chose,chose,thing
+389,rester,rester,to stay
+390,cadre,cadre,frame; executive
+391,professionnel,professionnel,professional
+392,derniers,dernier,"last, latest (pl.)"
+393,padel,padel,padel (racket sport)
+394,gros,gros,"big, large"
+395,mètres,mètre,metres
+396,vitesse,vitesse,speed
+397,couleur,couleur,colour
+398,supporters,supporter,"supporters, fans"
+399,derrière,derrière,behind
+400,ballon,ballon,ball
+401,heure,heure,hour; time (of day)
+402,rénovation,rénovation,renovation
+403,parfaitement,parfaitement,perfectly
+404,résultat,résultat,result
+405,programme,programme,"programme, schedule"
+406,confiance,confiance,"confidence, trust"
+407,maintenant,maintenant,now
+408,juste,juste,fair; just; right
+409,public,public,"crowd, audience"
+410,puissance,puissance,power
+411,mercredi,mercredi,Wednesday
+412,sud,sud,south
+413,passe,passe,pass (ball)
+414,ci,ci,here (as in ci-dessous)
+415,attaquant,attaquant,"striker, forward"
+416,final,final,final
+417,certaines,certain,"some, certain (f. pl.)"
+418,système,système,system
+419,doivent,devoir,must; have to (they)
+420,pourtant,pourtant,"yet, however"
+421,oui,oui,yes
+422,fort,fort,strong
+423,finalement,finalement,"finally, in the end"
+424,chevaux,cheval,horses
+425,tandis,tandis,whereas (tandis que)
+426,passer,passer,to pass; to go through
+427,serait,être,would be (he/she/it)
+428,pierre,Pierre,Pierre (first name)
+429,lorsque,lorsque,when
+430,gagner,gagner,to win
+431,française,français,French (f.)
+432,avril,avril,April
+433,physique,physique,physical
+434,nombre,nombre,number
+435,particulièrement,particulièrement,particularly
+436,informations,information,"information, news (pl.)"
+437,cours,cours,course; class
+438,contraintes,contrainte,constraints
+439,mis,mettre,put; placed (past part.)
+440,durant,durant,during
+441,rapide,rapide,"fast, quick"
+442,vite,vite,"quickly, fast"
+443,grands,grand,"big, great (pl.)"
+444,jeudi,jeudi,Thursday
+445,rôle,rôle,role
+446,six,six,six
+447,défaite,défaite,"defeat, loss"
+448,président,président,president
+449,ville,ville,"city, town"
+450,mardi,mardi,Tuesday
+451,direct,direct,live (en direct); direct
+452,route,route,road
+453,gamme,gamme,range (of products)
+454,pouvez,pouvoir,you can (pl./formal)
+455,formation,formation,training; formation
+456,mes,mon,my (pl.)
+457,formule,formule,formula; package
+458,sélection,sélection,selection; national team
+459,février,février,February
+460,situation,situation,situation
+461,vidéo,vidéo,video
+462,parce,parce,because (parce que)
+463,mi,mi,"half, mid- (mi-temps)"
+464,près,près,"near, close"
+465,montre,montrer,shows (he/she/it)
+466,synthétique,synthétique,"synthetic, artificial (turf)"
+467,eux,eux,them (m.)
+468,vient,venir,comes (he/she/it)
+469,durée,durée,"duration, length"
+470,besoin,besoin,need
+471,prochaine,prochain,next (f.)
+472,femmes,femme,women
+473,octobre,octobre,October
+474,étaient,être,were (they)
+475,ceux,celui,those (m. pl.)
+476,joue,jouer,plays (he/she/it)
+477,plan,plan,plan
+478,ayant,avoir,having
+479,décembre,décembre,December
+480,manière,manière,"manner, way"
+481,parmi,parmi,among
+482,général,général,"general, overall"
+483,presse,presse,"press, the media"
+484,veut,vouloir,wants (he/she)
+485,essentiel,essentiel,essential; the key thing
+486,victoires,victoire,"victories, wins"
+487,remporté,remporter,won (past participle)
+488,droit,droit,right; law
+489,compétitions,compétition,competitions
+490,phase,phase,"phase, stage (of a tournament)"
+491,novembre,novembre,November
+492,marathon,marathon,marathon
+493,terre,terre,"earth, land, ground"
+494,épreuve,épreuve,"event, race (competition)"
+495,moteur,moteur,engine (motor)
+496,quel,quel,"which, what"
+497,seconde,seconde,second (time); second (f.)
+498,trouver,trouver,to find
+499,durabilité,durabilité,sustainability
+500,rythme,rythme,"rhythm, pace"
+,,,Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - sources and credits: https://apera.me/sources#reading-lists

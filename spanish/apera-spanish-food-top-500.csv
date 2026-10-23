@@ -1,0 +1,502 @@
+rank,word,lemma,meaning
+1,de,de,of; from
+2,y,y,and
+3,la,el,the (feminine)
+4,en,en,in; on; at
+5,el,el,the (masculine)
+6,que,que,that; which; who
+7,a,a,to; at
+8,con,con,with
+9,un,uno,a; an (masculine)
+10,los,el,the (masculine plural)
+11,una,uno,a; an (feminine)
+12,para,para,for; in order to
+13,las,el,the (feminine plural)
+14,se,se,oneself; reflexive/passive marker
+15,es,ser,is (he/she/it)
+16,del,de+el,of the; from the
+17,por,por,by; for; per
+18,o,o,or
+19,su,su,his/her/their/your (formal)
+20,más,más,more
+21,no,no,no; not
+22,al,a+el,to the; at the
+23,como,como,as; like
+24,lo,lo,it; him; the (neuter)
+25,esta,este,this (feminine)
+26,si,si,if
+27,este,este,this (masculine)
+28,vino,vino,wine
+29,muy,muy,very
+30,receta,receta,recipe
+31,sin,sin,without
+32,son,ser,are (they)
+33,ingredientes,ingrediente,ingredients
+34,te,te,you (object); yourself
+35,sus,su,his/her/their/your (plural things)
+36,pero,pero,but
+37,hasta,hasta,until; up to; even
+38,crianza,crianza,oak-aged (wine); aging
+39,también,también,also; too
+40,ha,haber,has (he/she/it; auxiliary)
+41,bien,bien,well; good
+42,vinos,vino,wines
+43,durante,durante,during; for
+44,sobre,sobre,about; on; over
+45,sabor,sabor,flavor; taste
+46,aceite,aceite,oil (olive oil)
+47,ya,ya,already; now
+48,todo,todo,all; everything
+49,minutos,minuto,minutes
+50,puede,poder,can (he/she/it); may
+51,cocina,cocina,kitchen; cuisine; cooking
+52,hacer,hacer,to make; to do
+53,tu,tu,your (informal)
+54,queso,queso,cheese
+55,sal,sal,salt
+56,poco,poco,little; a bit; not much
+57,recetas,receta,recipes
+58,cuando,cuando,when
+59,entre,entre,between; among
+60,salsa,salsa,sauce
+61,agua,agua,water
+62,cada,cada,each; every
+63,vez,vez,time (occasion); once
+64,plato,plato,dish; plate; course
+65,además,además,besides; also; moreover
+66,azúcar,azúcar,sugar
+67,qué,qué,what; how (exclamation)
+68,nos,nos,us; to us; ourselves
+69,puedes,poder,you can
+70,unos,uno,some (masculine plural)
+71,tiempo,tiempo,time; weather
+72,está,estar,is (he/she/it; location/state)
+73,calidad,calidad,quality
+74,bodegas,bodega,wineries; wine cellars
+75,bodega,bodega,winery; wine cellar
+76,desde,desde,since; from
+77,así,así,thus; like this; so
+78,me,me,me; to me; myself
+79,horno,horno,oven
+80,todos,todo,all; everyone
+81,meses,mes,months
+82,mejor,mejor,better; best
+83,uno,uno,one
+84,tiene,tener,has (he/she/it)
+85,le,le,to him/her/you (indirect object)
+86,e,e,and (before i- sounds)
+87,leche,leche,milk
+88,ser,ser,to be
+89,blanco,blanco,white (wine/color)
+90,hay,haber,there is/are
+91,día,día,day
+92,forma,forma,form; way; shape
+93,cómo,cómo,how
+94,dos,dos,two
+95,chocolate,chocolate,chocolate
+96,donde,donde,where
+97,gran,grande,great; big (before noun)
+98,platos,plato,dishes; plates
+99,carne,carne,meat
+100,años,año,years
+101,mezcla,mezcla,mixture; (it/you) mix
+102,disfrutar,disfrutar,to enjoy
+103,pan,pan,bread
+104,oliva,oliva,olive
+105,masa,masa,dough; batter
+106,harina,harina,flour
+107,antes,antes,before; beforehand
+108,casa,casa,house; home
+109,os,os,"you (plural, Spain)"
+110,ajo,ajo,garlic
+111,estos,este,these
+112,paso,paso,step
+113,solo,solo,only; alone
+114,hace,hacer,makes; does (he/she/it); ago
+115,fácil,fácil,easy
+116,pollo,pollo,chicken
+117,mantequilla,mantequilla,butter
+118,pueden,poder,can (they); are able
+119,cebolla,cebolla,onion
+120,preparación,preparación,preparation
+121,roble,roble,oak (wine barrel ageing)
+122,otros,otro,others; other
+123,lugar,lugar,place
+124,joven,joven,young
+125,preparar,preparar,to prepare
+126,productos,producto,products
+127,mi,mi,my
+128,estas,este,these (feminine)
+129,arroz,arroz,rice
+130,año,año,year
+131,temperatura,temperatura,temperature
+132,parte,parte,part
+133,unas,uno,some (feminine plural)
+134,han,haber,have (they) (auxiliary)
+135,crema,crema,cream; cream-based soup
+136,huevos,huevo,eggs
+137,nuestra,nuestro,our (feminine)
+138,siempre,siempre,always
+139,buena,bueno,good (feminine)
+140,mundo,mundo,world
+141,fuego,fuego,heat; flame; fire
+142,aunque,aunque,although; even if
+143,tipo,tipo,type; kind
+144,tus,tu,your (plural things)
+145,verduras,verdura,vegetables
+146,cualquier,cualquier,any
+147,tan,tan,so; as
+148,experiencia,experiencia,experience
+149,mucho,mucho,a lot; much
+150,limón,limón,lemon
+151,huevo,huevo,egg
+152,patatas,patata,potatoes
+153,porque,porque,because
+154,tanto,tanto,so much; as much
+155,comida,comida,food; meal
+156,cuenta,cuenta,account; (he/she) counts
+157,gusto,gusto,taste; liking
+158,dulce,dulce,sweet
+159,otra,otro,another; other (feminine)
+160,otro,otro,other; another
+161,tempranillo,tempranillo,Tempranillo (red grape/wine)
+162,tinto,tinto,red (wine)
+163,textura,textura,texture
+164,menos,menos,less; least; minus
+165,color,color,color
+166,tomate,tomate,tomato
+167,información,información,information
+168,pimienta,pimienta,pepper (spice)
+169,fresco,fresco,fresh
+170,ideal,ideal,ideal
+171,origen,origen,origin
+172,sabores,sabor,flavors
+173,toque,toque,touch; hint
+174,medio,medio,half; medium; middle
+175,importante,importante,important
+176,personas,persona,people; persons
+177,restaurante,restaurante,restaurant
+178,añade,añadir,add (you/he/she)
+179,hoy,hoy,today
+180,todas,todo,all (feminine plural)
+181,después,después,after; afterwards
+182,tarta,tarta,cake; tart; pie
+183,variedad,variedad,variety
+184,tener,tener,to have
+185,web,web,website; web
+186,cucharadas,cucharada,tablespoons
+187,alta,alto,high; tall (feminine)
+188,base,base,base
+189,aquí,aquí,here
+190,mismo,mismo,same
+191,opción,opción,option
+192,sartén,sartén,frying pan
+193,pescado,pescado,fish (as food)
+194,nuestro,nuestro,our
+195,añadir,añadir,to add
+196,ensalada,ensalada,salad
+197,mejores,mejor,best; better (plural)
+198,elaboración,elaboración,making; preparation (of food/wine)
+199,francés,francés,French; Frenchman
+200,fue,ser/ir,was (he/she/it); went (he/she/it)
+201,junto,junto,together; (junto a) next to
+202,mientras,mientras,while; meanwhile
+203,buen,bueno,good (before masc. noun)
+204,excelente,excelente,excellent
+205,tres,tres,three
+206,suave,suave,smooth; soft; mild
+207,postres,postre,desserts
+208,alimentos,alimento,foods; foodstuffs
+209,manera,manera,way; manner
+210,otras,otro,other (fem. pl.); others
+211,papel,papel,paper (e.g. baking/kitchen paper)
+212,están,estar,are (they)
+213,tradicional,tradicional,traditional
+214,esto,esto,this
+215,sea,ser,is/be (subjunctive); (o sea) that is
+216,barricas,barrica,wine barrels; oak casks
+217,algo,algo,something; somewhat
+218,según,según,according to; depending on
+219,momento,momento,moment
+220,pasta,pasta,pasta
+221,primera,primero,first (fem.)
+222,diferentes,diferente,different (pl.)
+223,cata,cata,tasting (wine tasting)
+224,podemos,poder,we can
+225,ofrece,ofrecer,offers (he/she/it); you offer (usted)
+226,región,región,region
+227,días,día,days
+228,algunos,alguno,some (masc. pl.)
+229,he,haber,I have (auxiliary); (he aquí) behold
+230,frutas,fruta,fruits
+231,esté,estar,"is/be (subjunctive, he/she/it)"
+232,tienes,tener,you have (informal)
+233,galletas,galleta,cookies; biscuits
+234,toda,todo,all; whole (fem.)
+235,gracias,gracias,thanks; thank you
+236,perfecto,perfecto,perfect
+237,aromas,aroma,aromas; scents
+238,grandes,grande,big; great (pl.)
+239,ese,ese,that (masc.)
+240,vamos,ir,we go; let's go
+241,nata,nata,cream (dairy)
+242,fruta,fruta,fruit
+243,boca,boca,mouth (palate)
+244,final,final,end; final
+245,horas,hora,hours
+246,ni,ni,nor; not even; neither
+247,servir,servir,to serve
+248,deliciosa,delicioso,delicious (fem.)
+249,natural,natural,natural; plain (unsweetened)
+250,gastronomía,gastronomía,gastronomy; cuisine
+251,punto,punto,point; doneness (cooking)
+252,autor,autor,author
+253,caldo,caldo,broth; stock
+254,foto,foto,photo
+255,especial,especial,special
+256,yo,yo,I
+257,bajo,bajo,under; low
+258,hecho,hacer,made; done; fact
+259,cocinar,cocinar,to cook
+260,delicioso,delicioso,delicious
+261,zona,zona,zone; area
+262,quieres,querer,you want
+263,sido,ser,been
+264,media,medio,half; medium; average
+265,tienen,tener,they have
+266,postre,postre,dessert
+267,saludable,saludable,healthy
+268,cucharadita,cucharadita,teaspoon
+269,caliente,caliente,hot; warm
+270,botella,botella,bottle
+271,vida,vida,life
+272,barrica,barrica,oak barrel (wine ageing)
+273,comer,comer,to eat
+274,dentro,dentro,inside; within
+275,luego,luego,then; later
+276,garnacha,garnacha,Grenache (grape/wine)
+277,molde,molde,baking mould; baking tin
+278,san,san,saint (before masc. name)
+279,ahora,ahora,now
+280,mayor,mayor,greater; older; main
+281,nuevo,nuevo,new
+282,era,ser,was (he/she/it); I was
+283,notas,nota,notes (tasting notes); marks
+284,cucharada,cucharada,spoonful; tablespoon
+285,ciudad,ciudad,city
+286,reserva,reserva,reserve (aged wine); reservation
+287,ambiente,ambiente,atmosphere; environment
+288,deja,dejar,leaves; lets; leave (it) (you/he/she)
+289,producto,producto,product
+290,sí,sí,yes
+291,extra,extra,extra (as in extra virgin)
+292,familia,familia,family
+293,muchas,mucho,many; a lot of (fem. pl.)
+294,eso,eso,that (neuter)
+295,dejar,dejar,to leave; to let (rest)
+296,virgen,virgen,virgin (extra virgin oil)
+297,algunas,alguno,some (fem. pl.)
+298,primer,primero,first (before masc. noun)
+299,historia,historia,history; story
+300,hora,hora,hour; time
+301,utilizar,utilizar,to use
+302,muchos,mucho,many; a lot of (masc. pl.)
+303,relleno,relleno,filling; stuffing
+304,dieta,dieta,diet
+305,obtener,obtener,to get; to obtain
+306,encima,encima,on top; above
+307,ver,ver,to see; to watch
+308,cocción,cocción,cooking; cooking time
+309,ello,ello,it; that (neuter pronoun)
+310,grande,grande,big; large; great
+311,proceso,proceso,process
+312,cerdo,cerdo,pork; pig
+313,tradición,tradición,tradition
+314,nueva,nuevo,new (feminine)
+315,través,través,(a través de) through; across
+316,estén,estar,(they) are; may be (subjunctive)
+317,cantidad,cantidad,quantity; amount
+318,incluso,incluso,even; including
+319,tierra,tierra,land; earth; soil
+320,añadimos,añadir,we add
+321,perfecta,perfecto,perfect (feminine)
+322,vaso,vaso,glass (drinking); tumbler
+323,ayuda,ayuda,help; aid
+324,ponemos,poner,we put; we add
+325,sino,sino,but rather; except
+326,tras,tras,after; behind
+327,salud,salud,health; (cheers)
+328,ejemplo,ejemplo,example
+329,nuestros,nuestro,our (masculine plural)
+330,jamón,jamón,ham
+331,café,café,coffee; café
+332,resultado,resultado,result
+333,caso,caso,case; (en caso de) in case of
+334,nombre,nombre,name
+335,pasado,pasado,past; last; overcooked
+336,estar,estar,to be (state/location)
+337,largo,largo,long
+338,cuerpo,cuerpo,body (also wine body)
+339,pequeños,pequeño,small (masculine plural); little ones
+340,consumo,consumo,consumption
+341,encontrar,encontrar,to find
+342,pimientos,pimiento,peppers
+343,cabra,cabra,goat (goat's milk/cheese)
+344,bizcocho,bizcocho,sponge cake
+345,esa,ese,that (feminine)
+346,verde,verde,green
+347,tenemos,tener,we have
+348,taza,taza,cup (also cupful measure)
+349,va,ir,goes; is going (he/she/it)
+350,ellos,ellos,they; them (masculine)
+351,pues,pues,well; since; so
+352,selección,selección,selection; choice
+353,sólo,solo,only; just
+354,les,les,them; to them / to you (plural)
+355,velocidad,velocidad,speed
+356,miel,miel,honey
+357,hojas,hoja,leaves; sheets
+358,perejil,perejil,parsley
+359,precio,precio,price
+360,casi,casi,almost
+361,opciones,opción,options
+362,manzana,manzana,apple
+363,producción,producción,production
+364,dientes,diente,cloves (of garlic); teeth
+365,piel,piel,"skin; peel, rind"
+366,hemos,haber,we have (auxiliary)
+367,olla,olla,pot; saucepan
+368,mercado,mercado,market
+369,elaborado,elaborar,made; prepared
+370,naranja,naranja,orange
+371,gusta,gustar,is liked; pleases (it)
+372,sigue,seguir,follows; continues; keeps (he/she/it)
+373,alto,alto,high; tall
+374,atún,atún,tuna
+375,rojo,rojo,red
+376,nada,nada,nothing; not at all
+377,poner,poner,to put; to add
+378,pimiento,pimiento,pepper (vegetable)
+379,vainilla,vainilla,vanilla
+380,rallado,rallar,grated
+381,veces,vez,times; occasions
+382,espacio,espacio,space
+383,sencilla,sencillo,simple; easy (fem.)
+384,da,dar,gives (it); (da) it gives
+385,cena,cena,dinner
+386,variedades,variedad,varieties
+387,único,único,only; unique
+388,conocer,conocer,to know; to get to know
+389,trabajo,trabajo,work; job
+390,mediterránea,mediterráneo,Mediterranean (fem.)
+391,levadura,levadura,yeast; baking powder
+392,proteínas,proteína,proteins
+393,acompañar,acompañar,to accompany; to serve alongside
+394,trozos,trozo,pieces; chunks
+395,guía,guía,guide
+396,quesos,queso,cheeses
+397,encuentra,encontrar,finds; is found
+398,uvas,uva,grapes
+399,queda,quedar,remains; is left
+400,clientes,cliente,customers; clients
+401,siglo,siglo,century
+402,tomates,tomate,tomatoes
+403,misma,mismo,same (fem.)
+404,será,ser,will be (it)
+405,edición,edición,edition
+406,permite,permitir,allows; lets (it)
+407,dulces,dulce,sweet (plural); sweets
+408,especias,especia,spices
+409,fuente,fuente,serving dish; source
+410,poder,poder,to be able to; power
+411,polvo,polvo,powder; dust
+412,debe,deber,must; should; owes (he/she/it)
+413,dejamos,dejar,we leave; we let
+414,única,único,only; unique (fem.)
+415,destaca,destacar,stands out; highlights
+416,mano,mano,hand
+417,sitio,sitio,place; site
+418,centro,centro,centre
+419,continuación,continuación,"(a continuación) next, below"
+420,evitar,evitar,to avoid
+421,semana,semana,week
+422,viñedos,viñedo,vineyards
+423,lado,lado,side
+424,principal,principal,main
+425,madera,madera,wood
+426,picado,picar,chopped; minced
+427,mesa,mesa,table
+428,valor,valor,value; courage
+429,grasa,grasa,fat; grease
+430,especialmente,especialmente,especially
+431,combinación,combinación,combination
+432,nevera,nevera,fridge
+433,resto,resto,rest; remainder
+434,mantener,mantener,to keep; to maintain
+435,aquellos,aquel,those (masc. pl.)
+436,consejos,consejo,tips; advice
+437,trata,tratar,(se trata de) it is about; treats
+438,ligeramente,ligeramente,lightly; slightly
+439,aún,aún,still; yet
+440,rica,rico,tasty; rich (fem.)
+441,vinagre,vinagre,vinegar
+442,frescos,fresco,fresh (masc. pl.)
+443,verano,verano,summer
+444,fresca,fresco,fresh (fem.)
+445,bol,bol,bowl
+446,uso,uso,use
+447,estilo,estilo,style
+448,primero,primero,first; first course
+449,cual,cual,which (el cual = which)
+450,rosado,rosado,rosé; pink
+451,intenso,intenso,intense; strong (flavour)
+452,mar,mar,sea
+453,embargo,embargo,(sin embargo) however; embargo
+454,datos,dato,data; facts
+455,pizca,pizca,pinch
+456,fuera,fuera,outside; out
+457,calor,calor,heat; warmth
+458,nuestras,nuestro,our (fem. pl.)
+459,añada,añadir,"add (he/she/you formal, subjunctive)"
+460,gramos,gramo,grams
+461,negra,negro,black (fem.)
+462,crujiente,crujiente,crispy; crunchy
+463,nivel,nivel,level
+464,usar,usar,to use
+465,acidez,acidez,acidity; sourness
+466,uva,uva,grape
+467,menú,menú,menu; set meal
+468,tamaño,tamaño,size
+469,navidad,navidad,Christmas
+470,cuatro,cuatro,four
+471,quede,quedar,"stays; is left (he/she, subjunctive)"
+472,hacen,hacer,they make; they do
+473,puntos,punto,points; stitches; dots
+474,equilibrio,equilibrio,balance
+475,salmón,salmón,salmon
+476,recipiente,recipiente,container; bowl
+477,beneficios,beneficio,benefits
+478,dar,dar,to give; to yield
+479,fibra,fibra,fiber
+480,total,total,total
+481,servicio,servicio,service
+482,teléfono,teléfono,telephone
+483,sector,sector,sector
+484,amplia,amplio,wide; extensive (fem.)
+485,mitad,mitad,half
+486,noche,noche,night; evening
+487,sirve,servir,serves; is used for (he/she)
+488,frutos,fruto,fruits; nuts (frutos secos)
+489,grasas,grasa,fats
+490,fría,frío,cold (fem.)
+491,zumo,zumo,juice
+492,general,general,general
+493,último,último,last; latest
+494,aproximadamente,aproximadamente,approximately
+495,lleva,llevar,carries; contains (he/she)
+496,restaurantes,restaurante,restaurants
+497,ocasión,ocasión,occasion; chance
+498,hornear,hornear,to bake
+499,canela,canela,cinnamon
+500,carnes,carne,meats
+,,,Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - sources and credits: https://apera.me/sources#reading-lists

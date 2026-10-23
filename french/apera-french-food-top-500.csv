@@ -1,0 +1,502 @@
+rank,word,lemma,meaning
+1,de,de,of; from
+2,et,et,and
+3,la,le,the (feminine); her/it
+4,à,à,to; at; with
+5,le,le,the (masculine); him/it
+6,les,le,the (plural); them
+7,un,un,a; one (masculine)
+8,pour,pour,for; in order to
+9,en,en,in; some/of it
+10,une,un,a; one (feminine)
+11,des,de,some; of the (plural)
+12,est,être,is (he/she/it)
+13,au,à,to the; at the; in the
+14,du,de,of the; some
+15,dans,dans,in; inside
+16,avec,avec,with
+17,ou,ou,or
+18,vous,vous,you (formal/plural)
+19,que,que,that; than; what
+20,sur,sur,on; over
+21,ce,ce,this; that; it
+22,qui,qui,who; which; that
+23,plus,plus,more; (ne...plus) no more
+24,il,il,he; it
+25,pas,pas,not (with ne); step
+26,recette,recette,recipe
+27,sans,sans,without
+28,bien,bien,well; good; very
+29,aux,à,to the; with the (plural)
+30,cuisson,cuisson,cooking; cooking time
+31,par,par,by; per; through
+32,cette,ce,this; that (feminine)
+33,a,avoir,has (he/she/it); there is
+34,minutes,minute,minutes
+35,votre,votre,your (formal/plural)
+36,je,je,I
+37,se,se,oneself; himself/herself/itself
+38,pâte,pâte,dough; pastry; batter
+39,cuisine,cuisine,cooking; kitchen
+40,ne,ne,not (with pas)
+41,faire,faire,to make; to do
+42,sont,être,are (they)
+43,tout,tout,all; every; whole
+44,on,on,one; we; people
+45,eau,eau,water
+46,préparation,préparation,preparation; prep time
+47,ingrédients,ingrédient,ingredients
+48,temps,temps,time; weather
+49,si,si,if; so
+50,sucre,sucre,sugar
+51,comme,comme,like; as
+52,mais,mais,but
+53,vos,votre,your (plural)
+54,crème,crème,cream
+55,huile,huile,oil
+56,recettes,recette,recipes
+57,plat,plat,dish; course
+58,puis,puis,then; next
+59,pendant,pendant,during; for (duration)
+60,ai,avoir,(I) have
+61,très,très,very
+62,sa,son,his/her/its (feminine)
+63,four,four,oven
+64,être,être,to be
+65,son,son,his/her/its (masculine)
+66,sel,sel,salt
+67,elle,elle,she; it; her
+68,ajouter,ajouter,to add
+69,peu,peu,little; few
+70,facile,facile,easy
+71,peut,pouvoir,can (he/she/it); may
+72,ces,ce,these; those
+73,chocolat,chocolat,chocolate
+74,beurre,beurre,butter
+75,chaque,chaque,each; every
+76,lait,lait,milk
+77,nous,nous,we; us
+78,quelques,quelque,a few; some
+79,sauce,sauce,sauce
+80,avant,avant,before
+81,cuire,cuire,to cook; to bake
+82,cm,cm,centimetres
+83,légumes,légume,vegetables
+84,même,même,same; even
+85,ajoutez,ajouter,"add (you, command)"
+86,farine,farine,flour
+87,aussi,aussi,also; too
+88,blanc,blanc,white
+89,frais,frais,fresh; cool
+90,fruits,fruit,fruits
+91,fait,faire,makes/does (he/she/it); made; done
+92,soupe,soupe,soup
+93,qualité,qualité,quality
+94,fois,fois,time; occasion; times
+95,publié,publier,published
+96,deux,deux,two
+97,leur,leur,their; to them
+98,maison,maison,house; homemade (de maison)
+99,ses,son,his/her/its (plural)
+100,tous,tout,all; everyone
+101,étape,étape,step (of a recipe)
+102,gâteau,gâteau,cake
+103,y,y,there; in it (pronoun)
+104,après,après,after
+105,fromage,fromage,cheese
+106,min,min,min (minutes)
+107,goût,goût,"taste, flavor"
+108,petit,petit,"small, little (masc.)"
+109,citron,citron,lemon
+110,préparer,préparer,to prepare
+111,encore,encore,still; again; more
+112,pommes,pomme,apples
+113,mélange,mélange,"mixture, blend"
+114,olive,olive,olive
+115,vin,vin,wine
+116,faites,faire,"do, make (you, command)"
+117,simple,simple,"simple, easy"
+118,petits,petit,"small, little (plural)"
+119,laisser,laisser,"to leave, to let (rest)"
+120,pouvez,pouvoir,you can
+121,ail,ail,garlic
+122,jus,jus,juice; gravy
+123,feu,feu,heat (stove); fire
+124,poivre,poivre,pepper (spice)
+125,texture,texture,texture
+126,entre,entre,between
+127,mélanger,mélanger,to mix
+128,laissez,laisser,"leave, let (you, command)"
+129,moule,moule,"baking mold, tin"
+130,notre,notre,our
+131,café,café,coffee
+132,autres,autre,"other, others"
+133,cuillère,cuillère,spoon
+134,œufs,œuf,eggs
+135,bol,bol,bowl
+136,environ,environ,"about, approximately"
+137,poudre,poudre,powder
+138,ils,ils,they (masc.)
+139,repas,repas,meal
+140,servir,servir,to serve
+141,sous,sous,"under, below"
+142,selon,selon,"according to, depending on"
+143,terre,terre,earth; (pomme de) potato
+144,dessert,dessert,dessert
+145,où,où,where
+146,mon,mon,my (masc.)
+147,saveurs,saveur,flavors
+148,chef,chef,"chef; head, boss"
+149,permet,permettre,"allows (it), lets you"
+150,légèrement,légèrement,"lightly, slightly"
+151,trop,trop,"too much, too"
+152,viande,viande,meat
+153,toute,tout,"all, whole (fem.)"
+154,pain,pain,bread
+155,grand,grand,"big, large; tall"
+156,personnes,personne,people; servings
+157,également,également,"also, equally"
+158,obtenir,obtenir,"to obtain, get"
+159,plats,plat,dishes; courses
+160,service,service,service; serving
+161,mettre,mettre,"to put, to place"
+162,comment,comment,how
+163,base,base,base; basis
+164,utilisation,utilisation,"use, usage"
+165,température,température,temperature
+166,ma,ma,my (fem.)
+167,utiliser,utiliser,to use
+168,rapide,rapide,"quick, fast"
+169,non,non,no; not
+170,tomates,tomate,tomatoes
+171,morceaux,morceau,"pieces, chunks"
+172,bon,bon,good
+173,riz,riz,rice
+174,tarte,tarte,"tart, pie"
+175,pâtisserie,pâtisserie,pastry; pastry-making
+176,oignon,oignon,onion
+177,moins,moins,less; minus; fewer
+178,vaisselle,vaisselle,"dishes, tableware"
+179,été,été,summer
+180,mélangez,mélanger,"mix (you, command)"
+181,pâtes,pâte,pasta; doughs
+182,versez,verser,"pour (you, command)"
+183,cl,cl,cl (centiliter)
+184,soit,être,be (subjunctive); i.e.; either
+185,reste,rester,"remains, stays; (the) rest"
+186,toutes,tout,all (fem. plural)
+187,idéal,idéal,ideal
+188,produits,produit,products
+189,poulet,poulet,chicken
+190,poêle,poêle,frying pan
+191,elles,elles,they (fem.)
+192,souvent,souvent,often
+193,parfait,parfait,perfect
+194,salade,salade,salad; lettuce
+195,acier,acier,steel
+196,petite,petit,"small, little (fem.)"
+197,grande,grand,"big, large (fem.)"
+198,casserole,casserole,saucepan
+199,gâteaux,gâteau,cakes
+200,moment,moment,moment; time
+201,aide,aide,help; aid
+202,ainsi,ainsi,thus; like this
+203,grâce,grâce,thanks (grâce à: thanks to)
+204,noix,noix,nut; walnut
+205,fond,fond,bottom; base; stock
+206,liquide,liquide,liquid
+207,doit,devoir,must (he/she/it); has to
+208,table,table,table
+209,verre,verre,glass
+210,nos,notre,our (plural)
+211,noir,noir,black; dark (chocolate)
+212,doux,doux,sweet; mild; soft
+213,couper,couper,to cut
+214,ensuite,ensuite,then; next
+215,pratique,pratique,practical; handy
+216,découvrez,découvrir,"discover (you, imperative)"
+217,ont,avoir,have (they)
+218,verser,verser,to pour
+219,robot,robot,food processor; kitchen appliance
+220,version,version,version
+221,ml,ml,ml (millilitre)
+222,bonne,bon,good (feminine)
+223,touche,touche,touch; hint
+224,cela,cela,that; this
+225,vanille,vanille,vanilla
+226,facilement,facilement,easily
+227,éviter,éviter,to avoid
+228,glace,glace,ice cream; ice
+229,me,me,me; to me
+230,rouge,rouge,red
+231,feuilles,feuille,leaves; sheets (plural)
+232,alimentaire,alimentaire,food (adj); dietary
+233,fraîche,frais,fresh (feminine)
+234,mes,mon,my (plural)
+235,chaud,chaud,hot; warm
+236,levure,levure,yeast; leavening
+237,toujours,toujours,always; still
+238,desserts,dessert,desserts
+239,papier,papier,paper
+240,assiettes,assiette,plates
+241,quand,quand,when
+242,fin,fin,end; fine; thin
+243,inoxydable,inoxydable,stainless (steel)
+244,autre,autre,other; another
+245,parfaitement,parfaitement,perfectly
+246,épices,épice,spices
+247,ça,ça,that; it
+248,dessus,dessus,on top; above
+249,blog,blog,blog
+250,réfrigérateur,réfrigérateur,refrigerator; fridge
+251,car,car,because; for
+252,lave,laver,washes (he/she/it)
+253,juillet,juillet,July
+254,ensemble,ensemble,together
+255,plusieurs,plusieurs,several
+256,parfaite,parfait,perfect (feminine)
+257,couleur,couleur,color
+258,main,main,hand
+259,ici,ici,here
+260,blancs,blanc,whites (egg); white (plural)
+261,donc,donc,so; therefore
+262,saladier,saladier,salad bowl; mixing bowl
+263,avoir,avoir,to have
+264,réaliser,réaliser,to make; to carry out
+265,choix,choix,choice
+266,bouillon,bouillon,broth; stock
+267,produit,produit,product
+268,avez,avoir,have (you)
+269,peuvent,pouvoir,can (they)
+270,haute,haut,high; tall (feminine)
+271,assiette,assiette,plate
+272,chaleur,chaleur,heat
+273,refroidir,refroidir,to cool down
+274,famille,famille,family
+275,petites,petit,small (feminine plural)
+276,design,design,design
+277,oeufs,oeuf,eggs
+278,tranches,tranche,slices
+279,aliments,aliment,foods
+280,surface,surface,surface
+281,vins,vin,wines
+282,heures,heure,hours
+283,monde,monde,world; people
+284,herbes,herbe,herbs
+285,délicatement,délicatement,gently; delicately
+286,alors,alors,so; then
+287,fraîcheur,fraîcheur,freshness
+288,oignons,oignon,onions
+289,belle,beau,beautiful; fine (feminine)
+290,depuis,depuis,since; for
+291,présentation,présentation,presentation; serving style
+292,trouver,trouver,to find
+293,dont,dont,of which; whose
+294,cuillères,cuillère,spoons; spoonfuls
+295,œuf,œuf,egg
+296,homogène,homogène,smooth; uniform (mixture)
+297,chauffer,chauffer,to heat
+298,faut,falloir,(it) is necessary; (you) must
+299,juste,juste,just; only; exactly
+300,lors,lors,(lors de) during; at the time of
+301,voici,voici,here is; here are
+302,gluten,gluten,gluten
+303,côté,côté,side
+304,sec,sec,dry
+305,filet,filet,fillet
+306,appareil,appareil,appliance; batter mixture
+307,beaucoup,beaucoup,a lot; much; many
+308,coupez,couper,"cut (you, imperative)"
+309,purée,purée,purée; mashed potatoes
+310,jours,jour,days
+311,biscuits,biscuit,biscuits; cookies
+312,nettoyer,nettoyer,to clean
+313,carottes,carotte,carrots
+314,ans,an,years (of age)
+315,bois,bois,wood
+316,pincée,pincée,pinch (of salt etc.)
+317,couteau,couteau,knife
+318,coco,coco,coconut
+319,forme,forme,shape; form
+320,miel,miel,honey
+321,afin,afin,(afin de) in order to
+322,revenir,revenir,to sauté; to come back
+323,champignons,champignon,mushrooms
+324,chez,chez,at the home of; at
+325,sirop,sirop,syrup
+326,cocotte,cocotte,casserole pot; Dutch oven
+327,douceur,douceur,sweetness; mildness; sweet treat
+328,va,aller,goes; (it) is going
+329,place,place,place; room; square
+330,saveur,saveur,flavor
+331,lisse,lisse,smooth
+332,prix,prix,price; prize
+333,cake,cake,loaf cake
+334,plaque,plaque,baking sheet; hob/cooktop
+335,graines,graine,seeds
+336,plaisir,plaisir,pleasure; enjoyment
+337,vert,vert,green
+338,moi,moi,me; I
+339,amandes,amande,almonds
+340,tomate,tomate,tomato
+341,mois,mois,months; month
+342,leurs,leur,their
+343,gras,gras,fat; fatty
+344,cet,ce,this (before vowel)
+345,quotidien,quotidien,daily; everyday
+346,classique,classique,classic; traditional
+347,lui,lui,him; her; to him/her
+348,déjà,déjà,already
+349,culinaire,culinaire,culinary
+350,taille,taille,size; waist
+351,bio,bio,organic
+352,légère,léger,light (feminine)
+353,saison,saison,season
+354,voir,voir,to see
+355,nécessaire,nécessaire,necessary; needed
+356,sera,être,will be (it)
+357,offre,offre,offer
+358,moyen,moyen,medium; average
+359,poisson,poisson,fish
+360,savoir,savoir,to know
+361,gingembre,gingembre,ginger
+362,léger,léger,light (masculine)
+363,persil,persil,parsley
+364,trois,trois,three
+365,micro,micro,microwave (micro-ondes)
+366,mousse,mousse,mousse; foam
+367,suis,être,am (I)
+368,moelleux,moelleux,soft and tender (cake)
+369,restaurant,restaurant,restaurant
+370,chefs,chef,chefs
+371,protéines,protéine,proteins
+372,travail,travail,work; labor
+373,lorsque,lorsque,when
+374,résultat,résultat,result
+375,propose,proposer,offers; suggests (it)
+376,chaude,chaud,hot; warm (feminine)
+377,riche,riche,rich
+378,astuce,astuce,tip; trick
+379,froide,froid,cold (feminine)
+380,idéale,idéal,ideal (feminine)
+381,était,être,was (it)
+382,servez,servir,"serve (you, imperative)"
+383,rapidement,rapidement,quickly
+384,fleur,fleur,flower
+385,nettoyage,nettoyage,cleaning
+386,dès,dès,from; as soon as
+387,partie,partie,part
+388,douce,doux,sweet; soft; mild (feminine)
+389,santé,santé,health
+390,fonction,fonction,function; (en fonction de) depending on
+391,surtout,surtout,especially; above all
+392,fondre,fondre,to melt
+393,fouet,fouet,whisk
+394,vinaigre,vinaigre,vinegar
+395,saumon,saumon,salmon
+396,nouveau,nouveau,new
+397,incorporer,incorporer,to mix in; to add
+398,gr,gr,grams (abbreviation)
+399,pomme,pomme,apple
+400,froid,froid,cold
+401,durable,durable,sustainable; lasting
+402,rouges,rouge,red (plural)
+403,pois,pois,peas; peas (pl)
+404,ni,ni,nor; neither
+405,total,total,total
+406,plateau,plateau,tray; platter
+407,année,année,year
+408,façon,façon,way; manner; (de façon) in a way
+409,seulement,seulement,only
+410,déguster,déguster,to taste; to enjoy eating
+411,jour,jour,day
+412,dés,dé,diced cubes; dice (pl)
+413,guide,guide,guide
+414,couvercle,couvercle,lid
+415,semaine,semaine,week
+416,jaune,jaune,yellow
+417,heure,heure,hour; time
+418,gratin,gratin,gratin (baked dish with crust)
+419,moules,moule,mussels
+420,courgettes,courgette,zucchinis; courgettes
+421,air,air,air
+422,délicieux,délicieux,delicious
+423,astuces,astuce,tips; tricks
+424,cœur,cœur,heart; core
+425,tu,tu,you (informal)
+426,conserver,conserver,to store; to keep
+427,besoin,besoin,need
+428,silicone,silicone,silicone (bakeware)
+429,vie,vie,life
+430,note,note,note; rating
+431,arômes,arôme,aromas; flavors
+432,fine,fin,fine; thin (fem.)
+433,première,premier,first (fem.)
+434,kg,kilogramme,kilograms (abbreviation)
+435,mieux,mieux,better
+436,juin,juin,June
+437,oui,oui,yes
+438,notes,note,notes (aroma notes); notes
+439,marie,Marie,Marie (name)
+440,saint,saint,saint; holy (in place or dish names)
+441,orange,orange,orange
+442,capacité,capacité,capacity
+443,centre,centre,center; middle
+444,thé,thé,tea
+445,type,type,type; kind
+446,chou,chou,cabbage
+447,oeuf,œuf,egg
+448,jaunes,jaune,yolks (egg yolks)
+449,expérience,expérience,experience
+450,mets,mets,dish; course
+451,fraises,fraise,strawberries
+452,finement,finement,finely
+453,apporte,apporter,brings; adds (he/she/it)
+454,pourquoi,pourquoi,why
+455,parmesan,parmesan,Parmesan cheese
+456,équilibre,équilibre,balance
+457,peau,peau,skin; peel
+458,grands,grand,big; large (pl)
+459,gourmand,gourmand,indulgent; greedy for food
+460,yaourt,yaourt,yogurt
+461,ustensiles,ustensile,utensils
+462,accessoires,accessoire,accessories
+463,râpé,râper,grated
+464,vitesse,vitesse,speed
+465,effet,effet,effect
+466,placer,placer,to place; to put
+467,chair,chair,flesh; pulp (of fruit/meat)
+468,amande,amande,almond
+469,spatule,spatule,spatula
+470,pratiques,pratique,practical (pl)
+471,sécurité,sécurité,safety; security
+472,assez,assez,enough; fairly
+473,simples,simple,simple; easy (pl)
+474,quantité,quantité,quantity; amount
+475,fraîches,frais,fresh (fem. pl)
+476,livre,livre,book
+477,piment,piment,chili pepper
+478,vraiment,vraiment,really; truly
+479,conservation,conservation,storage; preservation
+480,retirer,retirer,to remove; take off
+481,alcool,alcool,alcohol
+482,ondes,onde,waves (micro-ondes = microwave)
+483,gourmande,gourmand,indulgent; greedy for food (fem.)
+484,secs,sec,dry (pl)
+485,nouvelle,nouveau,new (fem.)
+486,vapeur,vapeur,steam
+487,feuille,feuille,leaf; sheet
+488,fondu,fondre,melted
+489,dorer,dorer,to brown; to glaze
+490,préparez,préparer,"prepare (you, imperative)"
+491,usage,usage,use; usage
+492,utilisé,utiliser,used
+493,donne,donner,gives; yields (he/she/it)
+494,préparations,préparation,preparations; mixtures
+495,caramel,caramel,caramel
+496,valeur,valeur,value; (nutritional) value
+497,autour,autour,around; (autour de) around
+498,vu,voir,seen; (vu que) given that
+499,envie,envie,desire; craving; (avoir envie de) feel like
+500,techniques,technique,techniques
+,,,Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - sources and credits: https://apera.me/sources#reading-lists

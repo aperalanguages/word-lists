@@ -1,0 +1,502 @@
+rank,word,lemma,meaning
+1,die,der,the (f./pl.)
+2,und,und,and
+3,der,der,the (m.); of the
+4,das,das,the (n.); that/this
+5,in,in,in; into
+6,mit,mit,with
+7,ist,sein,is (it/he/she)
+8,zu,zu,to; too
+9,von,von,of; from; by
+10,auf,auf,on; onto; up
+11,für,für,for
+12,den,der,the (acc. m./dat. pl.)
+13,ein,ein,"a, an (m./n.)"
+14,eine,ein,"a, an (f.)"
+15,es,es,it
+16,auch,auch,also; too
+17,im,in,in the
+18,nicht,nicht,not
+19,sich,sich,oneself; himself/herself/themselves
+20,sie,sie,she; they; you (formal)
+21,dem,der,the (dative)
+22,bei,bei,at; with; during
+23,oder,oder,or
+24,werden,werden,become; will; be (they)
+25,des,der,of the (genitive)
+26,an,an,at; on; to
+27,wie,wie,how; like; as
+28,als,als,as; than; when
+29,dass,dass,that (conjunction)
+30,um,um,around; at; in order to
+31,sind,sein,are (they/we)
+32,wird,werden,becomes; will (it/he)
+33,einen,ein,"a, an (acc. m.)"
+34,hat,haben,has (it/he/she)
+35,so,so,so; thus
+36,man,man,one; you (generic)
+37,ich,ich,I
+38,wir,wir,we
+39,über,über,over; about; via
+40,aus,aus,from; out of
+41,kann,können,can (it/he/she/I)
+42,aber,aber,but
+43,einem,ein,"a, an (dative)"
+44,nur,nur,only; just
+45,noch,noch,still; yet; else
+46,einer,ein,"a, an (f. dat./gen.); one"
+47,zum,zu,to the; for the
+48,du,du,you (informal)
+49,können,können,can; be able (they/we)
+50,nach,nach,after; to; according to
+51,diese,dieser,this; these
+52,haben,haben,have (they/we)
+53,wenn,wenn,if; when
+54,mehr,mehr,more
+55,ihr,ihr,you (pl.); her; their
+56,was,was,what; which
+57,dann,dann,then
+58,zur,zu,to the; for the (f.)
+59,durch,durch,through; by means of
+60,vor,vor,before; in front of
+61,bis,bis,until; up to
+62,hier,hier,here
+63,am,an,on the; at the; (am Montag) on
+64,neue,neu,new (inflected)
+65,gibt,geben,gives; (es gibt) there is
+66,sein,sein,to be; his
+67,da,da,there; since; as
+68,alle,alle,all; everyone
+69,dieser,dieser,this (m.); of this
+70,dabei,dabei,thereby; at it; involved
+71,er,er,he; it
+72,schon,schon,already; indeed
+73,ja,ja,yes; indeed (particle)
+74,Daten,Daten,data (pl.)
+75,ihre,ihr,her/their/your (inflected)
+76,App,App,app (application)
+77,TV,TV,TV
+78,unter,unter,under; among
+79,ab,ab,from (time); off; down
+80,wurde,werden,was/became (it/he/she)
+81,uns,wir,us; ourselves
+82,sehr,sehr,very
+83,also,also,so; therefore; thus
+84,jetzt,jetzt,now
+85,damit,damit,so that; with it
+86,pro,pro,per; (Pro) pro edition
+87,keine,kein,no; not any
+88,immer,immer,always
+89,beim,bei,at the; while (doing)
+90,war,sein,was (I/he/she/it)
+91,neuen,neu,new (inflected)
+92,nun,nun,now; well
+93,bereits,bereits,already
+94,Windows,Windows,Windows (operating system)
+95,ohne,ohne,without
+96,sowie,sowie,as well as; and
+97,wieder,wieder,again; back
+98,soll,sollen,is supposed to; should (he/she/it)
+99,bietet,bieten,offers (he/she/it)
+100,eines,ein,of a; one (neuter/masc. genitive)
+101,mal,mal,once; times; just (particle)
+102,Unternehmen,Unternehmen,company; business
+103,Euro,Euro,euro (currency)
+104,doch,doch,but; yet; yes it does
+105,Spiel,Spiel,game
+106,einfach,einfach,simple; simply; just
+107,zwei,zwei,two
+108,viele,viel,many
+109,vom,von+dem,from the; of the
+110,sondern,sondern,but rather
+111,ob,ob,whether; if
+112,muss,müssen,must; has to (he/she/it)
+113,dieses,dies,this (neuter/genitive)
+114,dazu,dazu,in addition; for that
+115,gut,gut,good; well
+116,diesem,dies,this (dative)
+117,gerade,gerade,just now; currently
+118,anderen,andere,other; others (inflected)
+119,wer,wer,who
+120,euch,ihr,"you (plural, informal)"
+121,denn,denn,because; for; then (particle)
+122,dies,dies,this
+123,etwas,etwas,something; somewhat
+124,sehen,sehen,to see; see (we/they)
+125,iphone,iPhone,iPhone (Apple smartphone)
+126,ganz,ganz,whole; quite
+127,jedoch,jedoch,however
+128,geht,gehen,goes; works (he/she/it)
+129,habe,haben,have (I)
+130,lassen,lassen,to let; allow; have done
+131,selbst,selbst,oneself; even
+132,weitere,weiter,further; additional
+133,während,während,while; during
+134,Version,Version,version
+135,Zeit,Zeit,time
+136,viel,viel,much; a lot
+137,Microsoft,Microsoft,Microsoft (company)
+138,Jahr,Jahr,year
+139,kommt,kommen,comes (he/she/it)
+140,seine,sein,his; its
+141,online,online,online
+142,natürlich,natürlich,of course; natural
+143,andere,andere,other; others
+144,Xbox,Xbox,Xbox (Microsoft game console)
+145,PC,PC,PC (personal computer)
+146,müssen,müssen,must; have to (we/they)
+147,allerdings,allerdings,however; admittedly
+148,zwischen,zwischen,between
+149,machen,machen,to make; do; make (we/they)
+150,welche,welch-,which; some
+151,mm,mm,mm (millimetres)
+152,seit,seit,since; for (time)
+153,Informationen,Information,information (plural)
+154,Preis,Preis,price
+155,dafür,dafür,for it; in return
+156,Welt,Welt,world
+157,macht,machen,makes; does (he/she/it)
+158,heute,heute,today
+159,Prozent,Prozent,percent
+160,kein,kein,no; not any
+161,lässt,lassen,lets; allows (he/she/it)
+162,sollte,sollen,should; was supposed to
+163,finden,finden,to find; find (we/they)
+164,kannst,können,"can (you, singular)"
+165,ersten,erst,first (inflected)
+166,Nutzer,Nutzer,user; users
+167,direkt,direkt,direct; directly
+168,Spiele,Spiel,games
+169,Update,Update,update
+170,mir,ich,to me; me (dative)
+171,alles,alles,everything
+172,möglich,möglich,possible
+173,Android,Android,Android (mobile OS)
+174,drei,drei,three
+175,Gerät,Gerät,device
+176,besonders,besonders,especially
+177,steht,stehen,stands; is (written/located)
+178,Geräte,Gerät,devices
+179,nutzen,nutzen,to use; use (we/they)
+180,Amazon,Amazon,Amazon (company)
+181,genau,genau,exactly; precise
+182,einige,einige,some; several
+183,Software,Software,software
+184,Spieler,Spieler,player; players
+185,diesen,dies,this; these (inflected)
+186,Internet,Internet,internet
+187,wurden,werden,were; became (they)
+188,ihrer,ihr,her; their; of them (inflected)
+189,System,System,system
+190,weiter,weiter,further; on
+191,Smartphone,Smartphone,smartphone
+192,dir,du,to you; you (dative)
+193,Jahren,Jahr,years (dative/in years)
+194,weil,weil,because
+195,Funktionen,Funktion,functions; features
+196,gegen,gegen,against; versus
+197,deutlich,deutlich,clearly; significantly
+198,spielen,spielen,to play
+199,bitte,bitte,please
+200,Artikel,Artikel,article
+201,wirklich,wirklich,really; truly
+202,Gaming,Gaming,gaming
+203,könnte,können,could (he/she/it)
+204,allem,all,all; (vor allem) above all
+205,Hersteller,Hersteller,manufacturer
+206,zeigt,zeigen,shows (he/she/it)
+207,wo,wo,where
+208,Display,Display,display; screen
+209,erst,erst,only; first; not until
+210,zudem,zudem,moreover; in addition
+211,unten,unten,below; at the bottom
+212,mich,ich,me
+213,neben,neben,next to; besides
+214,liegt,liegen,lies; is located (it)
+215,kommen,kommen,to come; come (they)
+216,große,groß,big; large
+217,Apps,App,apps
+218,bleibt,bleiben,remains; stays (it)
+219,deine,dein,your (informal)
+220,sogar,sogar,even
+221,Design,Design,design
+222,klicken,klicken,to click
+223,Seite,Seite,page; side
+224,schnell,schnell,fast; quick
+225,einmal,einmal,once; one time
+226,eigenen,eigen,own
+227,unsere,unser,our
+228,ihren,ihr,their; her; your (formal)
+229,Ende,Ende,end
+230,dich,du,you (accusative)
+231,zwar,zwar,admittedly; (zwar...aber) it is true but
+232,etwa,etwa,about; approximately
+233,dort,dort,there
+234,außerdem,außerdem,besides; also
+235,Inhalt,Inhalt,content; contents
+236,bieten,bieten,to offer; offer (they)
+237,will,wollen,wants (he/she/it); I want
+238,Bild,Bild,image; picture
+239,PlayStation,PlayStation,PlayStation (console)
+240,Video,Video,video
+241,erhalten,erhalten,to receive; received
+242,ebenfalls,ebenfalls,likewise; also
+243,Serie,Serie,series; TV show
+244,laut,laut,according to
+245,Kunden,Kunde,customers
+246,rund,rund,around; approximately
+247,Drittanbieter,Drittanbieter,third-party provider
+248,Test,Test,test; review
+249,per,per,by; via
+250,könnt,können,you (pl.) can
+251,Inhalte,Inhalt,contents; content (pl.)
+252,Jahre,Jahr,years
+253,Markt,Markt,market
+254,großen,groß,big; large (inflected)
+255,Modell,Modell,model
+256,oft,oft,often
+257,seiner,sein,his; its (of his)
+258,stehen,stehen,to stand; stand (they)
+259,Bereich,Bereich,area; field; section
+260,sollen,sollen,should; are supposed to (they)
+261,neu,neu,new
+262,beachten,beachten,to note; to observe
+263,Leistung,Leistung,performance; power
+264,Problem,Problem,problem
+265,verfügbar,verfügbar,available
+266,plus,plus,plus; (Plus tier)
+267,Fall,Fall,case; fall
+268,Zoll,Zoll,inch (screen size)
+269,Teil,Teil,part; share
+270,erste,erste,first
+271,hatte,haben,had (he/she/it/I)
+272,möchte,mögen,would like (I/he/she)
+273,PS,PS,"PS (PlayStation, e.g. PS5)"
+274,jeder,jeder,everyone; each
+275,Einstellungen,Einstellung,settings
+276,Beispiel,Beispiel,example
+277,unterstützt,unterstützen,supports (it); supported
+278,darüber,darüber,about it; above it
+279,Facebook,Facebook,Facebook
+280,daher,daher,therefore; hence
+281,darauf,darauf,on it; thereupon
+282,geben,geben,to give; give (they)
+283,YouTube,YouTube,YouTube
+284,bekannt,bekannt,known; well-known
+285,denen,der,to whom; of which (plural)
+286,findet,finden,finds; (he/she/it) finds
+287,Uhr,Uhr,clock; watch; o'clock
+288,Cloud,Cloud,cloud (computing)
+289,Möglichkeit,Möglichkeit,possibility; option
+290,Funktion,Funktion,function; feature
+291,neues,neu,new (thing)
+292,Menschen,Mensch,people; humans
+293,sofort,sofort,immediately
+294,Modelle,Modell,models
+295,ins,in,into the (in das)
+296,Angebot,Angebot,offer; deal
+297,weniger,wenig,less; fewer
+298,Kabel,Kabel,cable
+299,ermöglicht,ermöglichen,enables; makes possible
+300,je,je,per; each; ever
+301,unserer,unser,our (of our)
+302,Kamera,Kamera,camera
+303,beiden,beide,both; the two
+304,seinen,sein,his; its (accusative/dative pl.)
+305,Entwickler,Entwickler,developer
+306,vielen,viel,many; (many) (dative/plural)
+307,vier,vier,four
+308,bringt,bringen,brings; (he/she/it) brings
+309,besser,gut,better
+310,Tage,Tag,days
+311,davon,davon,of it; thereof; of them
+312,Einsatz,Einsatz,use; deployment
+313,mehrere,mehrere,several
+314,funktioniert,funktionieren,works; functions
+315,Sicherheit,Sicherheit,security; safety
+316,gleichzeitig,gleichzeitig,simultaneously; at the same time
+317,Technologie,Technologie,technology
+318,eigentlichen,eigentlich,actual; real (inflected)
+319,sowohl,sowohl,both (sowohl ... als auch)
+320,sicher,sicher,secure; safe; sure
+321,fast,fast,almost; nearly
+322,letzten,letzt,last; latest (inflected)
+323,allen,alle,all (dative/plural)
+324,beispielsweise,beispielsweise,for example
+325,ihnen,sie,them (dative); you (formal)
+326,ihrem,ihr,her/their/your (dative)
+327,waren,sein,were; (they) were
+328,Anbieter,Anbieter,provider; vendor
+329,Bluetooth,Bluetooth,Bluetooth
+330,Schaltfläche,Schaltfläche,button (on screen)
+331,ios,iOS,iOS (Apple system)
+332,WLAN,WLAN,Wi-Fi
+333,Lösung,Lösung,solution
+334,nichts,nichts,nothing
+335,dank,dank,thanks to
+336,Musik,Musik,music
+337,zuzugreifen,zugreifen,to access
+338,würde,werden,would; (he/she/it) would
+339,wäre,sein,would be; were
+340,erhältlich,erhältlich,available (for purchase)
+341,Store,Store,store (app store)
+342,statt,statt,instead of
+343,bzw,beziehungsweise,or rather; respectively
+344,Streaming,Streaming,streaming
+345,stellen,stellen,to put; to place; to set (they) put
+346,Nintendo,Nintendo,Nintendo (game company)
+347,Art,Art,kind; type; way
+348,verschiedene,verschieden,various; different
+349,eigentlich,eigentlich,actually; really
+350,Hardware,Hardware,hardware
+351,Weg,Weg,way; path; away
+352,verschiedenen,verschieden,various; different (inflected)
+353,gute,gut,good (inflected)
+354,Millionen,Million,millions
+355,weitergegeben,weitergeben,passed on; shared
+356,ipad,iPad,iPad (Apple tablet)
+357,Modus,Modus,mode
+358,veröffentlicht,veröffentlichen,published; released
+359,Thema,Thema,topic; subject
+360,Nutzung,Nutzung,use; usage
+361,recht,Recht,right; law
+362,Titel,Titel,title (game/film/page)
+363,eigene,eigen,own (inflected)
+364,stellt,stellen,puts; presents; (he/she/it) provides
+365,Film,Film,film; movie
+366,paar,Paar,a few; couple
+367,lange,lang,long; for a long time
+368,Platzhalterinhalt,Platzhalterinhalt,placeholder content
+369,Quelle,Quelle,source
+370,Frage,Frage,question
+371,Schritt,Schritt,step
+372,sollten,sollen,should; (they) should
+373,leider,leider,unfortunately
+374,Stunden,Stunde,hours
+375,Produkte,Produkt,products
+376,zeigen,zeigen,to show; (they) show
+377,weiterhin,weiterhin,still; continuing to
+378,aktuellen,aktuell,current; latest (inflected)
+379,setzt,setzen,puts; sets; (setzt auf) relies on
+380,warum,warum,why
+381,aktuelle,aktuell,current; latest
+382,dein,dein,your (informal)
+383,meine,mein,my
+384,kleine,klein,small; little
+385,Fans,Fan,fans
+386,wollen,wollen,to want; (they) want
+387,Woche,Woche,week
+388,vielleicht,vielleicht,maybe; perhaps
+389,jeden,jeder,every; each (accusative)
+390,Details,Detail,details
+391,eher,eher,rather; more likely
+392,Entwicklung,Entwicklung,development
+393,gilt,gelten,applies; is considered
+394,irgendwie,irgendwie,somehow
+395,wohl,wohl,probably; presumably
+396,Verfügung,Verfügung,availability; (zur Verfügung) available
+397,sei,sein,be; (he/she) is (subjunctive)
+398,Generation,Generation,generation
+399,Blick,Blick,look; view; glance
+400,hast,haben,you have
+401,Verbindung,Verbindung,connection
+402,hin,hin,toward; there (direction)
+403,Monat,Monat,month
+404,Kosten,Kosten,costs
+405,Rolle,Rolle,role
+406,live,live,live
+407,Bilder,Bild,pictures; images
+408,klar,klar,clear; of course
+409,Geld,Geld,money
+410,Server,Server,server
+411,wissen,wissen,to know; (they) know
+412,wenig,wenig,little; few
+413,aktuell,aktuell,current; currently
+414,richtig,richtig,right; correct; really
+415,tatsächlich,tatsächlich,actually; really
+416,Vergleich,Vergleich,comparison
+417,besten,best,best (inflected)
+418,insgesamt,insgesamt,overall; in total
+419,kostenlos,kostenlos,free of charge
+420,Speicher,Speicher,memory; storage
+421,Fragen,Frage,questions
+422,Lautsprecher,Lautsprecher,speaker; loudspeaker
+423,Smartphones,Smartphone,smartphones
+424,gehen,gehen,to go; (they) go
+425,Probleme,Problem,problems
+426,Reihe,Reihe,series; row
+427,bisher,bisher,so far; until now
+428,handelt,handeln,acts; (es handelt sich um) it is about
+429,jede,jeder,every; each
+430,nächsten,nächst,next (inflected)
+431,wichtig,wichtig,important
+432,dadurch,dadurch,thereby; as a result
+433,zusammen,zusammen,together
+434,Mail,Mail,email; mail
+435,automatisch,automatisch,automatic; automatically
+436,verwenden,verwenden,to use; (they) use
+437,arbeiten,arbeiten,to work; (they) work
+438,sagen,sagen,to say; (they) say
+439,setzen,setzen,to set; to put; (they) set
+440,verwendet,verwenden,used; uses
+441,entwickelt,entwickeln,developed; develops
+442,zusätzlich,zusätzlich,additional; additionally
+443,Geschichte,Geschichte,history; story
+444,gab,geben,gave; there was
+445,innerhalb,innerhalb,within
+446,Team,Team,team
+447,Zukunft,Zukunft,future
+448,gar,gar,at all; even
+449,somit,somit,thus; therefore
+450,Tablet,Tablet,tablet (computer)
+451,Updates,Update,updates
+452,derzeit,derzeit,currently
+453,Unterstützung,Unterstützung,support; assistance
+454,Akku,Akku,battery (rechargeable)
+455,sieht,sehen,sees; looks
+456,unser,unser,our
+457,Geräten,Gerät,devices (dative plural)
+458,Tag,Tag,day
+459,anderem,ander,other; (unter anderem) among other things
+460,konnte,können,could; was able to
+461,welches,welcher,which
+462,bleiben,bleiben,to stay; (they) remain
+463,meisten,meist,most
+464,weiteren,weiter,further; other (inflected)
+465,deinem,dein,your (dative)
+466,deutschen,deutsch,German (inflected)
+467,ihn,er,him; it (accusative)
+468,Switch,Switch,Nintendo Switch; network switch
+469,Technik,Technik,technology; technique
+470,Leben,Leben,life
+471,digitale,digital,digital
+472,weiß,wissen,know (I/he/she/it)
+473,links,links,left; (on the) left
+474,Auswahl,Auswahl,selection; choice
+475,ganze,ganz,whole; entire
+476,bringen,bringen,to bring; (they) bring
+477,möchten,mögen,would like (to); (they) want
+478,August,August,August
+479,Videos,Video,videos
+480,unseren,unser,our
+481,zurück,zurück,back; backwards
+482,Wert,Wert,value; worth
+483,Start,Start,start; launch
+484,bekommen,bekommen,to get; received
+485,leicht,leicht,light; easy; slightly
+486,Auflösung,Auflösung,resolution (screen); dissolution
+487,Plattform,Plattform,platform
+488,gemacht,machen,made; done
+489,gleich,gleich,same; equal; right away
+490,technische,technisch,technical
+491,eben,eben,just; precisely; flat
+492,mein,mein,my
+493,Fernseher,Fernseher,television; TV set
+494,seinem,sein,his; its (dative)
+495,Box,Box,box (set-top/device)
+496,digital,digital,digital
+497,bin,sein,am (I)
+498,Gehäuse,Gehäuse,case; housing (device)
+499,cm,cm,cm (centimetres)
+500,Arbeit,Arbeit,work; labour
+,,,Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - sources and credits: https://apera.me/sources#reading-lists

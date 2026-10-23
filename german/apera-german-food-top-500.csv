@@ -1,0 +1,502 @@
+rank,word,lemma,meaning
+1,und,und,and
+2,die,die,"the (fem./plural); who, which"
+3,der,der,the (masc.); of the (fem.)
+4,in,in,in; into
+5,mit,mit,with
+6,für,für,for
+7,das,das,"the (neuter); that, which"
+8,den,den,the (accusative masc.; dative pl.)
+9,zu,zu,to; too; closed
+10,sie,sie,she; they; her
+11,ist,sein,is (it)
+12,ein,ein,"a, an; one"
+13,auf,auf,on; onto; open
+14,eine,ein,"a, an (fem.); one"
+15,oder,oder,or
+16,von,von,from; of; by
+17,ich,ich,I
+18,es,es,it
+19,auch,auch,"also, too"
+20,im,in,in the
+21,dem,der,the (dative); to the
+22,nicht,nicht,not
+23,sich,sich,oneself; himself/herself/themselves
+24,aus,aus,out of; made from
+25,sind,sein,are (they/we)
+26,als,als,as; than; when
+27,wie,wie,"how; like, as"
+28,du,du,you (informal)
+29,bei,bei,at; with; near
+30,an,an,on; at; to
+31,werden,werden,become; will; are being (they)
+32,einen,ein,"a, an (accusative masc.)"
+33,einem,ein,"a, an (dative)"
+34,um,um,around; at (time); to (order to)
+35,nach,nach,after; to; according to
+36,zum,zu,to the; for the
+37,einer,ein,"a, an (fem. dative/genitive); of one"
+38,des,der,of the (genitive)
+39,so,so,so; like this
+40,kann,können,can (he/she/it)
+41,wird,werden,becomes; will (be)
+42,dass,dass,that (conjunction)
+43,aber,aber,but
+44,man,man,"one, you (generic)"
+45,noch,noch,still; yet; more
+46,bis,bis,until; up to
+47,wenn,wenn,if; when(ever)
+48,am,an,on the; at the
+49,wir,wir,we
+50,nur,nur,"only, just"
+51,Zutaten,Zutat,ingredients
+52,etwas,etwas,something; a little; some
+53,Rezept,Rezept,recipe
+54,hat,haben,has (he/she/it)
+55,dann,dann,then
+56,diese,dieser,this (fem.); these
+57,gut,gut,good; well
+58,Minuten,Minute,minutes
+59,was,was,what; which
+60,lassen,lassen,let; leave; allow to (rest)
+61,er,er,he; it
+62,mehr,mehr,more
+63,über,über,over; about; above
+64,Geschmack,Geschmack,"taste, flavour"
+65,durch,durch,through; by means of
+66,vor,vor,before; in front of
+67,ihr,ihr,her; their; you (plural)
+68,können,können,can (we/they); be able to
+69,einfach,einfach,"simple, easy; simply"
+70,Salz,Salz,salt
+71,sehr,sehr,very
+72,hier,hier,here
+73,haben,haben,have (we/they)
+74,gibt,geben,gives; (es gibt) there is
+75,zur,zu,to the; for the (fem.)
+76,geben,geben,give; add (they/we)
+77,Teig,Teig,"dough, batter"
+78,immer,immer,always
+79,war,sein,was (I/he/she/it)
+80,beim,bei,at the; while (doing)
+81,da,da,there; since; then
+82,habe,haben,have (I)
+83,sein,sein,"to be; his, its"
+84,ohne,ohne,without
+85,schon,schon,already; (emphatic) just
+86,Zucker,Zucker,sugar
+87,alle,alle,all; everyone
+88,damit,damit,so that; with it
+89,dieser,dieser,this (masc.); of this
+90,ganz,ganz,"quite; whole, entire"
+91,el,el,the (Spanish article)
+92,dieses,dieses,this (neuter)
+93,mal,mal,once; times; just (softener)
+94,Wasser,Wasser,water
+95,uns,wir,us; ourselves
+96,dabei,dabei,while doing so; with it
+97,alles,alles,everything; all
+98,vom,von,from the; of the
+99,leicht,leicht,light; easy; easily
+100,Butter,Butter,butter
+101,mich,ich,me (accusative)
+102,backen,backen,to bake; (we/they) bake
+103,mir,ich,me (dative); to me
+104,unter,unter,under; among; below
+105,Käse,Käse,cheese
+106,dazu,dazu,with it; in addition; for that
+107,Pfeffer,Pfeffer,pepper (spice)
+108,ca,circa,approx. (abbreviation of circa)
+109,besonders,besonders,especially; particularly
+110,kannst,können,you can; you are able to
+111,frische,Frische,freshness; fresh (inflected)
+112,Küche,Küche,kitchen; cuisine
+113,ihre,ihr,her; their; your (formal)
+114,Zubereitung,Zubereitung,preparation (of food)
+115,viel,viel,much; a lot; many
+116,wieder,wieder,again
+117,Gemüse,Gemüse,vegetables
+118,Gericht,Gericht,dish; meal
+119,perfekt,perfekt,perfect
+120,macht,machen,makes; does (he/she/it)
+121,kochen,kochen,to cook; to boil; (we/they) cook
+122,sondern,sondern,but rather; but instead
+123,machen,machen,to make; to do; (we/they) make
+124,etwa,etwa,about; approximately; roughly
+125,Kuchen,Kuchen,cake
+126,Zeit,Zeit,time
+127,Pfanne,Pfanne,frying pan; pan
+128,schneiden,schneiden,to cut; to slice; (we/they) cut
+129,keine,kein,no; not any
+130,besten,beste,best (inflected); the best
+131,ab,ab,from; off; away
+132,frisch,frisch,fresh
+133,ihn,er,him; it (accusative)
+134,sollte,sollen,should; was supposed to
+135,viele,viel,many
+136,meine,mein,my; mine (inflected)
+137,Rezepte,Rezept,recipes
+138,diesem,dieser,this (dative)
+139,servieren,servieren,to serve; (we/they) serve
+140,verwenden,verwenden,to use; (we/they) use
+141,ja,ja,yes; indeed (particle)
+142,kleine,klein,small; little (inflected)
+143,essen,essen,to eat; food; meal
+144,Salat,Salat,salad; lettuce
+145,darauf,darauf,on it; thereupon; for it
+146,Mehl,Mehl,flour
+147,Sauce,Sauce,sauce
+148,Kühlschrank,Kühlschrank,refrigerator; fridge
+149,Schritt,Schritt,step
+150,schnell,schnell,quick; fast
+151,Fleisch,Fleisch,meat
+152,Ofen,Ofen,oven
+153,ob,ob,whether; if
+154,dir,du,you (dative); to you
+155,euch,ihr,you all (acc./dat.)
+156,kurz,kurz,short; briefly
+157,jetzt,jetzt,now
+158,ml,ml,ml (milliliter)
+159,wer,wer,who
+160,sorgt,sorgen,ensures; takes care (he/she/it)
+161,denn,denn,because; for; then (particle)
+162,Olivenöl,Olivenöl,olive oil
+163,heute,heute,today
+164,zwei,zwei,two
+165,nun,nun,now; well then
+166,muss,müssen,must; has to (he/she/it/I)
+167,mein,mein,my
+168,wurde,werden,became; was (passive aux.)
+169,gerade,gerade,just now; right now; straight
+170,sowie,sowie,as well as; and also
+171,also,also,so; therefore; well
+172,Knoblauch,Knoblauch,garlic
+173,Aromen,Aroma,flavors; aromas
+174,Sahne,Sahne,cream
+175,doch,doch,but; yet; after all (particle)
+176,lässt,lassen,lets; leaves; (he/she/it) lets
+177,selbst,selbst,self; even; oneself
+178,Tomaten,Tomate,tomatoes
+179,geht,gehen,goes; works (he/she/it)
+180,seine,sein,his; its (inflected)
+181,anderen,ander,other (inflected); others
+182,Milch,Milch,milk
+183,lange,lange,long; for a long time
+184,vegane,vegan,vegan (inflected)
+185,natürlich,natürlich,of course; natural
+186,Öl,Öl,oil
+187,Eier,Ei,eggs
+188,während,während,while; during
+189,Daten,Daten,data
+190,Restaurant,Restaurant,restaurant
+191,kommt,kommen,comes; (he/she/it) comes
+192,dich,du,you (accusative)
+193,gerne,gerne,gladly; happily; with pleasure
+194,andere,ander,other; others
+195,bitte,bitte,please; you're welcome
+196,Kartoffeln,Kartoffel,potatoes
+197,Jahr,Jahr,year
+198,sehen,sehen,to see; (we/they) see
+199,große,groß,big; large (inflected)
+200,fein,fein,fine; delicate; finely (chopped)
+201,kleinen,klein,small (inflected)
+202,Schüssel,Schüssel,bowl
+203,schmeckt,schmecken,tastes; it tastes (good)
+204,lecker,lecker,tasty; delicious
+205,ideal,ideal,ideal; perfect (for)
+206,einige,einige,some; several
+207,diesen,dieser,this; these (inflected)
+208,Wein,Wein,wine
+209,weitere,weiter,further; additional; more
+210,bleibt,bleiben,stays; remains (it)
+211,großen,groß,big; large (inflected)
+212,süße,süß,sweet (inflected)
+213,Topf,Topf,pot; saucepan
+214,je,je,per; each; ever; (je ... desto) the more
+215,Zwiebel,Zwiebel,onion
+216,paar,paar,few; (ein paar) a few
+217,dafür,dafür,for it; for that; instead
+218,hinzu,hinzu,(add) to it; in addition
+219,Backofen,Backofen,oven
+220,frischen,frisch,fresh (inflected)
+221,passt,passen,fits; goes well (with); suits
+222,deine,dein,"your (inflected, informal)"
+223,genießen,genießen,to enjoy; enjoy (they/we)
+224,Tag,Tag,day
+225,Genuss,Genuss,enjoyment; treat; pleasure
+226,seit,seit,since; for (time)
+227,oft,oft,often
+228,eines,ein,of a; one (of); a (genitive/neuter)
+229,direkt,direkt,direct; directly; straight
+230,Form,Form,baking tin; form; shape
+231,neue,neu,new (inflected)
+232,Tage,Tag,days
+233,unten,unten,below; at the bottom; down
+234,Hitze,Hitze,heat
+235,einmal,einmal,once; one time; (auf einmal) at once
+236,Note,Note,note (of flavor); hint
+237,Paprika,Paprika,bell pepper; paprika
+238,Zwiebeln,Zwiebel,onions
+239,gute,gut,good (inflected)
+240,Aroma,Aroma,aroma; flavor
+241,Kombination,Kombination,combination
+242,wirklich,wirklich,really; truly
+243,perfekte,perfekt,perfect (inflected)
+244,beachten,beachten,to note; to observe; pay attention to
+245,Seite,Seite,side; page
+246,cm,cm,cm; centimeters
+247,bietet,bieten,offers; provides (it)
+248,welche,welch,which; what; some
+249,kein,kein,no; not any
+250,zusammen,zusammen,together
+251,Brot,Brot,bread
+252,unsere,unser,our (inflected)
+253,stellen,stellen,to put; to place; set (they/we)
+254,richtig,richtig,right; correct; properly
+255,Mischung,Mischung,mixture; blend
+256,pro,pro,per
+257,jeden,jeder,every; each (inflected)
+258,schön,schön,nice; beautiful; lovely
+259,genau,genau,exactly; precisely
+260,ihren,ihr,her; their; your (formal) (inflected)
+261,Qualität,Qualität,quality
+262,Produkte,Produkt,products
+263,bringt,bringen,brings; (it) brings
+264,Textur,Textur,texture
+265,Inhalt,Inhalt,content; contents; volume
+266,bereits,bereits,already
+267,Konsistenz,Konsistenz,consistency; texture
+268,bin,sein,am (I)
+269,meiner,mein,my; of my (inflected)
+270,hinzufügen,hinzufügen,to add; add (they/we)
+271,Jahren,Jahr,years (dative)
+272,hatte,haben,had (I/he/she/it)
+273,erst,erst,only; first; not until
+274,drei,drei,three
+275,Füllung,Füllung,filling; stuffing
+276,jeder,jeder,every; each; everyone
+277,Variante,Variante,variant; variation
+278,Euro,Euro,euro
+279,Zitronensaft,Zitronensaft,lemon juice
+280,nehmen,nehmen,to take; take (they/we)
+281,zubereiten,zubereiten,to prepare; to cook
+282,ihrer,ihr,her; their; of her/them (inflected)
+283,wenig,wenig,little; a little; few
+284,ebenfalls,ebenfalls,also; likewise
+285,weil,weil,because
+286,warum,warum,why
+287,Stunden,Stunde,hours
+288,hast,haben,have (you)
+289,verwendet,verwenden,used; uses (it); is used
+290,Scheiben,Scheibe,slices
+291,Schokolade,Schokolade,chocolate
+292,legen,legen,to lay; place; put (they/we)
+293,Ei,Ei,egg
+294,min,min,min; minutes
+295,waren,sein,were (they/we)
+296,finden,finden,to find; find (they/we)
+297,Menschen,Mensch,people; humans
+298,Reis,Reis,rice
+299,Zucchini,Zucchini,"zucchini, courgette"
+300,kommen,kommen,to come; (they) come
+301,besser,gut,better
+302,klicken,klicken,to click
+303,Pasta,Pasta,pasta
+304,zwischen,zwischen,between
+305,Prise,Prise,pinch (of salt etc.)
+306,steht,stehen,stands; (it) is; is written
+307,dies,dies,this
+308,Suppe,Suppe,soup
+309,weniger,wenig,less; fewer
+310,vielen,viel,many; much (dative/plural)
+311,Glas,Glas,glass; jar
+312,wichtig,wichtig,important
+313,wunderbar,wunderbar,"wonderful, delicious"
+314,rühren,rühren,to stir; (they) stir
+315,ersten,erste,first (inflected)
+316,waschen,waschen,to wash; (they) wash
+317,anschließend,anschließend,"afterwards, then"
+318,Stücke,Stück,pieces
+319,dort,dort,there
+320,Zimt,Zimt,cinnamon
+321,wo,wo,where
+322,rote,rot,red (inflected)
+323,sogar,sogar,even
+324,gemacht,machen,made; done
+325,zubereitet,zubereiten,prepared (cooked)
+326,jede,jeder,each; every
+327,meinem,mein,my (dative)
+328,allem,all,all; everything (dative)
+329,bringen,bringen,to bring; (they) bring
+330,Tipps,Tipp,tips
+331,liegt,liegen,lies; is located
+332,Gäste,Gast,guests
+333,jedoch,jedoch,however
+334,sollten,sollen,should; (they) should
+335,abkühlen,abkühlen,to cool down; let cool
+336,Petersilie,Petersilie,parsley
+337,cremige,cremig,creamy (inflected)
+338,hervorragend,hervorragend,"excellent, outstanding"
+339,eignet,eignen,(it) is suitable
+340,eigentlichen,eigentlich,"actual, real (inflected)"
+341,fast,fast,almost
+342,weitergegeben,weitergeben,passed on; shared
+343,schälen,schälen,to peel; (they) peel
+344,Blog,Blog,blog
+345,Nudeln,Nudel,noodles; pasta
+346,Stück,Stück,piece
+347,ins,ins,into the
+348,ihnen,sie/Sie,them; (formal) you (dative)
+349,Dessert,Dessert,dessert
+350,darüber,darüber,over it; about it
+351,ganze,ganz,whole (inflected)
+352,Gerichte,Gericht,dishes; meals
+353,statt,statt,instead of
+354,achten,achten,to pay attention; (they) watch
+355,Ende,Ende,end
+356,extra,extra,extra; especially
+357,Drittanbieter,Drittanbieter,third-party providers
+358,Welt,Welt,world
+359,erhitzen,erhitzen,to heat; (they) heat
+360,zuzugreifen,zugreifen,to access (zu-infinitive)
+361,verschiedenen,verschieden,various; different (inflected)
+362,Wahl,Wahl,choice
+363,Platzhalterinhalt,Platzhalterinhalt,placeholder content
+364,Menge,Menge,"amount, quantity"
+365,außerdem,außerdem,"besides, also"
+366,Creme,Creme,cream (dessert cream); lotion
+367,gleichmäßig,gleichmäßig,evenly
+368,stehen,stehen,to stand; (they) stand; let stand
+369,möchte,möchten,(I/he) would like
+370,Kräuter,Kraut,herbs
+371,seiner,sein,his; its (dative/genitive)
+372,dein,dein,your (informal)
+373,verteilen,verteilen,to spread; distribute
+374,braten,braten,to fry; to roast
+375,Schaltfläche,Schaltfläche,button (on screen)
+376,anbraten,anbraten,to sear; brown
+377,vegan,vegan,vegan
+378,liebe,Liebe,love
+379,gehen,gehen,to go; (they) go
+380,Teller,Teller,plate
+381,Art,Art,"kind, way"
+382,einfache,einfach,"simple, easy (inflected)"
+383,weiterlesen,weiterlesen,read more; keep reading
+384,Honig,Honig,honey
+385,Beispiel,Beispiel,example
+386,Fisch,Fisch,fish
+387,verschiedene,verschieden,various; different
+388,rund,rund,round; about (approx.)
+389,bieten,bieten,to offer; (they) offer
+390,Familie,Familie,family
+391,Personen,Person,people; servings
+392,fest,fest,"firm, solid; fixed"
+393,Gewürze,Gewürz,spices
+394,Joghurt,Joghurt,yogurt
+395,Jahre,Jahr,years
+396,Ernährung,Ernährung,nutrition; diet
+397,super,super,great; super
+398,geeignet,geeignet,suitable
+399,gar,gar,"cooked through, done"
+400,Grad,Grad,degrees (temperature)
+401,Pizza,Pizza,pizza
+402,sorgen,sorgen,to care for; (they) provide
+403,weich,weich,soft; tender
+404,unser,unser,our
+405,müssen,müssen,must; have to (we/they)
+406,sofort,sofort,immediately
+407,weiter,weiter,further; continue
+408,meinen,meinen,to think; (we/they) mean
+409,Farbe,Farbe,colour
+410,beste,beste,best
+411,bevor,bevor,before
+412,Tisch,Tisch,table
+413,Soße,Soße,sauce
+414,frischer,frisch,fresher; fresh (masc. form)
+415,Boden,Boden,base; bottom (of a cake)
+416,Masse,Masse,mixture; batter
+417,fertig,fertig,ready; finished
+418,Fett,Fett,fat
+419,Alternative,Alternative,alternative
+420,soll,sollen,should; is supposed to
+421,nichts,nichts,nothing
+422,neuen,neu,new (inflected)
+423,bleiben,bleiben,to stay; (we/they) remain
+424,vorbereiten,vorbereiten,to prepare
+425,wurden,werden,were; became (they)
+426,leckere,lecker,tasty; delicious (inflected)
+427,Spargel,Spargel,asparagus
+428,schmecken,schmecken,to taste; (they) taste
+429,neben,neben,next to; besides
+430,allerdings,allerdings,however; admittedly
+431,Teil,Teil,part; portion
+432,sicher,sicher,sure; safe; certainly
+433,sowohl,sowohl,(sowohl ... als auch) both ... and
+434,besondere,besonder,special; particular (inflected)
+435,Uhr,Uhr,o'clock; clock
+436,feine,fein,fine; delicate (inflected)
+437,Dressing,Dressing,salad dressing
+438,abschmecken,abschmecken,to season to taste
+439,davon,davon,of it; of them
+440,daher,daher,therefore; hence
+441,erhalten,erhalten,to receive; obtain; (they) get
+442,eigentlich,eigentlich,actually; really
+443,Backpulver,Backpulver,baking powder
+444,Portionen,Portion,portions; servings
+445,Hähnchen,Hähnchen,chicken
+446,vielleicht,vielleicht,maybe; perhaps
+447,Torte,Torte,layer cake; gateau
+448,unserer,unser,of our; our (inflected)
+449,Hotel,Hotel,hotel
+450,guten,gut,good (inflected)
+451,verrühren,verrühren,to stir together; mix
+452,cremig,cremig,creamy
+453,seinen,sein,his; its (accusative)
+454,verleiht,verleihen,gives; lends (it)
+455,Lebensmittel,Lebensmittel,food; groceries
+456,veganen,vegan,vegan (inflected)
+457,mag,mögen,(I/he) like
+458,Bio,Bio,organic
+459,findet,finden,finds; (he/she) thinks
+460,knusprig,knusprig,crispy; crunchy
+461,Kaffee,Kaffee,coffee
+462,gleich,gleich,equal; right away; same
+463,Grill,Grill,grill; barbecue
+464,Tipp,Tipp,tip; hint
+465,Platz,Platz,place; space; seat
+466,jedem,jeder,each; every (dative)
+467,könnt,können,can (you all)
+468,Food,Food,food (anglicism)
+469,Mandeln,Mandel,almonds
+470,einfrieren,einfrieren,to freeze (food)
+471,Parmesan,Parmesan,Parmesan cheese
+472,lieben,lieben,to love; (we/they) love
+473,würzen,würzen,to season; spice
+474,möchten,möchten,would like (we/they)
+475,ihrem,ihr,her; their (dative)
+476,gehört,gehören,belongs; is part of
+477,mischen,mischen,to mix; blend
+478,trocken,trocken,dry
+479,Puderzucker,Puderzucker,powdered sugar; icing sugar
+480,vorheizen,vorheizen,to preheat
+481,Backpapier,Backpapier,baking parchment
+482,Basis,Basis,base; basis
+483,vorsichtig,vorsichtig,careful; gently
+484,Portion,Portion,portion; serving
+485,Zitrone,Zitrone,lemon
+486,könnte,können,could (I/he/she/it)
+487,passen,passen,to fit; go well with
+488,garen,garen,to cook (through); simmer
+489,zudem,zudem,moreover; in addition
+490,darin,darin,in it; therein
+491,serviert,servieren,served; (he/she) serves
+492,unbedingt,unbedingt,definitely; absolutely
+493,Ingwer,Ingwer,ginger
+494,darf,dürfen,may; is allowed to
+495,mindestens,mindestens,at least
+496,Sommer,Sommer,summer
+497,Chili,Chili,chili (pepper)
+498,danach,danach,afterwards; after that
+499,Saft,Saft,juice
+500,süß,süß,sweet
+,,,Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - sources and credits: https://apera.me/sources#reading-lists

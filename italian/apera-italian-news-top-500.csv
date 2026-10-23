@@ -1,0 +1,502 @@
+rank,word,lemma,meaning
+1,di,di,of; from
+2,e,e,and
+3,il,il,the (masc. sing.)
+4,la,la,the (fem. sing.)
+5,che,che,that; which; who
+6,in,in,in; into
+7,a,a,to; at; in
+8,per,per,for; in order to; by
+9,del,del,of the (masc.)
+10,è,essere,is (he/she/it)
+11,un,un,a; an; one (masc.)
+12,della,della,of the (fem.)
+13,i,i,the (masc. plural)
+14,con,con,with
+15,le,le,the (fem. plural)
+16,una,una,a; an; one (fem.)
+17,non,non,not
+18,si,si,oneself; (reflexive/impersonal)
+19,da,da,from; by; since
+20,ha,avere,has (he/she/it)
+21,al,al,to the; at the (masc.)
+22,dei,dei,of the (masc. plural)
+23,sono,essere,are (they); am (I)
+24,nel,nel,in the (masc.)
+25,alla,alla,to the; at the (fem.)
+26,anche,anche,also; even; too
+27,delle,delle,of the (fem. plural)
+28,più,più,more; most
+29,come,come,as; like; how
+30,ma,ma,but
+31,gli,gli,the (masc. plural)
+32,dal,dal,from the; by the (masc.)
+33,ad,ad,to; at (before vowel)
+34,nella,nella,in the (fem.)
+35,alle,alle,to the; at the (fem. plural)
+36,lo,lo,the (masc.); him/it
+37,questo,questo,this; this one
+38,hanno,avere,have (they)
+39,tra,tra,between; among; in (time)
+40,stato,essere,been; state
+41,o,o,or
+42,ai,ai,to the (masc. plural)
+43,su,su,on; about; up
+44,anni,anno,years
+45,sul,sul,on the (masc.)
+46,dalla,dalla,from the; by the (fem.)
+47,ed,ed,and (before vowel)
+48,cui,cui,which; whom (after prep.)
+49,ci,ci,us; there; to it
+50,due,due,two
+51,degli,degli,of the (masc. plural)
+52,se,se,if; whether
+53,essere,essere,to be
+54,dopo,dopo,after; afterwards
+55,tutti,tutto,everyone; all
+56,questa,questo,this (fem.)
+57,prima,prima,before; first (fem.)
+58,solo,solo,only; alone
+59,parte,parte,part; side
+60,nei,nei,in the (masc. plural)
+61,sua,suo,his; her; its (fem.)
+62,era,essere,was (he/she/it)
+63,loro,loro,they/them; their
+64,sulla,sulla,on the (fem.)
+65,suo,suo,his; her; its
+66,oggi,oggi,today
+67,sempre,sempre,always; still
+68,ancora,ancora,still; yet; again
+69,via,via,street; way; away
+70,tutto,tutto,everything; all
+71,sarà,essere,will be (he/she/it)
+72,uno,uno,a; one (masc.)
+73,presidente,presidente,president; chairman
+74,perché,perché,because; why
+75,poi,poi,then; afterwards
+76,anno,anno,year
+77,nelle,nelle,in the (fem. plural)
+78,già,già,already
+79,ore,ora,hours
+80,sia,essere,be (subj.); both/either
+81,stata,essere,been (fem.)
+82,fatto,fare,done; made; fact
+83,stati,stato,states; been (masc. pl.)
+84,così,così,so; thus; like this
+85,lavoro,lavoro,work; job
+86,senza,senza,without
+87,chi,chi,who; whoever
+88,oltre,oltre,more than; beyond; besides
+89,dalle,dalle,from the; by the (fem. plural)
+90,quello,quello,that; that one
+91,città,città,city; town
+92,tempo,tempo,time; weather
+93,euro,euro,euro(s)
+94,persone,persona,people; persons
+95,ogni,ogni,every; each
+96,quando,quando,when
+97,proprio,proprio,really; exactly; own
+98,secondo,secondo,according to; second
+99,dai,dai,from the; by the (masc. plural)
+100,dove,dove,where
+101,quanto,quanto,how much; as much as
+102,primo,primo,first
+103,fare,fare,to do; to make
+104,fa,fare,does/makes (he/she); ago
+105,grande,grande,big; great
+106,comune,comune,municipality; town council
+107,vita,vita,life
+108,giorni,giorno,days
+109,altri,altro,others; other (plural)
+110,molto,molto,very; a lot; much
+111,quella,quello,that (one) (feminine)
+112,attività,attività,activity; business
+113,può,potere,can (he/she); may
+114,contro,contro,against
+115,nuovo,nuovo,new
+116,abbiamo,avere,we have; we've
+117,mondo,mondo,world
+118,casa,casa,house; home
+119,mi,mi,me; to me; myself
+120,questi,questo,these
+121,tre,tre,three
+122,fino,fino,until; up to (fino a)
+123,regione,regione,region
+124,dello,di + lo,of the; about the
+125,mentre,mentre,while; whereas
+126,territorio,territorio,territory; area
+127,centro,centro,centre; center
+128,ora,ora,now; hour
+129,san,san,saint (before name)
+130,altro,altro,other; another; else
+131,aveva,avere,he/she had
+132,nazionale,nazionale,national; national team
+133,agli,a + gli,to the; at the (plural)
+134,quale,quale,which; what
+135,rispetto,rispetto,respect; compared (rispetto a)
+136,nostro,nostro,our
+137,momento,momento,moment
+138,progetto,progetto,project; plan
+139,repubblica,repubblica,republic
+140,modo,modo,way; manner
+141,sui,su + i,on the; about the (plural)
+142,fine,fine,end; purpose
+143,sindaco,sindaco,mayor
+144,caso,caso,case
+145,tutte,tutto,all (feminine plural)
+146,quindi,quindi,therefore; so
+147,governo,governo,government
+148,volta,volta,time (occasion); once
+149,infatti,infatti,in fact; indeed
+150,ho,avere,I have
+151,invece,invece,instead; whereas
+152,giorno,giorno,day
+153,nostra,nostro,our (feminine)
+154,noi,noi,we; us
+155,corso,corso,course; avenue
+156,siamo,essere,we are
+157,nuova,nuovo,new (feminine)
+158,sulle,su + le,on the; about the (fem. plural)
+159,servizio,servizio,service; report
+160,grazie,grazie,thanks; thank you
+161,alcuni,alcuno,some; a few
+162,insieme,insieme,together; set
+163,durante,durante,during
+164,però,però,but; however
+165,sta,stare,is (being); stays
+166,cosa,cosa,thing; what
+167,ne,ne,of it/them; from there
+168,mesi,mese,months
+169,saranno,essere,they will be
+170,mai,mai,never; ever
+171,dati,dato,data; given (plural)
+172,pubblico,pubblico,public; audience
+173,negli,in + gli,in the (plural)
+174,stesso,stesso,same; himself
+175,regionale,regionale,regional
+176,storia,storia,story; history
+177,milioni,milione,millions
+178,cittadini,cittadino,citizens; residents
+179,ex,ex,former; ex-
+180,paese,paese,country; village
+181,mercato,mercato,market
+182,quali,quale,which (plural)
+183,attraverso,attraverso,through; via
+184,circa,circa,about; approximately
+185,soprattutto,soprattutto,above all; especially
+186,aver,avere,to have (short form)
+187,presso,presso,at; near; care of
+188,punto,punto,point; spot
+189,ieri,ieri,yesterday
+190,provincia,provincia,province
+191,sicurezza,sicurezza,safety; security
+192,società,società,company; society
+193,suoi,suo,his/her/its (plural); their
+194,possibile,possibile,possible
+195,detto,dire,said; (past participle)
+196,uomo,uomo,man
+197,gruppo,gruppo,group; band
+198,legge,legge,law; (he/she) reads
+199,importante,importante,important
+200,altre,altro,other (f. pl.)
+201,consiglio,consiglio,council; advice
+202,mila,mille,thousand (pl.)
+203,interno,interno,inside; internal; interior
+204,queste,questo,these (f.)
+205,viene,venire,comes (he/she/it)
+206,particolare,particolare,particular; special
+207,politica,politica,politics; policy
+208,meno,meno,less; minus; fewer
+209,posto,posto,place; seat; job
+210,giornata,giornata,day (whole day); day's event
+211,servizi,servizio,services; reports
+212,comunale,comunale,municipal; town (council)
+213,giovani,giovane,young people; young (pl.)
+214,dicembre,dicembre,December
+215,qui,qui,here
+216,domenica,domenica,Sunday
+217,numero,numero,number
+218,erano,essere,were (they)
+219,associazione,associazione,association
+220,verso,verso,towards; around (time)
+221,sito,sito,website; site
+222,sotto,sotto,under; below
+223,piazza,piazza,square (town); piazza
+224,programma,programma,program; plan
+225,allo,a + lo,to the; at the (masc.)
+226,sarebbe,essere,would be (it)
+227,serie,serie,series; league (Serie A)
+228,sabato,sabato,Saturday
+229,polizia,polizia,police
+230,scorso,scorso,last; previous (masc.)
+231,settembre,settembre,September
+232,situazione,situazione,situation
+233,piano,piano,plan; floor (storey)
+234,bene,bene,well; good
+235,avere,avere,to have
+236,lui,lui,he; him
+237,poco,poco,little; not much; few
+238,scuola,scuola,school
+239,tutta,tutto,whole; all (f.)
+240,qualche,qualche,some; a few
+241,inoltre,inoltre,moreover; also
+242,area,area,area; zone
+243,state,stato,been (f. pl.); be (you pl.)
+244,casi,caso,cases
+245,maggio,maggio,May
+246,campo,campo,field; camp; (sports) pitch
+247,gennaio,gennaio,January
+248,nuovi,nuovo,new (masc. pl.)
+249,sistema,sistema,system
+250,far,fare,to make; to do (short form)
+251,dato,dato,data item; given (past participle)
+252,giugno,giugno,June
+253,occasione,occasione,occasion; opportunity
+254,va,andare,goes (he/she/it)
+255,quasi,quasi,almost; nearly
+256,deve,dovere,must; has to (he/she/it)
+257,ultimo,ultimo,last; latest (masc.)
+258,incontro,incontro,meeting; encounter
+259,personale,personale,personal; staff (noun)
+260,carabinieri,carabiniere,carabinieri (military police)
+261,luglio,luglio,July
+262,amministrazione,amministrazione,administration; council
+263,italiana,italiano,Italian (f.)
+264,comunità,comunità,community
+265,settore,settore,sector; field
+266,famiglia,famiglia,family
+267,marzo,marzo,March
+268,possono,potere,can; may (they)
+269,sue,suo,his; her; its (f. pl.)
+270,base,base,base; basis
+271,tanto,tanto,so much; a lot
+272,settimana,settimana,week
+273,quelli,quello,those (masc.)
+274,potrebbe,potere,could; might (he/she/it)
+275,quel,quello,that (masc.)
+276,visto,vedere,seen; given that
+277,video,video,video
+278,generale,generale,general; overall
+279,novembre,novembre,November
+280,sociale,sociale,social
+281,tratta,trattare,(it) is about; deals with
+282,presenza,presenza,presence
+283,squadra,squadra,team; squad
+284,continua,continuare,continues (he/she/it)
+285,seguito,seguito,following; follow-up; (in seguito) afterwards
+286,strada,strada,road; street
+287,collaborazione,collaborazione,collaboration; cooperation
+288,donne,donna,women
+289,direttore,direttore,director; manager; editor
+290,cultura,cultura,culture
+291,agosto,agosto,August
+292,bambini,bambino,children; kids
+293,ciò,ciò,that; what (this thing)
+294,ottobre,ottobre,October
+295,ben,bene,well; quite (short form)
+296,evento,evento,event
+297,livello,livello,level
+298,zona,zona,area; zone
+299,quelle,quello,those (feminine)
+300,subito,subito,immediately; right away
+301,molti,molto,many; a lot of (masc. pl.)
+302,propria,proprio,own (feminine)
+303,informazioni,informazione,information
+304,dire,dire,to say; to tell
+305,altra,altro,other; another (feminine)
+306,lavori,lavoro,works; construction work
+307,nostri,nostro,our (masc. pl.)
+308,realtà,realtà,reality; organisation/entity
+309,periodo,periodo,period; time
+310,salute,salute,health
+311,nuove,nuovo,new (feminine pl.)
+312,grandi,grande,big; great (plural)
+313,assessore,assessore,local councillor; city minister
+314,dare,dare,to give
+315,quattro,quattro,four
+316,dagli,dagli,from the (masc. pl.)
+317,percorso,percorso,route; path; course
+318,edizione,edizione,edition
+319,ricerca,ricerca,research; search
+320,ministro,ministro,minister
+321,aprile,aprile,April
+322,futuro,futuro,future
+323,inizio,inizio,start; beginning
+324,italiano,italiano,Italian
+325,punti,punto,points; spots
+326,alcune,alcuno,some; a few (feminine)
+327,ultimi,ultimo,last; latest (masc. pl.)
+328,internazionale,internazionale,international
+329,fuori,fuori,outside; out
+330,donna,donna,woman
+331,io,io,I
+332,lungo,lungo,long; along
+333,italiani,italiano,Italians
+334,teatro,teatro,theatre
+335,locale,locale,local; venue
+336,vi,vi,you (plural); there
+337,fra,fra,between; among; in (time)
+338,musica,musica,music
+339,ordine,ordine,order; professional association
+340,stagione,stagione,season
+341,obiettivo,obiettivo,goal; objective
+342,diversi,diverso,several; different (masc. pl.)
+343,avrebbe,avere,he/she would have
+344,no,no,no
+345,parole,parola,words
+346,stessa,stesso,same; herself (feminine)
+347,vista,vista,view; sight
+348,causa,causa,cause; lawsuit
+349,partito,partito,(political) party
+350,stampa,stampa,press; print
+351,seconda,secondo,second (feminine)
+352,intervento,intervento,intervention; operation; speech
+353,ospedale,ospedale,hospital
+354,comuni,comune,municipalities; councils
+355,successo,successo,success
+356,attenzione,attenzione,attention; caution
+357,mese,mese,month
+358,venerdì,venerdì,Friday
+359,forza,forza,force; strength
+360,rapporto,rapporto,relationship; report; ratio
+361,esempio,esempio,example
+362,possibilità,possibilità,possibility; chance
+363,iniziativa,iniziativa,initiative; event
+364,leggi,legge,laws
+365,diverse,diverso,several; different (feminine pl.)
+366,sviluppo,sviluppo,development
+367,ragazzi,ragazzo,boys; kids; young people
+368,azienda,azienda,company; firm
+369,forte,forte,strong; loud
+370,febbraio,febbraio,February
+371,volte,volta,times; occasions
+372,fronte,fronte,front; (sul fronte) regarding
+373,rete,rete,network; net; goal
+374,ormai,ormai,by now; already
+375,avuto,avere,had (participle)
+376,commissione,commissione,commission; committee
+377,ambito,ambito,field; scope; (in ambito) within
+378,locali,locale,local (plural); venues
+379,paesi,paese,countries; towns
+380,tema,tema,theme; topic; issue
+381,tanti,tanto,many; so many
+382,dice,dire,says (he/she)
+383,emergenza,emergenza,emergency
+384,condizioni,condizione,conditions
+385,luogo,luogo,place; location
+386,film,film,film; movie
+387,sede,sede,headquarters; seat; venue
+388,rischio,rischio,risk
+389,qualità,qualità,quality
+390,sera,sera,evening
+391,esperienza,esperienza,experience
+392,partire,partire,to leave; to start out
+393,spesso,spesso,often
+394,guerra,guerra,war
+395,arte,arte,art
+396,almeno,almeno,at least
+397,gestione,gestione,management; handling
+398,mio,mio,my; mine
+399,imprese,impresa,businesses; companies
+400,spiega,spiegare,explains (he/she)
+401,porta,porta,door; gate
+402,meglio,meglio,better; best
+403,mia,mio,my (fem.); mine
+404,pubblica,pubblico,public (fem.)
+405,opera,opera,work; opera; public work
+406,media,media,average; the media
+407,auto,auto,car
+408,studio,studio,study; studio; office
+409,università,università,university
+410,famiglie,famiglia,families
+411,primi,primo,first (pl.); early
+412,nonostante,nonostante,despite; although
+413,eventi,evento,events
+414,sei,essere,you are; six
+415,interventi,intervento,interventions; operations; speeches
+416,massimo,massimo,maximum; greatest
+417,presenti,presente,present (pl.); attendees
+418,nome,nome,name
+419,terra,terra,land; earth; ground
+420,sembra,sembrare,seems (it)
+421,cinque,cinque,five
+422,impegno,impegno,commitment; effort
+423,cura,cura,care; treatment
+424,foto,foto,photo
+425,ruolo,ruolo,role
+426,crisi,crisi,crisis
+427,festival,festival,festival
+428,grado,grado,degree; level; rank
+429,giovane,giovane,young; young person
+430,palazzo,palazzo,building; palace; government seat
+431,dunque,dunque,so; therefore
+432,crescita,crescita,growth
+433,ultima,ultimo,last (fem.); latest
+434,chiesa,chiesa,church
+435,gara,gara,race; competition; tender
+436,stanno,stare,are (they); are doing
+437,prossimo,prossimo,next
+438,vero,vero,true; real
+439,forze,forza,forces; strengths
+440,me,me,me
+441,politiche,politico,political (fem. pl.); policies; general election
+442,avanti,avanti,ahead; forward; on
+443,sud,sud,south
+444,finale,finale,final; ending
+445,valore,valore,value; worth
+446,senso,senso,sense; meaning
+447,forse,forse,maybe; perhaps
+448,comunque,comunque,anyway; however
+449,social,social,social media (platforms)
+450,storico,storico,historic; historical
+451,totale,totale,total; overall
+452,controllo,controllo,control; check
+453,nord,nord,north
+454,mostra,mostra,exhibition
+455,web,web,web; internet
+456,ambiente,ambiente,environment
+457,persona,persona,person
+458,notte,notte,night
+459,serata,serata,evening; night out
+460,importanti,importante,important (pl.)
+461,lunedì,lunedì,Monday
+462,scelta,scelta,choice
+463,pochi,poco,few; little (masc. pl.)
+464,ecco,ecco,here is; that's
+465,problema,problema,problem
+466,unico,unico,only; unique
+467,accordo,accordo,agreement; deal
+468,diritto,diritto,right; law
+469,mattina,mattina,morning
+470,tribunale,tribunale,court; tribunal
+471,spazio,spazio,space
+472,amore,amore,love
+473,civile,civile,civil; civilian
+474,mare,mare,sea
+475,culturale,culturale,cultural
+476,nello,nello,in the (before s+cons.)
+477,nota,nota,note; (is) noted
+478,formazione,formazione,training; lineup; formation
+479,partita,partita,match; game
+480,sport,sport,sport
+481,termine,termine,end; deadline; term
+482,data,data,date
+483,articolo,articolo,article
+484,siano,essere,"are (they, subjunctive)"
+485,presente,presente,present; current
+486,fase,fase,phase; stage
+487,cuore,cuore,heart
+488,vengono,venire,come (they); are (passive)
+489,europea,europeo,European (f.)
+490,deciso,decidere,decided; firm
+491,fu,essere,was (he/she); late (deceased)
+492,scuole,scuola,schools
+493,tempi,tempo,times; periods
+494,mezzo,mezzo,means; half; vehicle
+495,analisi,analisi,analysis; test
+496,confronti,confronto,comparison; (nei confronti di) towards
+497,produzione,produzione,production
+498,studenti,studente,students
+499,titolo,titolo,title; headline; share
+500,domani,domani,tomorrow
+,,,Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - sources and credits: https://apera.me/sources#reading-lists

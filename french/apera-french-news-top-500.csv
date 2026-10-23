@@ -1,0 +1,502 @@
+rank,word,lemma,meaning
+1,de,de,of; from
+2,la,le,the (fem.)
+3,le,le,the (masc.)
+4,et,et,and
+5,à,à,to; at; in
+6,les,le,the (plural)
+7,des,de,some; of the (plural)
+8,en,en,in; while (doing); of it
+9,du,de,of the; from the (masc.)
+10,un,un,a; one (masc.)
+11,une,un,a; one (fem.)
+12,est,être,is (he/she/it)
+13,pour,pour,for; in order to
+14,dans,dans,in; within
+15,a,avoir,has (he/she/it)
+16,qui,qui,who; which; that
+17,au,à,to the; at the (masc.)
+18,que,que,that; than; what
+19,sur,sur,on; about
+20,par,par,by; through; per
+21,il,il,he; it
+22,ce,ce,this; that; it
+23,avec,avec,with
+24,pas,pas,not (negation)
+25,plus,plus,more; no more
+26,se,se,himself/herself/themselves
+27,sont,être,are (they)
+28,ne,ne,not (negation particle)
+29,son,son,his; her; its
+30,ou,ou,or
+31,aux,à,to the; at the (plural)
+32,cette,ce,this; that (fem.)
+33,on,on,one; we; people
+34,nous,nous,we; us
+35,ont,avoir,have (they)
+36,mais,mais,but
+37,vous,vous,you (formal/plural)
+38,été,être,been
+39,comme,comme,as; like
+40,elle,elle,she; it
+41,sa,son,his; her; its (fem.)
+42,ces,ce,these; those
+43,être,être,to be
+44,ses,son,his; her; its (plural)
+45,tout,tout,all; everything; whole
+46,leur,leur,their; to them
+47,y,y,there; to it
+48,fait,faire,does/did; made; fact
+49,aussi,aussi,also; too; as well
+50,entre,entre,between; among
+51,même,même,same; even
+52,deux,deux,two
+53,ans,an,years (of age)
+54,après,après,after
+55,bien,bien,well; good; indeed
+56,faire,faire,to do; to make
+57,ils,il,they (masc.)
+58,depuis,depuis,since; for (duration)
+59,si,si,if; so; yes (contradicting)
+60,je,je,I
+61,sans,sans,without
+62,tous,tout,all; everyone
+63,contre,contre,against
+64,peut,pouvoir,can; may (he/she/it)
+65,où,où,where; in which
+66,était,être,was (he/she/it)
+67,très,très,very
+68,encore,encore,again; still; yet
+69,leurs,leur,their (plural)
+70,autres,autre,other; others
+71,ainsi,ainsi,thus; so; as well
+72,notre,notre,our
+73,alors,alors,then; so; at that time
+74,politique,politique,politics; policy; political
+75,pays,pays,country
+76,avant,avant,before
+77,place,place,place; square; position
+78,avait,avoir,had (he/she/it)
+79,monde,monde,world; people
+80,dont,dont,whose; of which; including
+81,septembre,septembre,September
+82,sous,sous,under; below
+83,lui,lui,him; her; to him/her
+84,temps,temps,time; weather
+85,également,également,also; equally
+86,donc,donc,so; therefore
+87,plusieurs,plusieurs,several
+88,non,non,no; not
+89,personnes,personne,people; persons
+90,notamment,notamment,notably; in particular
+91,selon,selon,according to
+92,mois,mois,month(s)
+93,année,année,year
+94,nos,notre,our (plural)
+95,avoir,avoir,to have
+96,sera,être,will be (he/she/it)
+97,saint,saint,saint; holy; Saint- (in names)
+98,moins,moins,less; minus; fewer
+99,vie,vie,life
+100,premier,premier,first; prime (minister)
+101,travail,travail,work; job; labour
+102,déjà,déjà,already; before
+103,autre,autre,other; another
+104,nouvelle,nouveau,new (feminine)
+105,président,président,president; chairman
+106,grand,grand,big; great; tall
+107,fois,fois,time; occasion; times
+108,cela,cela,that; it
+109,votre,votre,your (formal/plural)
+110,état,état,state; condition
+111,euros,euro,euros
+112,publié,publier,published; posted
+113,français,français,French; French people
+114,octobre,octobre,October
+115,cet,ce,this (before vowel)
+116,toutes,tout,all; every (feminine plural)
+117,peu,peu,little; few; not much
+118,projet,projet,project; plan; draft bill
+119,mars,mars,March
+120,trois,trois,three
+121,ville,ville,city; town
+122,quelques,quelque,some; a few
+123,chaque,chaque,each; every
+124,années,année,years
+125,lors,lors,(lors de) during; at the time of
+126,juin,juin,June
+127,toute,tout,all; whole; every (feminine)
+128,mai,mai,May
+129,première,premier,first (feminine)
+130,toujours,toujours,always; still
+131,fin,fin,end; (adj) fine
+132,juillet,juillet,July
+133,dernier,dernier,last; latest
+134,cas,cas,case; instance
+135,nouveau,nouveau,new
+136,soit,être,be (subjunctive); either/or
+137,janvier,janvier,January
+138,jour,jour,day
+139,histoire,histoire,history; story
+140,face,face,(face à) facing; in the face of
+141,lieu,lieu,(avoir lieu) take place; place
+142,va,aller,goes; is going (he/she)
+143,public,public,public; audience
+144,faut,falloir,(il faut) must; is needed
+145,vers,vers,toward; around
+146,avril,avril,April
+147,elles,elles,they (feminine)
+148,site,site,site; website
+149,novembre,novembre,November
+150,ça,ça,that; it
+151,ai,avoir,have (I)
+152,gouvernement,gouvernement,government
+153,jours,jour,days
+154,quand,quand,when
+155,là,là,there; here
+156,février,février,February
+157,samedi,samedi,Saturday
+158,association,association,association; non-profit group
+159,société,société,company; society
+160,décembre,décembre,December
+161,partie,partie,part; match; party (legal)
+162,compte,compte,account; count
+163,région,région,region
+164,août,août,August
+165,grande,grand,big; great (feminine)
+166,enfants,enfant,children
+167,ici,ici,here
+168,santé,santé,health
+169,festival,festival,festival
+170,édition,édition,edition; (event) year
+171,ceux,celui,those; the ones
+172,ministre,ministre,minister
+173,situation,situation,situation
+174,ensemble,ensemble,together; whole
+175,suite,suite,continuation; (suite à) following
+176,centre,centre,centre; center
+177,vendredi,vendredi,Friday
+178,car,car,because; for
+179,jeunes,jeune,young people; young (plural)
+180,mise,mise,(mise en) putting; placing; bet
+181,doit,devoir,must; has to; owes (he/she)
+182,groupe,groupe,group; band
+183,question,question,question; issue
+184,reste,reste,rest; remains; (verb) stays
+185,dimanche,dimanche,Sunday
+186,loi,loi,law; act
+187,prix,prix,price; prize
+188,pouvoir,pouvoir,power; to be able to
+189,femmes,femme,women; wives
+190,conseil,conseil,council; advice; board
+191,dès,dès,from; as early as
+192,ailleurs,ailleurs,elsewhere; (d'ailleurs) besides
+193,droit,droit,right; law; straight
+194,entreprises,entreprise,companies; businesses
+195,maire,maire,mayor
+196,pendant,pendant,during; while
+197,semaine,semaine,week
+198,millions,million,millions
+199,chez,chez,at the home of; among
+200,certains,certain,some (people); certain (ones)
+201,effet,effet,effect; (en effet) indeed
+202,nationale,national,national (fem.)
+203,beaucoup,beaucoup,a lot; many
+204,cadre,cadre,framework; (dans le cadre de) as part of
+205,seront,être,will be (they)
+206,afin,afin,in order (afin de/que)
+207,service,service,service; department
+208,dossier,dossier,case file; issue
+209,sécurité,sécurité,security; safety
+210,près,près,near; (près de) nearly
+211,point,point,point; matter
+212,homme,homme,man
+213,territoire,territoire,territory
+214,part,part,share; part
+215,moment,moment,moment; time
+216,peuvent,pouvoir,can; may (they)
+217,européenne,européen,European (fem.)
+218,puis,puis,then; next
+219,mercredi,mercredi,Wednesday
+220,dit,dire,said; says (he/she)
+221,services,service,services; departments
+222,celui,celui,the one; he who
+223,lundi,lundi,Monday
+224,politiques,politique,political (pl.); policies
+225,dire,dire,to say
+226,début,début,start; beginning
+227,autour,autour,around (autour de)
+228,nombre,nombre,number
+229,jeudi,jeudi,Thursday
+230,eau,eau,water
+231,comment,comment,how
+232,lire,lire,to read
+233,cours,cours,course; class; (au cours de) during
+234,voir,voir,to see
+235,partir,partir,to leave; (à partir de) from
+236,développement,développement,development
+237,heures,heure,hours; o'clock
+238,celle,celle,the one (fem.)
+239,mardi,mardi,Tuesday
+240,rapport,rapport,report; relation
+241,guerre,guerre,war
+242,avons,avoir,have (we)
+243,occasion,occasion,occasion; opportunity
+244,rencontre,rencontre,meeting; encounter; match
+245,sociale,social,social (fem.)
+246,journée,journée,day (whole day)
+247,article,article,article
+248,me,me,me; to me
+249,souvent,souvent,often
+250,rue,rue,street
+251,eu,avoir,had (past participle)
+252,crise,crise,crisis
+253,gauche,gauche,left (side/politics)
+254,jamais,jamais,never; ever
+255,vos,votre,your (pl.)
+256,mettre,mettre,to put; to place
+257,exemple,exemple,example
+258,mis,mettre,put; placed (past participle)
+259,social,social,social
+260,devant,devant,in front of; before
+261,rien,rien,nothing
+262,côté,côté,side
+263,national,national,national
+264,niveau,niveau,level
+265,an,an,year
+266,programme,programme,programme; schedule
+267,étaient,être,were (they)
+268,parti,parti,(political) party
+269,retour,retour,return
+270,ligne,ligne,line
+271,économique,économique,economic
+272,nombreux,nombreux,many; numerous
+273,droite,droite,right (side/politics)
+274,savoir,savoir,to know
+275,dernière,dernier,last; latest (fem.)
+276,eux,eux,them (masc.)
+277,française,français,French (fem.)
+278,ni,ni,nor; neither
+279,plan,plan,plan; level
+280,commune,commune,municipality; commune
+281,mouvement,mouvement,movement
+282,culture,culture,culture
+283,surtout,surtout,especially; above all
+284,marché,marché,market
+285,tour,tour,turn; round; tower
+286,petit,petit,small; little
+287,prendre,prendre,to take
+288,quatre,quatre,four
+289,désormais,désormais,from now on; now
+290,conditions,condition,conditions
+291,tant,tant,so much; (tant que) as long as
+292,pourrait,pouvoir,could; might (it)
+293,seulement,seulement,only; just
+294,mieux,mieux,better
+295,autant,autant,as much; as many
+296,jeune,jeune,young
+297,radio,radio,radio
+298,entreprise,entreprise,company; business
+299,permet,permettre,allows; enables (it)
+300,nouvelles,nouveau,new (fem. pl.)
+301,communes,commune,municipalities; communes
+302,droits,droit,rights
+303,habitants,habitant,inhabitants; residents
+304,création,création,creation; setting up
+305,parce,parce,because (parce que)
+306,découvrir,découvrir,to discover
+307,sud,sud,south
+308,formation,formation,training; formation
+309,système,système,system
+310,cœur,cœur,heart
+311,mon,mon,my (masc.)
+312,maison,maison,house; home
+313,union,union,union
+314,famille,famille,family
+315,sens,sens,meaning; direction; sense
+316,sociaux,social,social (masc. pl.)
+317,vient,venir,comes (he/she/it); just (vient de)
+318,équipe,équipe,team
+319,serait,être,would be (it)
+320,enfin,enfin,finally; at last
+321,gestion,gestion,management
+322,objectif,objectif,goal; objective
+323,lutte,lutte,fight; struggle
+324,trop,trop,too much; too many
+325,grâce,grâce,thanks to (grâce à); grace
+326,action,action,action
+327,états,état,states
+328,accès,accès,access
+329,cause,cause,cause; reason
+330,demande,demande,request; demand
+331,recherche,recherche,research; search
+332,propose,proposer,proposes; offers (he/she/it)
+333,grands,grand,big; great (masc. pl.)
+334,bon,bon,good
+335,produits,produit,products
+336,font,faire,do; make (they)
+337,département,département,department (administrative region)
+338,soutien,soutien,support
+339,espace,espace,space
+340,général,général,general
+341,organisation,organisation,organisation
+342,mer,mer,sea
+343,lien,lien,link; tie
+344,pourtant,pourtant,yet; however
+345,possible,possible,possible
+346,nord,nord,north
+347,publique,public,public (fem.)
+348,sein,sein,within (au sein de)
+349,école,école,school
+350,musique,musique,music
+351,agit,agir,acts (he/she/it); (il s'agit de) it is about
+352,pris,prendre,taken; took
+353,activité,activité,activity
+354,hommes,homme,men
+355,soir,soir,evening; night
+356,secteur,secteur,sector
+357,parmi,parmi,among
+358,aura,avoir,will have (he/she/it)
+359,unis,uni,united (masc. pl.)
+360,explique,expliquer,explains (he/she/it)
+361,élus,élu,elected officials
+362,population,population,population
+363,travaux,travail,works; construction work
+364,production,production,production
+365,suis,être,am (I)
+366,offre,offre,offer
+367,projets,projet,projects; plans
+368,emploi,emploi,job; employment
+369,période,période,period
+370,long,long,long
+371,police,police,police
+372,raison,raison,reason; (avoir raison) be right
+373,important,important,important
+374,scène,scène,stage; scene
+375,manière,manière,way; manner
+376,personne,personne,person
+377,travers,travers,through (à travers); across
+378,forme,forme,form; shape
+379,annonce,annonce,announcement
+380,nom,nom,name; noun
+381,malgré,malgré,despite
+382,pourquoi,pourquoi,why
+383,mesures,mesure,measures
+384,république,république,republic
+385,aucun,aucun,no; none; not any
+386,aide,aide,help; aid
+387,aurait,avoir,would have (he/she/it); allegedly has
+388,nouveaux,nouveau,new (plural)
+389,saison,saison,season
+390,œuvre,œuvre,work (of art); body of work
+391,matin,matin,morning
+392,direction,direction,direction; management
+393,choix,choix,choice
+394,patrimoine,patrimoine,heritage; assets
+395,qualité,qualité,quality
+396,ordre,ordre,order; (professional) body
+397,bonne,bon,good (feminine)
+398,avaient,avoir,had (they)
+399,livre,livre,book
+400,réunion,réunion,meeting
+401,locaux,local,premises; local (plural)
+402,nature,nature,nature
+403,sommes,être,are (we); sums
+404,pu,pouvoir,been able to; could have
+405,presse,presse,press (media)
+406,vue,vue,view; sight
+407,économie,économie,economy
+408,titre,titre,title; headline; (sport) championship
+409,club,club,club (esp. sports)
+410,publics,public,public (plural); audiences
+411,appel,appel,call; appeal
+412,données,donnée,data
+413,événement,événement,event
+414,loin,loin,far
+415,tête,tête,head; (sport) lead
+416,voix,voix,voice; vote
+417,vont,aller,are going (they)
+418,commission,commission,commission; committee
+419,informations,information,information; news items
+420,matière,matière,matter; (en matière de) regarding
+421,rôle,rôle,role
+422,décision,décision,decision
+423,film,film,film
+424,membres,membre,members
+425,prise,prise,taking; (prise en charge) handling
+426,activités,activité,activities
+427,idée,idée,idea
+428,art,art,art
+429,émission,émission,broadcast; emission
+430,ayant,avoir,having
+431,veut,vouloir,wants (he/she/it)
+432,ancien,ancien,former; old
+433,porte,porte,door; carries (he/she/it)
+434,mesure,mesure,measure; measures (he/she/it)
+435,élections,élection,elections
+436,charge,charge,burden; responsibility; charge
+437,heure,heure,hour; time (of day)
+438,expérience,expérience,experience
+439,cinq,cinq,five
+440,plutôt,plutôt,rather
+441,ensuite,ensuite,then; afterwards
+442,justice,justice,justice; the courts
+443,passé,passé,past; passed
+444,territoires,territoire,territories
+445,européen,européen,European (masculine)
+446,actions,action,actions; shares
+447,parfois,parfois,sometimes
+448,besoin,besoin,need
+449,cinéma,cinéma,cinema; movie theatre
+450,haut,haut,high; top
+451,certaines,certain,some; certain (feminine plural)
+452,quoi,quoi,what
+453,force,force,force; strength
+454,femme,femme,woman; wife
+455,nuit,nuit,night
+456,seul,seul,alone; only (masculine)
+457,oui,oui,yes
+458,date,date,date
+459,avis,avis,opinion; notice
+460,parcours,parcours,path; career; course
+461,terre,terre,earth; land
+462,risque,risque,risk
+463,nombreuses,nombreux,numerous (feminine plural)
+464,es,être,"are (you, singular)"
+465,sujet,sujet,subject; topic
+466,directement,directement,directly
+467,texte,texte,text
+468,deuxième,deuxième,second
+469,coup,coup,blow; shot; (coup de) stroke of
+470,collectivités,collectivité,local authorities; communities
+471,enquête,enquête,investigation; survey
+472,directeur,directeur,director; manager
+473,réseau,réseau,network
+474,particulièrement,particulièrement,particularly
+475,taux,taux,rate
+476,siècle,siècle,century
+477,gens,gens,people
+478,or,or,gold; yet (conjunction)
+479,questions,question,questions
+480,mort,mort,death; dead
+481,campagne,campagne,campaign
+482,ma,mon,my (feminine)
+483,doivent,devoir,must; have to (they)
+484,chef,chef,chief; leader; head
+485,feu,feu,fire
+486,annoncé,annoncer,announced
+487,associations,association,associations; organisations
+488,collectif,collectif,collective; group
+489,outre,outre,besides; (outre-mer) overseas
+490,simple,simple,simple; mere
+491,avez,avoir,have (you)
+492,durant,durant,during
+493,soirée,soirée,evening; party
+494,débat,débat,debate
+495,devrait,devoir,should; would have to (he/she/it)
+496,chose,chose,thing
+497,moyens,moyen,means; resources
+498,présente,présenter,presents; present (she/it)
+499,grandes,grand,big; major (fem. plural)
+500,exposition,exposition,exhibition
+,,,Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - sources and credits: https://apera.me/sources#reading-lists

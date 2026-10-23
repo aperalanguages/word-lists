@@ -1,0 +1,502 @@
+rank,word,lemma,meaning
+1,de,de,of; from
+2,el,el,the (masculine)
+3,la,la,the (feminine)
+4,en,en,in; on; at
+5,que,que,that; than; which
+6,y,y,and
+7,a,a,to; at
+8,los,el,the (masculine plural)
+9,del,del,of the (de + el)
+10,con,con,with
+11,un,uno,a; an (masculine)
+12,se,se,himself/herself/themselves; passive marker
+13,por,por,for; by; because of
+14,para,para,for; in order to
+15,no,no,no; not
+16,su,su,his; her; their; its
+17,al,al,to the (a + el)
+18,una,uno,a; an (feminine)
+19,las,el,the (feminine plural)
+20,es,ser,is (it)
+21,ha,haber,has (auxiliary)
+22,lo,lo,the (neuter); it; him
+23,más,más,more; most
+24,como,como,as; like; how
+25,pero,pero,but
+26,equipo,equipo,team
+27,este,este,this (masculine)
+28,partido,partido,match; game
+29,ya,ya,already; now; yet
+30,le,le,him/her/you (indirect object)
+31,sus,su,his; her; their (plural)
+32,dos,dos,two
+33,muy,muy,very
+34,o,o,or
+35,todo,todo,all; everything
+36,esta,este,this (feminine)
+37,real,real,royal (Real Madrid etc.)
+38,club,club,club
+39,tras,tras,after; behind
+40,fue,ser,was (he/she/it); went
+41,si,si,if; whether
+42,final,final,final; end
+43,temporada,temporada,season
+44,sin,sin,without
+45,está,estar,is (he/she/it; location/state)
+46,desde,desde,since; from
+47,también,también,also; too
+48,ante,ante,before; against; facing
+49,puntos,punto,points
+50,han,haber,have (they; auxiliary)
+51,años,año,years
+52,gran,gran,great; big
+53,fútbol,fútbol,football; soccer
+54,ser,ser,to be
+55,primera,primero,first (feminine); top division
+56,entre,entre,between; among
+57,hasta,hasta,until; up to; even
+58,me,me,me; to me
+59,jugador,jugador,player
+60,sobre,sobre,about; on; over
+61,tiene,tener,has (he/she/it)
+62,jugadores,jugador,players
+63,partidos,partido,matches; games
+64,uno,uno,one
+65,cuando,cuando,when
+66,parte,parte,part; side
+67,mejor,mejor,better; best
+68,primer,primero,first (before masculine noun)
+69,año,año,year
+70,tres,tres,three
+71,todos,todo,all; everyone
+72,liga,liga,league (La Liga)
+73,después,después,after; afterwards
+74,hay,haber,there is; there are
+75,bien,bien,well; good
+76,ahora,ahora,now
+77,minutos,minuto,minutes
+78,sido,ser,been
+79,así,así,like this; thus
+80,porque,porque,because
+81,juego,juego,game; play
+82,mundo,mundo,world
+83,donde,donde,where
+84,aunque,aunque,although; even though
+85,son,ser,are (they)
+86,contra,contra,against
+87,segunda,segundo,second (fem.); second division
+88,nos,nos,us; ourselves
+89,solo,solo,only; alone
+90,puede,poder,can (he/she); may
+91,victoria,victoria,victory; win
+92,momento,momento,moment
+93,durante,durante,during
+94,vez,vez,time (occasion)
+95,mucho,mucho,a lot; much
+96,tiempo,tiempo,time; half (of match)
+97,además,además,also; besides
+98,tanto,tanto,goal; point; so much
+99,jornada,jornada,matchday; round of fixtures
+100,copa,copa,cup; trophy
+101,equipos,equipo,teams
+102,eso,eso,that
+103,deportivo,deportivo,sporting; Deportivo (club)
+104,nuevo,nuevo,new
+105,antes,antes,before; earlier
+106,era,ser,was (he/she/it)
+107,hace,hacer,does/makes (he/she); ago
+108,otro,otro,other; another
+109,día,día,day
+110,cada,cada,each; every
+111,tiros,tiro,shots
+112,encuentro,encuentro,match; meeting
+113,pasado,pasado,last (week); past; passed
+114,será,ser,will be (he/she/it)
+115,ni,ni,nor; not even
+116,poco,poco,little; few
+117,hacer,hacer,to do; to make
+118,segundo,segundo,second (ordinal)
+119,goles,gol,goals
+120,conjunto,conjunto,team; squad
+121,menos,menos,less; minus; fewer
+122,siempre,siempre,always
+123,gol,gol,goal
+124,ese,ese,that (masc.)
+125,hecho,hecho,fact; done
+126,e,e,and (before i-)
+127,último,último,last; latest
+128,minuto,minuto,minute
+129,mismo,mismo,same; very
+130,nivel,nivel,level
+131,entrenador,entrenador,coach; manager
+132,semana,semana,week
+133,algo,algo,something
+134,va,ir,goes (he/she); is going
+135,hoy,hoy,today
+136,español,español,Spanish
+137,balón,balón,ball
+138,carrera,carrera,race; career
+139,falta,falta,foul; lack
+140,había,haber,had; there was
+141,él,él,he
+142,mundial,mundial,World Cup; world (adj)
+143,fuera,fuera,out; outside; away
+144,mi,mi,my
+145,grupo,grupo,group
+146,sí,sí,yes
+147,jugar,jugar,to play
+148,ver,ver,to see; to watch
+149,nada,nada,nothing; not at all
+150,qué,qué,what
+151,competición,competición,competition
+152,mientras,mientras,while; meanwhile
+153,forma,forma,form; shape
+154,tener,tener,to have
+155,cuarto,cuarto,fourth; quarter
+156,cuatro,cuatro,four
+157,estar,estar,to be (state/location)
+158,ganar,ganar,to win; to earn
+159,tan,tan,so; as
+160,técnico,técnico,coach; technical
+161,horas,hora,hours
+162,domingo,domingo,Sunday
+163,esa,esa,that (fem.)
+164,posición,posición,position
+165,otra,otro,other; another (fem.)
+166,san,san,Saint (before names)
+167,cinco,cinco,five
+168,están,estar,are (they)
+169,selección,selección,national team
+170,defensa,defensa,defence; defender
+171,buen,bueno,good (before noun)
+172,otros,otro,others; other (ones)
+173,resultados,resultado,results; scores
+174,rival,rival,opponent; rival
+175,vuelta,vuelta,second leg; return; lap
+176,últimos,último,last; latest (plural)
+177,puesto,puesto,position; place (ranking)
+178,frente,frente,"front; (frente a) against, facing"
+179,campo,campo,field; pitch
+180,casa,casa,home (playing at home)
+181,punto,punto,point
+182,lugar,lugar,place; position
+183,días,día,days
+184,categoría,categoría,category; division; league level
+185,caso,caso,case; (en caso de) in case of
+186,quien,quien,who; whoever
+187,seguir,seguir,to continue; to follow
+188,siendo,ser,being
+189,les,les,them; to them
+190,importante,importante,important
+191,te,te,you (object); yourself
+192,esto,esto,this
+193,deporte,deporte,sport
+194,tuvo,tener,had (he/she)
+195,van,ir,go (they); are going
+196,muchos,mucho,many; a lot of
+197,sábado,sábado,Saturday
+198,sigue,seguir,continues (he/she); follows
+199,nueva,nuevo,new (feminine)
+200,plantilla,plantilla,squad; roster
+201,todas,todo,all (feminine plural)
+202,fin,fin,end; (fin de semana) weekend
+203,yo,yo,I
+204,última,último,last; latest (feminine)
+205,estos,este,these
+206,parece,parecer,seems; appears
+207,podría,poder,could (he/she); would be able
+208,española,español,Spanish (feminine)
+209,mejores,mejor,best; better (plural)
+210,marcador,marcador,scoreboard; score; scorer
+211,unos,uno,some; a few
+212,grandes,grande,big; great (plural)
+213,ellos,ellos,they; them (masculine)
+214,millones,millón,millions
+215,estaba,estar,was (he/she)
+216,cuenta,cuenta,account; count; (tener en cuenta) take into account
+217,buena,bueno,good (feminine)
+218,historia,historia,history; story
+219,claro,claro,clear; of course
+220,llegó,llegar,arrived (he/she); reached
+221,sea,ser,be (subjunctive); (o sea) that is
+222,aún,aún,still; yet
+223,ambos,ambos,both
+224,próximo,próximo,next; upcoming
+225,casi,casi,almost; nearly
+226,embargo,embargo,(sin embargo) however; nevertheless
+227,hizo,hacer,did; made (he/she)
+228,haber,haber,to have (auxiliary); there to be
+229,torneo,torneo,tournament
+230,campeonato,campeonato,championship; league
+231,dar,dar,to give
+232,ciudad,ciudad,city
+233,euros,euro,euros
+234,rebotes,rebote,rebounds
+235,aquí,aquí,here
+236,clubes,club,clubs
+237,sólo,sólo,only
+238,datos,dato,data; stats
+239,salida,salida,start; departure; exit
+240,cómo,cómo,how
+241,creo,creer,I think; I believe
+242,clasificación,clasificación,standings; qualification
+243,según,según,according to
+244,dentro,dentro,inside; within
+245,toda,todo,all; whole (fem.)
+246,centro,centro,center; cross (football)
+247,descanso,descanso,rest; half-time break
+248,cosas,cosa,things
+249,he,haber,I have (auxiliary)
+250,hemos,haber,we have (auxiliary)
+251,primeros,primero,first (masc. pl.)
+252,etapa,etapa,stage (of a race)
+253,prueba,prueba,test; event; trial
+254,trabajo,trabajo,work; job
+255,situación,situación,situation
+256,paso,paso,step; pass
+257,quiere,querer,he/she wants
+258,tus,tu,your (pl.)
+259,llegar,llegar,to arrive; to reach
+260,posible,posible,possible
+261,cara,cara,face
+262,directo,directo,direct; live (en directo)
+263,ataque,ataque,attack; offense
+264,federación,federación,federation
+265,mayor,mayor,bigger; older; main
+266,pues,pues,well; so; since
+267,ello,ello,it; that (neuter)
+268,poder,poder,to be able; power
+269,mercado,mercado,market; transfer market
+270,gracias,gracias,thanks
+271,hora,hora,hour; time
+272,estado,estado,state; condition
+273,tercera,tercero,third (fem.)
+274,baloncesto,baloncesto,basketball
+275,tienen,tener,they have
+276,general,general,general; overall
+277,objetivo,objetivo,goal; objective
+278,área,área,penalty area; area
+279,fueron,ser,they were; they went
+280,futbolista,futbolista,football player
+281,local,local,home (team); local
+282,incluso,incluso,even; including
+283,división,división,division; league tier
+284,manera,manera,way; manner
+285,inicio,inicio,start; beginning
+286,da,dar,he/she gives
+287,llega,llegar,he/she arrives
+288,varios,vario,several (masc. pl.)
+289,campeón,campeón,champion
+290,cambio,cambio,change; substitution
+291,estadio,estadio,stadium
+292,presidente,presidente,president; club chairman
+293,tenemos,tener,we have
+294,delantero,delantero,forward; striker
+295,pesar,pesar,to weigh; (a pesar de) despite
+296,ventaja,ventaja,lead; advantage
+297,medio,medio,half; middle; midfielder
+298,par,par,pair; couple; (par de) a couple of
+299,tenido,tener,had (past participle)
+300,título,título,title; trophy
+301,sino,sino,but rather; except
+302,cualquier,cualquier,any
+303,triunfo,triunfo,win; triumph
+304,muchas,mucho,many (fem.)
+305,junto,junto,together; (junto a) next to
+306,nunca,nunca,never
+307,web,web,website
+308,resultado,resultado,result; score
+309,meses,mes,months
+310,derrota,derrota,defeat
+311,libres,libre,free (pl.); (tiros libres) free throws
+312,pista,pista,court; track; clue
+313,victorias,victoria,wins; victories
+314,futuro,futuro,future
+315,todavía,todavía,still; yet
+316,verano,verano,summer
+317,pudo,poder,he/she could; managed to
+318,algunos,alguno,some (masc. pl.)
+319,base,base,base; point guard (basketball)
+320,contrato,contrato,contract
+321,cabeza,cabeza,head
+322,afición,afición,fans; supporters
+323,ahí,ahí,there
+324,tercer,tercero,third (before noun)
+325,sería,ser,it would be
+326,nacional,nacional,national; domestic (league)
+327,pese,pesar,(pese a) despite
+328,deportiva,deportivo,sporting (fem.)
+329,tenía,tener,he/she had; I had
+330,ocasiones,ocasión,chances; scoring opportunities
+331,faltas,falta,fouls
+332,oro,oro,gold (medal)
+333,vida,vida,life
+334,fase,fase,phase; stage
+335,mal,mal,badly; bad
+336,número,número,number; shirt number
+337,internacional,internacional,international; international (player)
+338,primero,primero,first; at first
+339,estas,este,these (fem.)
+340,marca,marca,brand; mark; he scores
+341,oportunidad,oportunidad,chance; opportunity
+342,delante,delante,ahead; in front
+343,estoy,estar,I am
+344,través,través,(a través de) through; by means of
+345,fichaje,fichaje,signing; transfer
+346,alto,alto,high; tall
+347,lesión,lesión,injury
+348,juegos,juego,games (e.g. Olympic Games)
+349,pasada,pasado,last (past); (pass) fem. past
+350,volver,volver,to return; to come back
+351,decir,decir,to say
+352,luego,luego,then; later
+353,veces,vez,times; occasions
+354,mañana,mañana,tomorrow; morning
+355,estuvo,estar,he/she was
+356,balones,balón,balls (footballs)
+357,dio,dar,he/she gave
+358,duelo,duelo,duel; head-to-head match
+359,nuestro,nuestro,our
+360,experiencia,experiencia,experience
+361,blanco,blanco,white (Real Madrid); target
+362,máximo,máximo,maximum; top (scorer)
+363,clave,clave,key; crucial
+364,misma,mismo,same (fem.); herself
+365,mitad,mitad,half (of match)
+366,tendrá,tener,he/she will have
+367,empate,empate,draw; tie
+368,tarde,tarde,afternoon; late
+369,aficionados,aficionado,fans; enthusiasts
+370,mano,mano,hand; handball (foul)
+371,lado,lado,side
+372,hacia,hacia,towards
+373,seis,seis,six
+374,locales,local,home (teams); local (plural)
+375,fecha,fecha,date; matchday
+376,estamos,estar,we are
+377,nuestra,nuestro,our (fem.)
+378,serie,serie,series; run
+379,selecciones,selección,national teams
+380,total,total,total; overall
+381,joven,joven,young; young player
+382,nadie,nadie,nobody
+383,ir,ir,to go
+384,dado,dar,given
+385,llegada,llegada,arrival; finish (cycling)
+386,pueden,poder,they can
+387,momentos,momento,moments
+388,torneos,torneo,tournaments
+389,queda,quedar,remains; is left
+390,proyecto,proyecto,project
+391,francés,francés,French; Frenchman
+392,baja,baja,absence (injured/out); low (fem.)
+393,tampoco,tampoco,neither; not either
+394,cerca,cerca,near; close
+395,apenas,apenas,barely; hardly
+396,semanas,semana,weeks
+397,próxima,próximo,next (fem.)
+398,temporadas,temporada,seasons
+399,bajo,bajo,under; low; bass
+400,segundos,segundo,seconds; second (masc.)
+401,largo,largo,long
+402,decisión,decisión,decision
+403,nacimiento,nacimiento,birth
+404,metros,metro,metres
+405,rey,rey,king; (Copa del Rey) King's cup
+406,viene,venir,he/she comes
+407,zona,zona,zone; area
+408,línea,línea,line
+409,pase,pase,pass (ball)
+410,ascenso,ascenso,promotion (to higher league)
+411,media,medio,half; average; midfield
+412,propio,propio,own
+413,partir,partir,to start; (a partir de) from
+414,acuerdo,acuerdo,agreement; (de acuerdo) agreed
+415,dejó,dejar,he/she left; let
+416,debe,deber,he/she must; owes
+417,nombre,nombre,name
+418,tal,tal,such; (tal y como) just as
+419,campaña,campaña,season; campaign
+420,mes,mes,month
+421,problemas,problema,problems
+422,líder,líder,leader; league leader
+423,últimas,último,last; latest (fem. pl.)
+424,espera,esperar,waits; hopes (he/she)
+425,futbolistas,futbolista,footballers
+426,diferencia,diferencia,difference; margin
+427,difícil,difícil,difficult
+428,único,único,only; unique
+429,plaza,plaza,place; spot
+430,otras,otro,other (fem. pl.)
+431,visto,ver,seen
+432,volvió,volver,he/she returned
+433,u,u,or (before o- words)
+434,oficial,oficial,official
+435,cierto,cierto,certain; true
+436,igual,igual,equal; same; level
+437,opciones,opción,options; chances
+438,gente,gente,people
+439,favor,favor,favour; (a favor) in favour
+440,prensa,prensa,press
+441,ligas,liga,leagues
+442,mucha,mucho,much; a lot of (fem.)
+443,ritmo,ritmo,pace; rhythm
+444,resto,resto,rest; remainder
+445,entonces,entonces,then; so
+446,profesional,profesional,professional
+447,conseguir,conseguir,to achieve; to get
+448,cuartos,cuarto,quarter-finals
+449,varias,vario,several (fem.)
+450,actual,actual,current
+451,femenino,femenino,women's; feminine
+452,inicial,inicial,starting; initial
+453,calidad,calidad,quality
+454,rendimiento,rendimiento,performance
+455,siguiente,siguiente,next
+456,unas,uno,some (fem. pl.)
+457,titular,titular,starter (player); headline
+458,competiciones,competición,competitions
+459,marcha,marcha,departure; (en marcha) underway
+460,país,país,country
+461,cuanto,cuanto,as much as; (en cuanto) as soon as
+462,salir,salir,to go out; to leave
+463,finalmente,finalmente,finally
+464,ningún,ninguno,no; not any (before masc. noun)
+465,jornadas,jornada,matchdays; rounds
+466,tu,tu,your
+467,nosotros,nosotros,we; us
+468,bueno,bueno,good
+469,lleva,llevar,carries; has been (he/she)
+470,cuadro,cuadro,squad; team
+471,banquillo,banquillo,bench
+472,finales,final,finals; (a finales de) late in
+473,tipo,tipo,type; guy
+474,duda,duda,doubt; injury doubt
+475,curso,curso,season; course
+476,poner,poner,to put; to place
+477,iba,ir,was going (he/she/I)
+478,capacidad,capacidad,capacity; ability
+479,lateral,lateral,full-back; side
+480,edición,edición,edition (of a tournament)
+481,confianza,confianza,trust; confidence
+482,respecto,respecto,(respecto a) regarding
+483,encontrar,encontrar,to find
+484,sabe,saber,he/she knows; it tastes
+485,copas,copa,"cups (trophies, competitions)"
+486,junio,junio,June
+487,jugada,jugada,"play, move (in a match)"
+488,bastante,bastante,quite; enough
+489,pasar,pasar,to pass; to happen; to spend
+490,logró,lograr,"he/she achieved, managed"
+491,personal,personal,personal; (basketball) personal foul
+492,mí,yo,me (after preposition)
+493,central,central,centre-back; central
+494,once,once,eleven; starting eleven
+495,vamos,ir,we go; let's go
+496,viernes,viernes,Friday
+497,opción,opción,option; chance
+498,dirección,dirección,direction; management; address
+499,deportes,deporte,sports
+500,ocasión,ocasión,"chance, scoring opportunity"
+,,,Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - sources and credits: https://apera.me/sources#reading-lists

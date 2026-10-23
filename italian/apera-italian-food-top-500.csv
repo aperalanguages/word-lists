@@ -1,0 +1,502 @@
+rank,word,lemma,meaning
+1,di,di,of; from
+2,e,e,and
+3,la,la,the (feminine); her
+4,il,il,the (masculine)
+5,in,in,in; into
+6,per,per,for; in order to
+7,a,a,to; at; in
+8,con,con,with
+9,un,un,a; one (masculine)
+10,che,che,that; which; who
+11,è,essere,is (he/she/it)
+12,una,una,a; one (feminine)
+13,i,i,the (masculine plural)
+14,le,le,the (feminine plural); them
+15,del,del,of the; some (masculine)
+16,da,da,from; by; for
+17,della,della,of the; some (feminine)
+18,al,al,to the; at the; with (a flavor)
+19,si,si,oneself; one (reflexive/impersonal)
+20,non,non,not
+21,anche,anche,also; too; even
+22,più,più,more; plus
+23,sono,essere,am (I); are (they)
+24,come,come,how; like; as
+25,dei,dei,of the; some (plural)
+26,o,o,or
+27,alla,alla,to the; with (a flavor)
+28,nel,nel,in the
+29,ma,ma,but
+30,delle,delle,of the; some (feminine plural)
+31,ha,avere,has (he/she/it)
+32,gli,gli,the (masculine plural); to him
+33,questo,questo,this
+34,lo,lo,the (masculine); it; him
+35,dal,dal,from the; by the
+36,se,se,if
+37,ed,ed,and (before vowel)
+38,ricetta,ricetta,recipe
+39,olio,olio,oil
+40,ad,ad,to; at (before a vowel)
+41,vino,vino,wine
+42,nella,nella,in the
+43,minuti,minuto,minutes
+44,tra,tra,between; among; in (time)
+45,su,su,on; up; about
+46,questa,questo,this (feminine)
+47,ingredienti,ingrediente,ingredients
+48,pasta,pasta,pasta
+49,cucina,cucina,cooking; cuisine; kitchen
+50,acqua,acqua,water
+51,poi,poi,then; afterwards
+52,ai,ai,to the; with the (plural)
+53,sale,sale,salt
+54,alle,alle,to the; with the (feminine plural)
+55,tutto,tutto,all; everything
+56,essere,essere,to be
+57,molto,molto,very; a lot; much
+58,ci,ci,us; there; to it
+59,sempre,sempre,always
+60,cui,cui,which; whom (after prep)
+61,zucchero,zucchero,sugar
+62,vini,vino,wines
+63,tutti,tutto,all; everyone
+64,uno,uno,one; a (masculine)
+65,prima,prima,before; first; earlier
+66,piatto,piatto,dish; plate
+67,forno,forno,oven
+68,senza,senza,without
+69,dalla,dalla,from the; by the (feminine)
+70,tempo,tempo,time; weather
+71,quando,quando,when
+72,sul,sul,on the
+73,farina,farina,flour
+74,ho,avere,have (I)
+75,solo,solo,only; alone
+76,ricette,ricetta,recipes
+77,parte,parte,part; side
+78,due,due,two
+79,fare,fare,to do; to make
+80,fino,fino,until; up to (fino a)
+81,circa,circa,about; approximately
+82,cottura,cottura,cooking; cooking time
+83,degli,degli,of the; some (masculine plural)
+84,ogni,ogni,every; each
+85,vi,vi,you (plural); there
+86,quindi,quindi,so; therefore
+87,hanno,avere,have (they)
+88,preparare,preparare,to prepare
+89,può,potere,can (he/she/it); may
+90,dopo,dopo,after; afterwards
+91,crema,crema,cream; custard
+92,base,base,base; basis
+93,anni,anno,years
+94,ancora,ancora,still; again; yet
+95,cioccolato,cioccolato,chocolate
+96,prodotti,prodotto,products
+97,sia,sia,both...and; either (sia...sia)
+98,bene,bene,well; good
+99,preparazione,preparazione,preparation (of a dish)
+100,loro,loro,they; them; their
+101,dolce,dolce,sweet; dessert
+102,latte,latte,milk
+103,sua,suo,his; her; its (fem.)
+104,volta,volta,time (occasion)
+105,modo,modo,way; manner
+106,sarà,essere,it will be; he/she will be
+107,burro,burro,butter
+108,uova,uovo,eggs
+109,grande,grande,big; large; great
+110,così,così,so; thus; like this
+111,suo,suo,his; her; its
+112,piatti,piatto,dishes; plates
+113,impasto,impasto,dough; batter
+114,casa,casa,house; home; homemade
+115,anno,anno,year
+116,perché,perché,why; because
+117,oggi,oggi,today
+118,mi,mi,me; to me; myself
+119,nei,in,in the (masc. plural)
+120,sulla,su,on the; about the (fem.)
+121,qualità,qualità,quality
+122,azienda,azienda,company; farm business
+123,chef,chef,chef
+124,torta,torta,cake; pie; tart
+125,via,via,street; way; away
+126,mondo,mondo,world
+127,dalle,da,from the; by the (fem. plural)
+128,dove,dove,where
+129,qualche,qualche,some; a few
+130,proprio,proprio,really; exactly; own
+131,carne,carne,meat
+132,pepe,pepe,pepper (black)
+133,quello,quello,that (one)
+134,dolci,dolce,desserts; sweets
+135,patate,patata,potatoes
+136,questi,questo,these (masc.)
+137,gusto,gusto,taste; flavor
+138,primo,primo,first; first course (pasta/rice)
+139,oltre,oltre,beyond; more than; besides
+140,già,già,already
+141,limone,limone,lemon
+142,aggiungere,aggiungere,to add
+143,secondo,secondo,according to; second; main course
+144,altri,altro,others; other (masc. plural)
+145,qui,qui,here
+146,pane,pane,bread
+147,chi,chi,who; whoever
+148,fatto,fatto,made; done; fact
+149,quella,quello,"that (one, fem.)"
+150,bianco,bianco,white; (egg) white
+151,ora,ora,now; hour
+152,leggi,leggere,read! (you); you read
+153,ben,ben,well (before adj/participle)
+154,tutte,tutto,all; everyone (fem. plural)
+155,dai,da,from the; by the (masc. plural)
+156,pesce,pesce,fish
+157,fa,fare,he/she does; makes
+158,altro,altro,other; else; another
+159,abbiamo,avere,we have
+160,nelle,in,in the (fem. plural)
+161,insieme,insieme,together
+162,ne,ne,of it; of them; from there
+163,cuocere,cuocere,to cook; to bake
+164,prodotto,prodotto,product
+165,quanto,quanto,how much; as much as
+166,padella,padella,frying pan; skillet
+167,possono,potere,they can; they may
+168,nostro,nostro,our; ours
+169,cosa,cosa,thing; what
+170,viene,venire,he/she comes; is (passive)
+171,tre,tre,three
+172,semplice,semplice,simple; easy
+173,ore,ora,hours
+174,euro,euro,euro (price)
+175,territorio,territorio,territory; region; local area
+176,aggiungete,aggiungere,add! (you all); you add
+177,poco,poco,little; a bit; not much
+178,ristorante,ristorante,restaurant
+179,persone,persona,people; persons
+180,stato,stato,state; been
+181,produzione,produzione,production
+182,riso,riso,rice
+183,carta,carta,paper; card; menu
+184,lievito,lievito,yeast; leavening
+185,composto,composto,mixture; compound
+186,oliva,oliva,olive
+187,infatti,infatti,in fact; indeed
+188,oppure,oppure,or; or else
+189,tradizione,tradizione,tradition
+190,aglio,aglio,garlic
+191,frutta,frutta,fruit
+192,rosso,rosso,red
+193,potete,potere,you (pl.) can; you may
+194,verdure,verdura,vegetables; greens
+195,italiana,italiano,Italian (feminine)
+196,ecco,ecco,here is; here you are; behold
+197,pizza,pizza,pizza
+198,grazie,grazie,thank you; thanks
+199,fine,fine,"end; (adj) fine, thin"
+200,far,fare,to do; to make (short form)
+201,altre,altro,other; others (feminine pl.)
+202,interno,interno,inside; interior; (adj) inner
+203,io,io,I
+204,san,santo,saint (before name); San (place)
+205,sito,sito,website; site
+206,dello,di,"of the; some (before s+cons., z)"
+207,panna,panna,cream
+208,sapore,sapore,flavor; taste
+209,particolare,particolare,particular; special; specific
+210,invece,invece,instead; whereas
+211,giorno,giorno,day
+212,meno,meno,less; fewer; minus
+213,mai,mai,never; ever
+214,tanto,tanto,so much; a lot
+215,ottenere,ottenere,to obtain; to get
+216,nostra,nostro,our (feminine)
+217,giorni,giorno,days
+218,ti,ti,you; to you (informal)
+219,fresco,fresco,fresh; cool
+220,soprattutto,soprattutto,above all; especially
+221,salsa,salsa,sauce
+222,punto,punto,point; stitch; spot
+223,lavoro,lavoro,work; job
+224,meglio,meglio,better; best
+225,formaggio,formaggio,cheese
+226,cucchiaio,cucchiaio,spoon; tablespoon
+227,era,essere,was; it was; (he/she) was
+228,momento,momento,moment; time
+229,grandi,grande,big; large; great (plural)
+230,alcuni,alcuno,some; a few
+231,caso,caso,case; chance
+232,nuovo,nuovo,new
+233,rispetto,rispetto,respect; (rispetto a) compared to
+234,mettere,mettere,to put; to add
+235,davvero,davvero,really; truly
+236,pomodoro,pomodoro,tomato
+237,classico,classico,classic; traditional
+238,fuoco,fuoco,heat (on the stove); fire
+239,queste,questo,these (feminine)
+240,mercato,mercato,market
+241,ricotta,ricotta,ricotta (cheese)
+242,biscotti,biscotto,cookies; biscuits
+243,tutta,tutto,all; whole (feminine)
+244,cucchiai,cucchiaio,spoons; tablespoons
+245,nero,nero,black
+246,durante,durante,during
+247,famiglia,famiglia,family
+248,cantina,cantina,cellar; winery
+249,ciotola,ciotola,bowl
+250,parmigiano,parmigiano,Parmesan cheese
+251,tavola,tavola,table (dining)
+252,uovo,uovo,egg
+253,stata,essere,been (feminine); was
+254,mentre,mentre,while; whereas
+255,buona,buono,good; tasty (feminine)
+256,fate,fare,you (pl.) do; you make; do (imperative)
+257,zucchine,zucchina,zucchini; courgettes
+258,cipolla,cipolla,onion
+259,mia,mio,my (feminine)
+260,centro,centro,center; middle
+261,caffè,caffè,coffee; espresso
+262,possibile,possibile,possible
+263,noi,noi,we; us
+264,agli,a,to the; at the (plural)
+265,sui,su,on the (plural)
+266,saranno,essere,they will be
+267,zucca,zucca,pumpkin; squash
+268,spesso,spesso,often; (adj) thick
+269,quale,quale,which; what
+270,quali,quale,which (plural); what
+271,continua,continuare,continues; keep going (he/she/it)
+272,troppo,troppo,too much; too
+273,cena,cena,dinner; supper
+274,siamo,essere,we are
+275,tratta,trattare,it is about; (si tratta di) it's a matter of
+276,produttori,produttore,producers; makers
+277,allo,a,to the; at the (before s+consonant)
+278,facile,facile,easy
+279,vita,vita,life; waist
+280,forma,forma,shape; form; (cheese) wheel
+281,cibo,cibo,food
+282,settore,settore,sector; industry
+283,sotto,sotto,under; below
+284,stesso,stesso,same; self
+285,aziende,azienda,companies; farms; firms
+286,extravergine,extravergine,extra virgin (olive oil)
+287,importante,importante,important
+288,semi,seme,seeds
+289,metà,metà,half
+290,mio,mio,my; mine
+291,nome,nome,name
+292,però,però,but; however
+293,provincia,provincia,province
+294,caldo,caldo,hot; warm
+295,negli,in + gli,in the (plural masc.)
+296,alto,alto,high; tall
+297,locale,locale,local
+298,deve,dovere,he/she/it must; has to
+299,buon,buono,good (before noun)
+300,tipo,tipo,type; kind
+301,pochi,poco,few (masc. plural)
+302,temperatura,temperatura,temperature
+303,almeno,almeno,at least
+304,pizzico,pizzico,pinch
+305,storia,storia,history; story
+306,quasi,quasi,almost
+307,attenzione,attenzione,attention; careful
+308,altra,altro,other (fem.); another
+309,sulle,su + le,on the (fem. plural)
+310,migliori,migliore,best; better (plural)
+311,guida,guida,guide
+312,sapori,sapore,flavours; tastes
+313,lasciate,lasciare,leave (you all); left (fem. pl.)
+314,città,città,city
+315,attraverso,attraverso,through; across
+316,quelli,quello,those (masc.)
+317,appena,appena,just; as soon as; barely
+318,succo,succo,juice
+319,vengono,venire,come (they); are (passive)
+320,regione,regione,region
+321,quelle,quello,those (fem.)
+322,pollo,pollo,chicken
+323,mandorle,mandorla,almonds
+324,teglia,teglia,baking tin; baking tray
+325,occasione,occasione,occasion; opportunity
+326,va,andare,goes (he/she/it)
+327,tante,tanto,many; so many (fem.)
+328,nuova,nuovo,new (fem.)
+329,prezzemolo,prezzemolo,parsley
+330,servire,servire,to serve; to be needed
+331,suoi,suo,his; her; its (plural)
+332,perfetto,perfetto,perfect
+333,primi,primo,first (masc. plural)
+334,colore,colore,colour
+335,mare,mare,sea
+336,avere,avere,to have
+337,procedimento,procedimento,method; procedure (recipe)
+338,nostri,nostro,our (masc. plural)
+339,esperienza,esperienza,experience
+340,italiano,italiano,Italian
+341,diversi,diverso,several; different
+342,infine,infine,finally; lastly
+343,foto,foto,photo
+344,subito,subito,immediately
+345,birra,birra,beer
+346,ambiente,ambiente,environment; setting
+347,fondo,fondo,bottom; base
+348,inoltre,inoltre,moreover; also
+349,veloce,veloce,quick; fast
+350,edizione,edizione,edition
+351,progetto,progetto,project
+352,lungo,lungo,long
+353,prezzo,prezzo,price
+354,fresca,fresco,fresh; cool (fem.)
+355,raffreddare,raffreddare,to cool down
+356,mele,mela,apples
+357,piccoli,piccolo,small (masc. plural)
+358,scelta,scelta,choice
+359,pomodori,pomodoro,tomatoes
+360,esempio,esempio,example
+361,realizzare,realizzare,to make; to carry out
+362,leggermente,leggermente,lightly; slightly
+363,insalata,insalata,salad
+364,versione,versione,version
+365,mettete,mettere,put (you all); add
+366,pranzo,pranzo,lunch
+367,unite,unire,combine (you all); add
+368,attività,attività,activity; business
+369,italiani,italiano,Italians
+370,me,me,me
+371,menu,menu,menu
+372,funghi,fungo,mushrooms
+373,diverse,diverso,several; different (fem. pl.)
+374,terra,terra,earth; land; ground
+375,stati,stato,states; been (masc. pl.)
+376,fette,fetta,slices
+377,brodo,brodo,broth; stock
+378,alimentare,alimentare,food (related); dietary
+379,presidente,presidente,president; chairman
+380,sopra,sopra,above; on top
+381,li,li,there
+382,degustazione,degustazione,tasting
+383,melanzane,melanzana,aubergines; eggplants
+384,mesi,mese,months
+385,ripieno,ripieno,filling; stuffing
+386,originale,originale,original
+387,frigo,frigo,fridge
+388,alta,alto,high; tall (fem.)
+389,stagione,stagione,season
+390,mano,mano,hand
+391,realtà,realtà,reality
+392,piacere,piacere,pleasure; (to) like
+393,domenica,domenica,Sunday
+394,verso,verso,towards
+395,ricerca,ricerca,research; search
+396,risultato,risultato,result
+397,avete,avere,you (pl.) have
+398,filo,filo,thread; a thin stream (of oil)
+399,ciò,ciò,that; this thing
+400,sue,suo,his/her/your (fem. pl.)
+401,sta,stare,is; stays (he/she)
+402,superficie,superficie,surface
+403,sfoglia,sfoglia,sheet of pasta dough; puff pastry
+404,nazionale,nazionale,national
+405,programma,programma,programme; program
+406,seconda,secondo,second (fem.)
+407,uve,uva,grapes (varieties)
+408,grattugiato,grattugiare,grated
+409,zona,zona,area; zone
+410,puoi,potere,you can
+411,vero,vero,true; real
+412,perfetta,perfetto,perfect (fem.)
+413,basilico,basilico,basil
+414,grammi,grammo,grams
+415,voi,voi,you (pl.)
+416,salata,salato,salty; savoury (fem.)
+417,alimenti,alimento,foods; foodstuffs
+418,locali,locale,venues; premises
+419,comune,comune,municipality; common
+420,cuore,cuore,heart
+421,cacao,cacao,cocoa
+422,periodo,periodo,period
+423,idea,idea,idea
+424,unico,unico,only; unique
+425,formaggi,formaggio,cheeses
+426,alcune,alcuno,some (fem. pl.)
+427,evento,evento,event
+428,leggere,leggere,to read
+429,cura,cura,care; treatment
+430,tanti,tanto,many; so many
+431,ristoranti,ristorante,restaurants
+432,giornata,giornata,day; whole day
+433,cucchiaino,cucchiaino,teaspoon
+434,livello,livello,level
+435,frolla,frolla,shortcrust (pastry)
+436,video,video,video
+437,velo,velo,veil; thin layer
+438,mescolate,mescolare,stir (you pl.); mixed
+439,importanti,importante,important (pl.)
+440,cotto,cotto,cooked
+441,natale,Natale,Christmas
+442,piano,piano,floor; plan; slowly
+443,bicchiere,bicchiere,glass; drinking glass
+444,utilizzare,utilizzare,to use
+445,miele,miele,honey
+446,arancia,arancia,orange (fruit)
+447,corso,corso,course; main street
+448,informazioni,informazione,information
+449,quantità,quantità,quantity; amount
+450,yogurt,yogurt,yogurt
+451,fuori,fuori,outside; out
+452,bella,bello,beautiful; nice (fem.)
+453,mangiare,mangiare,to eat
+454,frutto,frutto,fruit
+455,pasticceria,pasticceria,pastry shop; pastries
+456,no,no,no; not
+457,riposare,riposare,to rest; let (dough) rest
+458,prosciutto,prosciutto,ham
+459,note,nota,notes; (flavour) notes
+460,passo,passo,step; pace
+461,cantine,cantina,wine cellars; wineries
+462,stampo,stampo,mould; baking tin
+463,gelato,gelato,ice cream
+464,rossi,rosso,red (masc. pl.)
+465,potrebbe,potere,it could; he/she could
+466,posto,posto,place; seat; spot
+467,nuove,nuovo,new (fem. pl.)
+468,dare,dare,to give
+469,risotto,risotto,risotto
+470,foglie,foglia,leaves
+471,gruppo,gruppo,group
+472,ultimo,ultimo,last; latest
+473,nuovi,nuovo,new (plural)
+474,preparato,preparare,prepared; made
+475,cultura,cultura,culture
+476,tagliate,tagliare,cut (feminine plural)
+477,valore,valore,value
+478,origine,origine,origin
+479,finale,finale,final; end
+480,molti,molto,many
+481,milioni,milione,millions
+482,vista,vista,sight; view
+483,tonno,tonno,tuna
+484,versate,versare,pour (you all); poured
+485,dire,dire,to say
+486,tradizionale,tradizionale,traditional
+487,presente,presente,present; current
+488,tuo,tuo,your (singular)
+489,ideale,ideale,ideal; perfect
+490,colazione,colazione,breakfast
+491,volte,volta,times
+492,estate,estate,summer
+493,servizio,servizio,service
+494,ottimo,ottimo,excellent
+495,aver,avere,to have (short form)
+496,spaghetti,spaghetto,spaghetti
+497,vaniglia,vaniglia,vanilla
+498,minuto,minuto,minute
+499,olive,oliva,olives
+500,trovare,trovare,to find
+,,,Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - sources and credits: https://apera.me/sources#reading-lists

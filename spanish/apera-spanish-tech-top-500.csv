@@ -1,0 +1,502 @@
+rank,word,lemma,meaning
+1,de,de,of; from
+2,la,el,the (f.); her/it
+3,que,que,that; which; than
+4,en,en,in; on
+5,el,el,the (m.)
+6,y,y,and
+7,a,a,to; at
+8,los,el,the (m. pl.)
+9,para,para,for; in order to
+10,un,un,a; an (m.); one
+11,con,con,with
+12,una,un,a; an (f.); one
+13,es,ser,is
+14,se,se,oneself; (reflexive/passive)
+15,las,el,the (f. pl.)
+16,por,por,by; for; through
+17,del,del,of the; from the
+18,no,no,no; not
+19,más,más,more; most
+20,como,como,as; like; how
+21,lo,lo,it; him; the (neuter)
+22,o,o,or
+23,su,su,his/her/their; your (formal)
+24,al,al,to the; upon (doing)
+25,este,este,this (m.)
+26,si,si,if; whether
+27,ha,haber,has (auxiliary)
+28,esta,este,this (f.)
+29,pero,pero,but
+30,ya,ya,already; now
+31,también,también,also; too
+32,sin,sin,without
+33,sus,su,his/her/their (pl.)
+34,está,estar,is (it/he/she); is located
+35,puede,poder,can (it/he/she); may
+36,nos,nos,us; to us
+37,son,ser,are (they)
+38,todo,todo,all; everything
+39,desde,desde,from; since
+40,tu,tu,your (informal)
+41,sobre,sobre,about; on; over
+42,hasta,hasta,until; up to; even
+43,sistema,sistema,system
+44,te,te,you; to you
+45,muy,muy,very
+46,ser,ser,to be; being
+47,pantalla,pantalla,screen; display
+48,solo,solo,only; alone
+49,tiene,tener,has (it/he/she)
+50,entre,entre,between; among
+51,forma,forma,form; way
+52,esto,esto,this (thing)
+53,hay,haber,there is/are
+54,han,haber,"have (they, auxiliary)"
+55,además,además,besides; also; moreover
+56,cuando,cuando,when
+57,aunque,aunque,although; even if
+58,usuarios,usuario,users
+59,datos,dato,data
+60,así,así,thus; like this
+61,juego,juego,game
+62,cuenta,cuenta,account
+63,cada,cada,each; every
+64,tipo,tipo,type; kind
+65,tiempo,tiempo,time; weather
+66,todos,todo,all; everyone
+67,tener,tener,to have
+68,ahora,ahora,now
+69,dos,dos,two
+70,vez,vez,time (occasion); turn
+71,nuevo,nuevo,new (m.)
+72,estos,este,these (m.)
+73,parte,parte,part; share
+74,versión,versión,version
+75,mejor,mejor,better; best
+76,e,y,and (before i- sound)
+77,qué,qué,what; which
+78,nueva,nuevo,new (f.)
+79,podemos,poder,we can
+80,ver,ver,to see; to watch
+81,gran,grande,great; big (before noun)
+82,pueden,poder,they can
+83,otros,otro,others; other (m. pl.)
+84,uno,uno,one; someone
+85,tanto,tanto,so much; as much
+86,rendimiento,rendimiento,performance; yield
+87,hacer,hacer,to do; to make
+88,permite,permitir,allows (it/he/she)
+89,donde,donde,where
+90,algo,algo,something; somewhat
+91,cómo,cómo,how
+92,uso,uso,use; usage
+93,hace,hacer,does/makes (it/he/she); ago
+94,juegos,juego,games
+95,seguridad,seguridad,security (cyber)
+96,están,estar,"are (they, location/state)"
+97,aplicaciones,aplicación,apps; applications
+98,dispositivos,dispositivo,devices
+99,precio,precio,price
+100,información,información,information
+101,bien,bien,well; good
+102,nuestro,nuestro,our; ours
+103,cualquier,cualquier,any
+104,mucho,mucho,much; a lot (of)
+105,aplicación,aplicación,app; application
+106,estas,este,these (fem.)
+107,puedes,poder,you can
+108,red,red,network
+109,modo,modo,mode
+110,tecnología,tecnología,technology
+111,caso,caso,case; (en caso de) in case of
+112,mismo,mismo,same; itself
+113,otro,otro,other; another
+114,tenemos,tener,we have
+115,menos,menos,less; fewer; minus
+116,sea,ser,be (subjunctive); (o sea) that is
+117,calidad,calidad,quality
+118,durante,durante,during
+119,memoria,memoria,memory (RAM/storage)
+120,diseño,diseño,design
+121,años,año,years
+122,dispositivo,dispositivo,device
+123,incluso,incluso,even; including
+124,todas,todo,all; every (fem. pl.)
+125,año,año,year
+126,antes,antes,before; earlier
+127,algunos,algunos,some (masc.)
+128,día,día,day
+129,momento,momento,moment; time
+130,web,web,web; website
+131,ofrece,ofrecer,offers (it)
+132,otras,otro,other; others (fem.)
+133,través,través,(a través de) through; across
+134,modelo,modelo,model (product version)
+135,siempre,siempre,always
+136,hemos,haber,we have (auxiliary)
+137,muchos,mucho,many; a lot of
+138,mundo,mundo,world
+139,mayor,mayor,greater; bigger; older
+140,euros,euro,euros
+141,poco,poco,little; few; not much
+142,mercado,mercado,market
+143,ejemplo,ejemplo,example; (por ejemplo) for example
+144,móvil,móvil,mobile phone
+145,le,le,him/her/you (indirect object)
+146,usuario,usuario,user
+147,sí,sí,yes; (sí mismo) itself
+148,manera,manera,way; manner
+149,tus,tu,your (plural nouns)
+150,equipo,equipo,device; computer; team
+151,batería,batería,battery
+152,eso,eso,that (thing)
+153,os,os,OS (operating system)
+154,según,según,according to
+155,software,software,software
+156,características,característica,features; specifications
+157,cámara,cámara,camera
+158,embargo,embargo,(sin embargo) however
+159,opción,opción,option
+160,será,ser,will be (it)
+161,mientras,mientras,while; (mientras tanto) meanwhile
+162,sido,ser,been
+163,unos,uno,some; a few
+164,experiencia,experiencia,experience
+165,podría,poder,could; it would be able to
+166,usar,usar,to use
+167,teléfono,teléfono,phone
+168,poder,poder,to be able; power
+169,opciones,opción,options
+170,bluetooth,Bluetooth,Bluetooth
+171,compañía,compañía,company
+172,problemas,problema,problems
+173,otra,otro,other; another (fem.)
+174,almacenamiento,almacenamiento,storage
+175,tan,tan,so; as (so much)
+176,nuevos,nuevo,new (masc. pl.)
+177,posible,posible,possible
+178,porque,porque,because
+179,alta,alto,high (fem.)
+180,modelos,modelo,models
+181,sino,sino,but rather; except
+182,carga,carga,charging; load
+183,disponible,disponible,available
+184,base,base,base; basis; (base de datos) database
+185,ello,ello,it; that (in 'por ello')
+186,capacidad,capacidad,capacity; capability
+187,dentro,dentro,inside; within
+188,bastante,bastante,quite; fairly; enough
+189,diferentes,diferente,different (plural)
+190,gaming,gaming,gaming
+191,importante,importante,important
+192,tienen,tener,they have
+193,nuevas,nuevo,new (feminine plural)
+194,sonido,sonido,sound; audio
+195,nivel,nivel,level
+196,gracias,gracias,thanks
+197,nuestra,nuestro,our (feminine)
+198,contenido,contenido,content
+199,problema,problema,problem; issue
+200,hecho,hecho,fact; done (made)
+201,serie,serie,series; (TV) series
+202,primera,primero,first (feminine)
+203,vídeo,vídeo,video
+204,auriculares,auricular,headphones; earphones
+205,vamos,ir,we go; let's go
+206,lanzamiento,lanzamiento,launch; release
+207,mejores,mejor,best; better (plural)
+208,millones,millón,millions
+209,velocidad,velocidad,speed
+210,lugar,lugar,place; spot
+211,horas,hora,hours
+212,acceso,acceso,access
+213,control,control,control; controller
+214,aquí,aquí,here
+215,sistemas,sistema,systems
+216,ese,ese,that (masculine)
+217,app,app,app
+218,función,función,function; feature
+219,jugadores,jugador,players (gamers)
+220,hoy,hoy,today
+221,configuración,configuración,settings; configuration
+222,ni,ni,nor; not even
+223,archivos,archivo,files
+224,después,después,after; afterwards
+225,funciones,función,functions; features
+226,soporte,soporte,support; stand
+227,utilizar,utilizar,to use
+228,actualización,actualización,update; upgrade
+229,va,ir,goes (he/she/it); is going
+230,algunas,alguno,some (feminine plural)
+231,procesador,procesador,processor; CPU
+232,operativo,operativo,operating (sistema operativo)
+233,conexión,conexión,connection
+234,crear,crear,to create
+235,muchas,mucho,many; a lot of (feminine)
+236,parece,parecer,it seems; looks
+237,gama,gama,range; product line
+238,trabajo,trabajo,work; job
+239,tres,tres,three
+240,servicios,servicio,services
+241,internet,internet,internet
+242,desarrollo,desarrollo,development
+243,generación,generación,generation
+244,empresas,empresa,companies
+245,aún,aún,still; yet
+246,tienes,tener,you have
+247,fue,ser,was (he/she/it); went
+248,imagen,imagen,image; picture
+249,imágenes,imagen,images; pictures
+250,primer,primero,first (before noun)
+251,personas,persona,people; persons
+252,encontrar,encontrar,to find
+253,principal,principal,main; primary
+254,grandes,grande,big; large; great (plural)
+255,estar,estar,to be (location/state)
+256,mi,mi,my
+257,energía,energía,energy; power
+258,plataforma,plataforma,platform
+259,tarjeta,tarjeta,card (graphics/memory)
+260,productos,producto,products
+261,nada,nada,nothing; not at all
+262,tamaño,tamaño,size
+263,mediante,mediante,by means of; through
+264,móviles,móvil,mobile phones
+265,decir,decir,to say; to tell
+266,resolución,resolución,resolution (display)
+267,número,número,number
+268,incluye,incluir,includes (it)
+269,proceso,proceso,process
+270,bajo,bajo,low; under
+271,redes,red,networks; social networks
+272,tras,tras,after; behind
+273,esa,ese,that (feminine)
+274,servicio,servicio,service
+275,marca,marca,brand; mark
+276,punto,punto,point; dot
+277,buena,bueno,good (fem.)
+278,clave,clave,key; (adj.) key/main
+279,realizar,realizar,to carry out; to perform
+280,misma,mismo,same (fem.)
+281,cambio,cambio,change
+282,real,real,real
+283,me,me,me; to me; myself
+284,instalar,instalar,to install
+285,hora,hora,hour; time of day
+286,empresa,empresa,company
+287,audio,audio,audio
+288,potencia,potencia,power; processing power
+289,oficial,oficial,official
+290,era,era,was (he/she/it)
+291,espacio,espacio,space; storage space
+292,vida,vida,life; battery life
+293,herramientas,herramienta,tools
+294,digital,digital,digital
+295,final,final,final; end
+296,varios,varios,several (masc.)
+297,cambios,cambio,changes
+298,sigue,seguir,continues; follows; still (he/she/it)
+299,última,último,latest; last (fem.)
+300,proyecto,proyecto,project
+301,hardware,hardware,hardware
+302,trata,tratar,deals; (se trata de) it is about
+303,toda,todo,all; whole (fem.)
+304,gráfica,gráfico,graphics card (GPU)
+305,siendo,ser,being
+306,código,código,code
+307,cual,cual,which (lo cual: which)
+308,paso,paso,step
+309,acceder,acceder,to access
+310,mejorar,mejorar,to improve
+311,superior,superior,higher; superior; upper
+312,mayoría,mayoría,majority
+313,ordenador,ordenador,computer (Spain)
+314,nombre,nombre,name
+315,siguiente,siguiente,next; following
+316,pasado,pasado,past; last (pasado mes)
+317,música,música,music
+318,programa,programa,program; software
+319,teclado,teclado,keyboard
+320,consumo,consumo,consumption; power use
+321,monitor,monitor,monitor (display)
+322,luz,luz,light
+323,continuación,continuación,(a continuación) next; below
+324,casi,casi,almost
+325,color,color,color
+326,comprar,comprar,to buy
+327,días,día,days
+328,ellos,ellos,they; them (masc.)
+329,fecha,fecha,date; release date
+330,consola,consola,(game) console
+331,producto,producto,product
+332,estamos,estar,we are
+333,especialmente,especialmente,especially
+334,cambiar,cambiar,to change
+335,interfaz,interfaz,interface
+336,herramienta,herramienta,tool
+337,cantidad,cantidad,amount; quantity
+338,general,general,general
+339,cuanto,cuanto,how much; (en cuanto a) regarding; as soon as
+340,último,último,latest; last
+341,puntos,punto,points; dots
+342,podremos,poder,we will be able to
+343,realmente,realmente,really; actually
+344,fuente,fuente,source; power supply
+345,saber,saber,to know
+346,botón,botón,button
+347,compatible,compatible,compatible
+348,wifi,wifi,Wi-Fi
+349,página,página,page
+350,posibilidad,posibilidad,possibility
+351,apps,app,apps
+352,pruebas,prueba,tests; trials; evidence
+353,equipos,equipo,devices; computers; teams
+354,versiones,versión,versions
+355,lista,lista,list
+356,veces,vez,times; occasions
+357,nuestros,nuestro,our (masc. pl.)
+358,gestión,gestión,management
+359,estado,estado,state; status
+360,historia,historia,history; story
+361,detalles,detalle,details
+362,total,total,total
+363,disponibles,disponible,available (pl.)
+364,novedades,novedad,new features; news
+365,objetivo,objetivo,goal; lens (camera)
+366,varias,varios,several (fem.)
+367,lado,lado,side
+368,rápida,rápido,fast (fem.)
+369,principales,principal,main (pl.)
+370,máximo,máximo,maximum
+371,quieres,querer,you want
+372,alto,alto,high
+373,tal,tal,such; (tal como) such as
+374,iluminación,iluminación,lighting
+375,evitar,evitar,to avoid
+376,actualizaciones,actualización,updates
+377,online,online,online
+378,llegar,llegar,to arrive; to reach
+379,vídeos,vídeo,videos
+380,debemos,deber,we must; we should
+381,cosas,cosa,things
+382,propio,propio,own; proprietary
+383,mes,mes,month
+384,ofrecer,ofrecer,to offer
+385,pulgadas,pulgada,inches (screen size)
+386,panel,panel,panel; display panel
+387,resultados,resultado,results
+388,núcleos,núcleo,cores (CPU)
+389,meses,mes,months
+390,plataformas,plataforma,platforms
+391,etc,etc.,etc.
+392,mejoras,mejora,improvements
+393,junto,junto,together; (junto a) next to
+394,hacia,hacia,towards
+395,portátil,portátil,laptop
+396,respecto,respecto,(respecto a) regarding
+397,directamente,directamente,directly
+398,ti,ti,you (after preposition)
+399,claro,claro,clear; of course
+400,línea,línea,line; product line
+401,inteligencia,inteligencia,intelligence (inteligencia artificial = AI)
+402,futuro,futuro,future
+403,completo,completo,complete; full
+404,debe,deber,he/she/it must; it should
+405,unas,uno,some (fem. pl.)
+406,dar,dar,to give
+407,jugar,jugar,to play (games)
+408,funciona,funcionar,it works
+409,encontramos,encontrar,we find
+410,tarjetas,tarjeta,cards (graphics/memory)
+411,mejora,mejora,improvement
+412,buen,bueno,good (before masc. noun)
+413,instalación,instalación,installation
+414,utiliza,utilizar,it uses
+415,procesadores,procesador,processors
+416,ajustes,ajuste,settings; adjustments
+417,cable,cable,cable
+418,descargar,descargar,to download
+419,fácil,fácil,easy
+420,igual,igual,equal; same
+421,fin,fin,end
+422,artificial,artificial,artificial (inteligencia artificial = AI)
+423,análisis,análisis,analysis; review
+424,diferencia,diferencia,difference
+425,largo,largo,long
+426,tareas,tarea,tasks
+427,unidades,unidad,units; drives
+428,u,u,or (before o-words)
+429,artículo,artículo,article
+430,navegador,navegador,browser
+431,escritorio,escritorio,desktop (computer)
+432,clientes,cliente,customers; clients
+433,fotos,foto,photos
+434,elegir,elegir,to choose
+435,seguir,seguir,to follow; to continue
+436,formato,formato,format
+437,queremos,querer,we want
+438,llega,llegar,it arrives; it reaches
+439,primero,primero,first
+440,soluciones,solución,solutions
+441,smartphone,smartphone,smartphone
+442,partir,partir,to depart; (a partir de) from
+443,muestra,muestra,sample
+444,contra,contra,against
+445,conectividad,conectividad,connectivity
+446,cuatro,cuatro,four
+447,sólo,sólo,only
+448,algún,alguno,some; any (before masc. noun)
+449,segundo,segundo,second
+450,tv,TV,TV
+451,cierto,cierto,certain; true
+452,aspecto,aspecto,aspect; appearance
+453,solución,solución,solution
+454,casos,caso,cases
+455,rápido,rápido,fast
+456,semana,semana,week
+457,realidad,realidad,reality
+458,propia,propio,own (fem.)
+459,luego,luego,then; later
+460,todavía,todavía,still; yet
+461,simplemente,simplemente,simply; just
+462,viene,venir,comes (it); is coming
+463,prueba,prueba,test; trial
+464,entorno,entorno,environment (software)
+465,tendremos,tener,we will have
+466,chip,chip,chip (processor)
+467,mantener,mantener,to keep; to maintain
+468,ningún,ninguno,no; not any
+469,capaz,capaz,capable; able
+470,medio,medio,half; medium
+471,frente,frente,"front; (frente a) facing, versus"
+472,tecnologías,tecnología,technologies
+473,anterior,anterior,previous; earlier
+474,frecuencia,frecuencia,frequency (clock speed)
+475,importantes,importante,important (plural)
+476,necesario,necesario,necessary
+477,podrás,poder,you will be able to
+478,últimos,último,latest; last (plural)
+479,series,serie,series; (TV) shows
+480,agua,agua,water
+481,conocer,conocer,to know; to get to know
+482,sector,sector,sector; industry
+483,colores,color,colors
+484,disfrutar,disfrutar,to enjoy
+485,grupo,grupo,group; company group
+486,archivo,archivo,file (computer)
+487,voz,voz,voice
+488,inteligente,inteligente,smart; intelligent
+489,banda,banda,band (frequency); strip
+490,elementos,elemento,elements; items
+491,casa,casa,house; home
+492,da,dar,gives (it); (it) gives
+493,media,medio,half; average (fem.)
+494,especificaciones,especificación,specifications
+495,fabricante,fabricante,manufacturer
+496,llevar,llevar,to carry; to take; to wear
+497,obtener,obtener,to obtain; to get
+498,acción,acción,action
+499,interesante,interesante,interesting
+500,has,haber,you have (auxiliary)
+,,,Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - sources and credits: https://apera.me/sources#reading-lists

@@ -1,0 +1,502 @@
+rank,word,lemma,meaning
+1,de,de,of; from
+2,la,el,the (feminine)
+3,el,el,the (masculine)
+4,en,en,in; on; at
+5,y,y,and
+6,que,que,that; which; who
+7,a,a,to; at; (personal a)
+8,los,el,the (masculine plural)
+9,del,del,of the; from the
+10,las,el,the (feminine plural)
+11,se,se,himself/herself/itself; passive marker
+12,un,un,a; an; one (masculine)
+13,con,con,with
+14,por,por,by; for; through
+15,para,para,for; in order to
+16,una,un,a; an; one (feminine)
+17,ha,haber,has (he/she/it)
+18,su,su,his; her; its; their; your (formal)
+19,no,no,no; not
+20,es,ser,is (he/she/it)
+21,al,al,to the; upon (+ infinitive)
+22,como,como,as; like; how
+23,más,más,more; most; plus
+24,este,este,this (masculine)
+25,lo,lo,it; him; the (neuter)
+26,o,o,or
+27,esta,este,this (feminine)
+28,han,haber,have (they)
+29,sus,su,his/her/their (plural things)
+30,también,también,also; too
+31,desde,desde,since; from
+32,entre,entre,between; among
+33,pero,pero,but
+34,sobre,sobre,about; on; over
+35,ya,ya,already; now
+36,años,año,years
+37,sin,sin,without
+38,está,estar,"is (he/she/it, located/state)"
+39,son,ser,are (they)
+40,si,si,if; whether
+41,hasta,hasta,until; up to; even
+42,personas,persona,people; persons
+43,dos,dos,two
+44,durante,durante,during
+45,año,año,year
+46,todo,todo,all; everything; whole
+47,además,además,besides; in addition
+48,parte,parte,part; side; (de parte de) on behalf of
+49,así,así,thus; like this; so
+50,gobierno,gobierno,government
+51,ser,ser,to be (permanent)
+52,euros,euro,euros
+53,e,y,and (before i- sound)
+54,todos,todo,all; everyone; every
+55,muy,muy,very
+56,cuando,cuando,when
+57,donde,donde,where
+58,día,día,day
+59,fue,ser,was/went (he/she/it)
+60,le,le,to him/her/you (indirect)
+61,cada,cada,each; every
+62,ayuntamiento,ayuntamiento,city council; town hall
+63,horas,hora,hours
+64,según,según,according to
+65,hay,haber,there is; there are
+66,nos,nos,us; to us; ourselves
+67,sido,ser,been
+68,tras,tras,after; following
+69,ciudad,ciudad,city
+70,puede,poder,can; may (he/she/it)
+71,tiene,tener,has (he/she/it)
+72,estos,este,these (masculine)
+73,porque,porque,because
+74,uno,uno,one; someone
+75,gran,grande,great; big (before noun)
+76,solo,solo,only; alone; just
+77,forma,forma,form; way; shape
+78,estas,este,these (feminine)
+79,millones,millón,millions
+80,vez,vez,time; occasion
+81,tres,tres,three
+82,vida,vida,life
+83,otros,otro,others; other (masc. plural)
+84,tanto,tanto,so much; as much; (por) so
+85,están,estar,are (they)
+86,trabajo,trabajo,work; job
+87,hace,hacer,does/makes (he/she/it); ago
+88,centro,centro,centre; center
+89,primera,primero,first (feminine)
+90,contra,contra,against
+91,tiempo,tiempo,time; weather
+92,ahora,ahora,now
+93,pasado,pasado,past; last (e.g. last year)
+94,lugar,lugar,place; (en lugar de) instead of
+95,nuevo,nuevo,new
+96,través,través,(a través de) through; across
+97,presidente,presidente,president; chairman
+98,ante,ante,before; in the face of
+99,después,después,after; afterwards
+100,qué,qué,what; which
+101,días,día,days
+102,estado,estado,state; status
+103,proyecto,proyecto,project; plan
+104,hoy,hoy,today
+105,equipo,equipo,team; squad
+106,ni,ni,nor; not even
+107,grupo,grupo,group; band
+108,caso,caso,case
+109,nueva,nuevo,new (feminine)
+110,aunque,aunque,although; even if
+111,hacer,hacer,to do; to make
+112,mayor,mayor,greater; older; major
+113,mismo,mismo,same; very
+114,social,social,social
+115,cuenta,cuenta,account; bill
+116,semana,semana,week
+117,seguridad,seguridad,security; safety
+118,partido,partido,party; match (sport)
+119,momento,momento,moment
+120,servicios,servicio,services
+121,antes,antes,before; earlier
+122,mientras,mientras,while; meanwhile
+123,otro,otro,other; another (masc.)
+124,me,me,me; to me; myself
+125,nacional,nacional,national
+126,san,san,saint (before a name)
+127,todas,todo,all; every (feminine plural)
+128,general,general,general; overall
+129,será,ser,will be (he/she/it)
+130,público,público,public
+131,fin,fin,end; purpose
+132,mejor,mejor,better; best
+133,hecho,hecho,fact; event
+134,mundo,mundo,world
+135,municipal,municipal,municipal; city (council)
+136,local,local,local
+137,les,les,to them; to you (pl.)
+138,otras,otro,other; others (feminine pl.)
+139,pueden,poder,can; are able (they)
+140,real,real,royal; real
+141,servicio,servicio,service
+142,sino,sino,but rather; except
+143,situación,situación,situation
+144,nuestra,nuestro,our (feminine)
+145,menos,menos,less; fewer; except
+146,cómo,cómo,how
+147,primer,primero,first (before masc. noun)
+148,información,información,information
+149,programa,programa,program; programme
+150,ese,ese,that (masc.)
+151,salud,salud,health
+152,bien,bien,well; good; fine
+153,medio,medio,means; medium; half
+154,toda,todo,all; whole (feminine)
+155,actividades,actividad,activities
+156,total,total,total
+157,ver,ver,to see; to watch
+158,te,te,you; to you; yourself
+159,zona,zona,zone; area
+160,empresas,empresa,companies; businesses
+161,país,país,country
+162,era,ser,was (he/she/it)
+163,siempre,siempre,always
+164,objetivo,objetivo,goal; objective
+165,datos,dato,data; facts
+166,nuestro,nuestro,our (masc.)
+167,manera,manera,way; manner
+168,esto,esto,this (neuter)
+169,eso,eso,that (neuter)
+170,unos,uno,some (masc. pl.)
+171,empresa,empresa,company; business
+172,cultura,cultura,culture
+173,tienen,tener,have (they)
+174,sector,sector,sector; industry
+175,tener,tener,to have
+176,desarrollo,desarrollo,development
+177,cuatro,cuatro,four
+178,otra,otro,other; another (feminine)
+179,va,ir,goes; is going (he/she/it)
+180,meses,mes,months
+181,había,haber,there was/were; had
+182,esa,ese,that (feminine)
+183,ellos,ellos,they; them (masc.)
+184,comunidad,comunidad,community; region (autonomous)
+185,historia,historia,history; story
+186,ello,ello,it; that (neuter)
+187,diferentes,diferente,different (plural)
+188,junto,junto,together; (junto a) next to
+189,mes,mes,month
+190,alcalde,alcalde,mayor
+191,dentro,dentro,inside; within
+192,política,política,politics; policy
+193,casa,casa,house; home
+194,mucho,mucho,a lot; much
+195,municipio,municipio,municipality; town
+196,quien,quien,who; the one who
+197,sociales,social,social (plural)
+198,tipo,tipo,type; kind
+199,provincia,provincia,province
+200,importante,importante,important
+201,poder,poder,to be able; power
+202,número,número,number
+203,plan,plan,plan
+204,asociación,asociación,association
+205,actividad,actividad,activity
+206,final,final,final; end; (sport) final
+207,frente,frente,"front; (frente a) facing, against"
+208,sistema,sistema,system
+209,sea,ser,be (subjunctive); (o sea) that is
+210,calidad,calidad,quality
+211,sí,sí,yes; indeed
+212,viernes,viernes,Friday
+213,internacional,internacional,international
+214,tu,tu,your (singular)
+215,jornada,jornada,day; (sport) matchday
+216,algo,algo,something; somewhat
+217,vecinos,vecino,neighbours; residents
+218,tan,tan,so; as
+219,atención,atención,attention; care
+220,sábado,sábado,Saturday
+221,formación,formación,training; formation
+222,mujeres,mujer,women
+223,nivel,nivel,level
+224,agua,agua,water
+225,último,último,last; latest
+226,espacio,espacio,space
+227,próximo,próximo,next; upcoming
+228,edición,edición,edition
+229,música,música,music
+230,mañana,mañana,tomorrow; morning
+231,muchos,mucho,many; a lot of (plural)
+232,policía,policía,police; police officer
+233,algunos,alguno,some (plural)
+234,cualquier,cualquier,any
+235,puntos,punto,points; dots
+236,julio,julio,July
+237,hemos,haber,have (we)
+238,plaza,plaza,square; position; place
+239,santa,santo,holy; saint (female)
+240,domingo,domingo,Sunday
+241,obras,obra,works; roadworks; construction
+242,septiembre,septiembre,September
+243,apoyo,apoyo,support
+244,medidas,medida,measures
+245,cultural,cultural,cultural
+246,punto,punto,point; dot
+247,colaboración,colaboración,collaboration
+248,posible,posible,possible
+249,grandes,grande,big; great (plural)
+250,investigación,investigación,investigation; research
+251,hacia,hacia,towards
+252,calle,calle,street
+253,nuevas,nuevo,new (feminine plural)
+254,puesto,puesto,position; post; stall
+255,trata,tratar,deals with; is about (it)
+256,agosto,agosto,August
+257,pública,público,public (feminine)
+258,gestión,gestión,management
+259,civil,civil,civil; civilian
+260,junta,junta,board; regional government
+261,poco,poco,little; not much; few
+262,partir,partir,to depart; (a partir de) from
+263,sociedad,sociedad,society; company
+264,personal,personal,personal; staff
+265,dar,dar,to give
+266,estar,estar,to be (location/state)
+267,bajo,bajo,under; low
+268,uso,uso,use
+269,segunda,segundo,second (feminine)
+270,quienes,quien,who; those who (plural)
+271,casos,caso,cases
+272,sentido,sentido,sense; meaning
+273,tarde,tarde,afternoon; late
+274,diciembre,diciembre,December
+275,mercado,mercado,market
+276,ley,ley,law
+277,casi,casi,almost
+278,educación,educación,education
+279,cinco,cinco,five
+280,centros,centro,centres
+281,valor,valor,value; courage
+282,participación,participación,participation; turnout
+283,mi,mi,my
+284,cambio,cambio,change; exchange
+285,da,dar,gives (he/she/it)
+286,últimos,último,last; latest (plural)
+287,nuevos,nuevo,new (plural)
+288,embargo,embargo,(sin embargo) however; embargo
+289,especialmente,especialmente,especially
+290,cabo,cabo,end; (al cabo de) after; (llevar a cabo) carry out
+291,acto,acto,event; ceremony; act
+292,paso,paso,step; passage; I pass
+293,siendo,ser,being
+294,región,región,region
+295,falta,falta,lack; foul; (it) is missing
+296,debe,deber,must (he/she); owes
+297,proceso,proceso,process; trial
+298,seguir,seguir,to continue; to follow
+299,empleo,empleo,employment; job; I use
+300,unas,uno,some (feminine plural)
+301,largo,largo,long
+302,lunes,lunes,Monday
+303,persona,persona,person
+304,club,club,club
+305,noviembre,noviembre,November
+306,jóvenes,joven,young people; young (plural)
+307,universidad,universidad,university
+308,incluso,incluso,even; including
+309,hora,hora,hour; time
+310,zonas,zona,areas; zones
+311,fueron,ser,were (they); went (they)
+312,acuerdo,acuerdo,agreement; (de acuerdo) agreed
+313,muchas,mucho,many; a lot of (feminine)
+314,experiencia,experiencia,experience
+315,varios,varios,several; various
+316,encuentro,encuentro,meeting; match; I find
+317,popular,popular,popular; of the people
+318,obra,obra,work; construction works; building site
+319,gracias,gracias,thanks; thank you
+320,especial,especial,special
+321,turismo,turismo,tourism
+322,proyectos,proyecto,projects
+323,niños,niño,children; boys
+324,española,español,Spanish (feminine)
+325,misma,mismo,same; itself (feminine)
+326,marcha,marcha,march; departure; pace
+327,jueves,jueves,Thursday
+328,junio,junio,June
+329,mayores,mayor,older people; elderly; greater
+330,octubre,octubre,October
+331,acceso,acceso,access
+332,nada,nada,nothing; not at all
+333,iniciativa,iniciativa,initiative
+334,respecto,respecto,(respecto a) regarding; with respect to
+335,población,población,population; town
+336,él,él,he; him
+337,vivienda,vivienda,housing; home
+338,compromiso,compromiso,commitment; agreement
+339,mujer,mujer,woman; wife
+340,mayo,mayo,May
+341,segundo,segundo,second
+342,estamos,estar,we are
+343,conocer,conocer,to know; to meet
+344,actual,actual,current; present
+345,familia,familia,family
+346,organización,organización,organization
+347,familias,familia,families
+348,fuera,fuera,outside; away; out (of)
+349,futuro,futuro,future
+350,director,director,director; manager
+351,nuestros,nuestro,our (masc. plural)
+352,lado,lado,side
+353,mejorar,mejorar,to improve
+354,aquí,aquí,here
+355,haber,haber,to have (auxiliary); there to be
+356,locales,local,local; premises
+357,países,país,countries
+358,recursos,recurso,resources; appeals
+359,sigue,seguir,(he/she/it) continues; follows
+360,profesionales,profesional,professionals; professional
+361,productos,producto,products
+362,noche,noche,night; evening
+363,marzo,marzo,March
+364,entorno,entorno,environment; surroundings
+365,protección,protección,protection
+366,aún,aún,still; yet
+367,medios,medio,media; means; half
+368,ejemplo,ejemplo,example
+369,premio,premio,prize; award
+370,sólo,solo,only
+371,martes,martes,Tuesday
+372,riesgo,riesgo,risk
+373,red,red,network; net
+374,ciudadanos,ciudadano,citizens
+375,condiciones,condición,conditions; terms
+376,podemos,poder,we can
+377,enero,enero,January
+378,presencia,presencia,presence
+379,estudio,estudio,study; studio
+380,redes,red,networks; (redes sociales) social media
+381,web,web,website; web
+382,fiestas,fiesta,festivals; holidays; parties
+383,miércoles,miércoles,Wednesday
+384,actuación,actuación,action; performance; intervention
+385,campaña,campaña,campaign
+386,capital,capital,capital (city); capital (money)
+387,disfrutar,disfrutar,to enjoy
+388,tenemos,tener,we have
+389,hospital,hospital,hospital
+390,campo,campo,field; countryside; pitch
+391,alta,alto,high; (dar de alta) discharge
+392,decir,decir,to say
+393,línea,línea,line
+394,evitar,evitar,to avoid; to prevent
+395,tendrá,tener,he/she/it will have
+396,temporada,temporada,season
+397,algunas,alguno,some (feminine)
+398,verano,verano,summer
+399,gente,gente,people
+400,importancia,importancia,importance
+401,abril,abril,April
+402,resultados,resultado,results
+403,relación,relación,relationship; relation
+404,ministerio,ministerio,ministry
+405,localidad,localidad,town; locality; seat/ticket
+406,yo,yo,I
+407,podría,poder,he/she/it/I could
+408,tal,tal,such; (tal y como) just as
+409,diputación,diputación,provincial council
+410,última,último,last; latest (feminine)
+411,capacidad,capacidad,capacity; ability
+412,ella,ella,she; her
+413,inversión,inversión,investment
+414,provincial,provincial,provincial
+415,evento,evento,event
+416,pueblo,pueblo,town; village; people
+417,media,medio,half; average; mid (feminine)
+418,dinero,dinero,money
+419,español,español,Spanish; Spaniard
+420,municipios,municipio,municipalities
+421,ambiente,ambiente,atmosphere; environment
+422,concejal,concejal,town councillor
+423,área,área,area
+424,actuaciones,actuación,actions; interventions; performances
+425,guardia,guardia,guard; (Guardia Civil) police
+426,permite,permitir,it allows
+427,realidad,realidad,reality
+428,tenido,tener,had (past participle)
+429,regional,regional,regional
+430,realizar,realizar,to carry out; to perform
+431,problemas,problema,problems
+432,propuesta,propuesta,proposal
+433,principales,principal,main (plural)
+434,derechos,derecho,rights
+435,estaba,estar,he/she/it/I was
+436,dirección,dirección,management; direction; address
+437,mediante,mediante,through; by means of
+438,ayuda,ayuda,help; aid
+439,economía,economía,economy
+440,públicos,público,public (masculine plural)
+441,principal,principal,main
+442,resto,resto,rest; remainder
+443,llegar,llegar,to arrive; to reach
+444,parque,parque,park
+445,modelo,modelo,model
+446,trabajadores,trabajador,workers
+447,conjunto,conjunto,set; whole; ensemble
+448,dado,dado,given (past participle of dar)
+449,municipales,municipal,municipal; local-election (plural)
+450,van,ir,they go; they are going
+451,nunca,nunca,never
+452,grupos,grupo,groups
+453,metros,metro,metres; metros
+454,agentes,agente,officers; agents
+455,varias,vario,several (feminine)
+456,oficial,oficial,official
+457,respuesta,respuesta,answer; response
+458,asimismo,asimismo,also; likewise
+459,ellas,ella,they (feminine); them
+460,clave,clave,key; key factor
+461,propio,propio,own; proper
+462,destacado,destacar,prominent; notable; highlighted
+463,natural,natural,natural
+464,espacios,espacio,spaces
+465,mejora,mejora,improvement
+466,patrimonio,patrimonio,heritage; assets
+467,cita,cita,appointment; quote; meeting
+468,febrero,febrero,February
+469,seis,seis,six
+470,cerca,cerca,near; close
+471,necesidad,necesidad,need; necessity
+472,buena,bueno,good (feminine)
+473,poner,poner,to put; to place
+474,problema,problema,problem
+475,ofrece,ofrecer,he/she/it offers
+476,comunicación,comunicación,communication
+477,instalaciones,instalación,facilities; installations
+478,derecho,derecho,right; law
+479,supone,suponer,it means; it involves
+480,plazo,plazo,deadline; time period
+481,podrán,poder,they will be able to
+482,interior,interior,interior; inside
+483,control,control,control; check
+484,defensa,defensa,defence; defender (sport)
+485,papel,papel,role; paper
+486,dicho,decir,said (past participle)
+487,mar,mar,sea
+488,curso,curso,course; school year
+489,mantener,mantener,to maintain; to keep
+490,cuanto,cuanto,as much as (en cuanto: as soon as)
+491,diario,diario,daily newspaper
+492,ayudas,ayuda,aid; subsidies
+493,mayoría,mayoría,majority
+494,europea,europeo,European (feminine)
+495,haya,haber,has/have (subjunctive)
+496,minutos,minuto,minutes
+497,puedan,poder,they can/may (subjunctive)
+498,pleno,pleno,plenary session; full
+499,consejo,consejo,council; advice
+500,claro,claro,clear; of course
+,,,Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - sources and credits: https://apera.me/sources#reading-lists

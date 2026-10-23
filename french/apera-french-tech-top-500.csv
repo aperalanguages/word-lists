@@ -1,0 +1,502 @@
+rank,word,lemma,meaning
+1,de,de,of; from
+2,la,le,the (feminine)
+3,le,le,the (masculine)
+4,et,et,and
+5,à,à,to; at; in
+6,les,le,the (plural)
+7,un,un,a; one (masculine)
+8,en,en,in; by; as
+9,des,de,some; of the (plural)
+10,une,un,a; one (feminine)
+11,pour,pour,for; in order to
+12,est,être,is (he/she/it)
+13,sur,sur,on; about
+14,que,que,that; than; what
+15,du,de,of the; some (masculine)
+16,dans,dans,in; inside
+17,vous,vous,you (plural/formal)
+18,qui,qui,who; which; that
+19,plus,plus,more; no more
+20,a,avoir,has (he/she/it)
+21,il,il,he; it
+22,avec,avec,with
+23,ce,ce,this; that; it
+24,pas,pas,not (negation)
+25,au,à,to the; at the
+26,par,par,by; through
+27,ou,ou,or
+28,jeu,jeu,game
+29,se,se,oneself; himself/herself
+30,mais,mais,but
+31,son,son,his; her; its
+32,ne,ne,not (with pas)
+33,cette,ce,this; that (feminine)
+34,on,on,one; we; people
+35,nous,nous,we; us
+36,sont,être,are (they)
+37,votre,votre,your (formal/plural)
+38,tout,tout,all; every; everything
+39,comme,comme,as; like
+40,aux,à,to the; at the (plural)
+41,si,si,if; so
+42,bien,bien,well; good
+43,même,même,same; even
+44,être,être,to be
+45,ses,son,his; her; its (plural)
+46,disponible,disponible,available
+47,sa,son,his; her; its (feminine)
+48,ces,ce,these; those
+49,sans,sans,without
+50,y,y,there; to it
+51,peut,pouvoir,can (he/she/it)
+52,partir,partir,to leave; (à partir de) from
+53,aussi,aussi,also; too; as well
+54,très,très,very
+55,également,également,also; likewise
+56,fait,faire,does/makes (he/she/it); fact
+57,ont,avoir,have (they)
+58,faire,faire,to do; to make
+59,jeux,jeu,games
+60,elle,elle,she; it; her
+61,encore,encore,still; again; yet
+62,deux,deux,two
+63,été,être,been
+64,leur,leur,their
+65,cela,cela,that; this
+66,autres,autre,other; others
+67,vos,votre,your (plural)
+68,je,je,I
+69,ainsi,ainsi,thus; so; like this
+70,nouvelle,nouveau,new (feminine)
+71,entre,entre,between; among
+72,après,après,after
+73,donc,donc,so; therefore
+74,temps,temps,time; weather
+75,jour,jour,day
+76,tous,tout,all; everyone (plural)
+77,joueurs,joueur,players
+78,peu,peu,little; few
+79,sera,être,will be (he/she/it)
+80,où,où,where; when
+81,avant,avant,before
+82,version,version,version
+83,fois,fois,time; occasion; times
+84,pro,pro,Pro (premium model); professional
+85,prix,prix,price
+86,écran,écran,screen; display
+87,ils,il,they (masculine)
+88,monde,monde,world
+89,quelques,quelque,some; a few
+90,iphone,iPhone,iPhone (Apple phone)
+91,chaque,chaque,each; every
+92,déjà,déjà,already
+93,nouveau,nouveau,new
+94,permet,permettre,allows (he/she/it); lets
+95,plusieurs,plusieurs,several; many
+96,avoir,avoir,to have
+97,depuis,depuis,since; for (duration)
+98,neuf,neuf,new (unused); nine
+99,notre,notre,our
+100,vidéo,vidéo,video
+101,moins,moins,less; minus
+102,alors,alors,so; then; at that time
+103,reconditionné,reconditionner,refurbished
+104,sous,sous,under; below
+105,série,série,series; (TV) show
+106,mois,mois,month
+107,toujours,toujours,always; still
+108,expérience,expérience,experience (user experience)
+109,utilisateurs,utilisateur,users
+110,non,non,no; not
+111,système,système,system
+112,mode,mode,mode (setting)
+113,leurs,leur,their (plural things)
+114,mise,mise,putting; (mise à jour) update
+115,reste,rester,remains; rest
+116,soit,être,be (subjunctive); either; that is
+117,autre,autre,other; another
+118,peuvent,pouvoir,can (they); may (they)
+119,application,application,app; application
+120,données,donnée,data
+121,grâce,grâce,(grâce à) thanks to
+122,sortie,sortie,release; launch
+123,site,site,website; site
+124,pouvez,pouvoir,you can (formal/plural)
+125,ai,avoir,have (I)
+126,premier,premier,first
+127,selon,selon,according to
+128,lui,lui,him; her; to him/her
+129,certains,certain,some; certain (ones)
+130,année,année,year
+131,qualité,qualité,quality
+132,voir,voir,to see
+133,lors,lors,(lors de) during; at the time of
+134,ans,an,years (of age/time)
+135,partie,partie,part; (game) match
+136,ci,ci,here; (ci-dessous) below
+137,dont,dont,whose; of which
+138,offre,offre,offer; deal
+139,était,être,was (he/she/it)
+140,dernier,dernier,last; latest
+141,comment,comment,how
+142,va,aller,goes; is going (he/she/it); will
+143,grand,grand,big; large; great
+144,pourrait,pouvoir,could (he/she/it); might
+145,première,premier,first (feminine)
+146,fin,fin,end
+147,effet,effet,effect; (en effet) indeed
+148,niveau,niveau,level
+149,nouveaux,nouveau,new (masc. pl.)
+150,ligne,ligne,line; (en ligne) online
+151,nouvelles,nouvelle,new (fem. pl.)
+152,cet,cet,"this (before vowel, masc.)"
+153,simple,simple,simple; easy
+154,car,car,because; for
+155,toutes,tout,all; every (fem. pl.)
+156,propose,proposer,offers; proposes (he/she/it)
+157,bon,bon,good
+158,ici,ici,here
+159,histoire,histoire,story; history
+160,vers,vers,towards; around
+161,via,via,via; through
+162,avez,avoir,you have (formal/plural)
+163,possible,possible,possible
+164,compte,compte,account
+165,carte,carte,"card (graphics, SD); map"
+166,beaucoup,beaucoup,a lot; many; much
+167,chez,chez,at; with (a company/place)
+168,faut,falloir,(il faut) is necessary; must
+169,choix,choix,choice
+170,enfin,enfin,finally; at last
+171,point,point,point; dot
+172,applications,application,apps; applications
+173,notamment,notamment,notably; in particular
+174,utiliser,utiliser,to use
+175,afin,afin,(afin de) in order to
+176,cas,cas,case
+177,vie,vie,life
+178,ça,ça,that; it
+179,titre,titre,title; game title
+180,nos,notre,our (plural things)
+181,smartphone,smartphone,smartphone
+182,désormais,désormais,from now on; now
+183,trois,trois,three
+184,informations,information,information; news items
+185,avons,avoir,we have
+186,annonce,annonce,announcement
+187,gamme,gamme,range (of products)
+188,là,là,there
+189,quand,quand,when
+190,contre,contre,against
+191,ceux,celui,those; the ones
+192,sécurité,sécurité,security; safety
+193,moment,moment,moment; time
+194,côté,côté,side
+195,modèle,modèle,model
+196,marché,marché,market
+197,appareil,appareil,device
+198,voici,voici,here is; here are
+199,entreprise,entreprise,company
+200,place,place,place; room
+201,lieu,lieu,place
+202,assez,assez,quite; enough
+203,toute,tout,all; whole (fem.)
+204,fonctionnalités,fonctionnalité,features; functions
+205,surtout,surtout,especially; above all
+206,seront,être,will be (they)
+207,mobile,mobile,mobile; mobile phone
+208,accès,accès,access
+209,exemple,exemple,example
+210,contenu,contenu,content
+211,performances,performance,performance (plural)
+212,haut,haut,high; top
+213,avait,avoir,had (he/she/it)
+214,jouer,jouer,to play
+215,charge,charge,load; charge (battery)
+216,modèles,modèle,models
+217,dès,dès,from; as early as
+218,univers,univers,universe; (game) world
+219,souvent,souvent,often
+220,ios,iOS,iOS (Apple system)
+221,personnages,personnage,characters (in a game/film)
+222,seulement,seulement,only
+223,cependant,cependant,however
+224,savoir,savoir,to know
+225,game,game,game (English loanword)
+226,film,film,film; movie
+227,vraiment,vraiment,really; truly
+228,utilisation,utilisation,use; usage
+229,ultra,ultra,ultra; very
+230,équipe,équipe,team
+231,petit,petit,small; little
+232,design,design,design
+233,technologie,technologie,technology
+234,bonne,bon,good (fem.)
+235,service,service,service
+236,nombreux,nombreux,numerous; many
+237,puis,puis,then; next
+238,années,année,years
+239,points,point,points
+240,maintenant,maintenant,now
+241,rapide,rapide,fast; quick
+242,pendant,pendant,during; for (time)
+243,dernière,dernier,last; latest (fem.)
+244,cartes,carte,cards (graphics/memory); maps
+245,ailleurs,ailleurs,elsewhere
+246,action,action,action
+247,studio,studio,studio (game/film)
+248,trop,trop,too; too much
+249,plutôt,plutôt,rather; instead
+250,aventure,aventure,adventure
+251,grande,grand,big; great (fem.)
+252,saison,saison,season
+253,heures,heure,hours
+254,semble,sembler,seems (it)
+255,fans,fan,fans
+256,photo,photo,photo
+257,gestion,gestion,management
+258,suite,suite,sequel; continuation
+259,vient,venir,comes (he/she/it)
+260,lorsque,lorsque,when
+261,plateforme,plateforme,platform
+262,face,face,face
+263,celui,celui,the one; that one
+264,passe,passer,passes; spends (he/she/it)
+265,agit,agir,acts (he/she/it)
+266,base,base,base; basis
+267,développement,développement,development
+268,découvrir,découvrir,to discover
+269,rapport,rapport,report; relation
+270,web,web,web
+271,batterie,batterie,battery
+272,créer,créer,to create
+273,type,type,type; kind
+274,travail,travail,work
+275,manière,manière,way; manner
+276,rien,rien,nothing
+277,elles,elles,they (fem.)
+278,jours,jour,days
+279,utilisateur,utilisateur,user
+280,jamais,jamais,never; ever
+281,appareils,appareil,devices
+282,lancement,lancement,launch (release)
+283,marque,marque,brand
+284,mieux,mieux,better
+285,gameplay,gameplay,gameplay
+286,date,date,date (release date)
+287,différents,différent,"different, various"
+288,euros,euro,euros (price)
+289,ensemble,ensemble,"together; set, whole"
+290,nombre,nombre,number (quantity)
+291,image,image,image; picture
+292,disponibles,disponible,available (plural)
+293,test,test,test; review (of a product)
+294,console,console,console (gaming)
+295,devrait,devoir,should (he/she/it)
+296,mettre,mettre,to put; to place
+297,rapidement,rapidement,quickly
+298,chose,chose,thing
+299,tant,tant,so much; so many
+300,prendre,prendre,to take
+301,services,service,services
+302,produits,produit,products
+303,dire,dire,to say
+304,certaines,certain,some; certain (feminine plural)
+305,millions,million,millions
+306,nom,nom,name
+307,pouvoir,pouvoir,to be able; power
+308,produit,produit,product
+309,images,image,images
+310,quoi,quoi,what
+311,recherche,recherche,search; research
+312,public,public,public; audience
+313,part,part,share; part
+314,projet,projet,project
+315,gratuit,gratuit,free (no cost)
+316,autant,autant,as much; as many
+317,téléphone,téléphone,phone
+318,personnage,personnage,character (in a game)
+319,meilleur,meilleur,best; better
+320,début,début,start; beginning
+321,code,code,code
+322,trouver,trouver,to find
+323,celle,celui,the one (feminine)
+324,réseau,réseau,network
+325,besoin,besoin,need
+326,usb,usb,USB
+327,outils,outil,tools
+328,retour,retour,return; back
+329,serait,être,would be (he/she/it)
+330,passer,passer,to pass; to switch to
+331,entreprises,entreprise,companies
+332,permettant,permettre,allowing
+333,smartphones,smartphone,smartphones
+334,mémoire,mémoire,memory (RAM)
+335,tu,tu,you (informal)
+336,semaine,semaine,week
+337,doit,devoir,must; has to (he/she/it)
+338,seul,seul,only; alone
+339,ipad,iPad,iPad
+340,mon,mon,my
+341,développeurs,développeur,developers
+342,intelligence,intelligence,intelligence (as in AI)
+343,directement,directement,directly
+344,parmi,parmi,among
+345,génération,génération,generation
+346,fonction,fonction,function; feature
+347,main,main,hand
+348,pourquoi,pourquoi,why
+349,joueur,joueur,player (gamer)
+350,internet,internet,internet
+351,combat,combat,fight; combat
+352,prochain,prochain,next
+353,tour,tour,turn; tower
+354,êtes,être,"are (you, formal/plural)"
+355,fil,fil,thread; wire; feed
+356,parfois,parfois,sometimes
+357,nombreuses,nombreux,numerous (feminine plural)
+358,société,société,company; society
+359,article,article,article; item
+360,dit,dire,says; said (he/she)
+361,bande,bande,band; strip; trailer (bande-annonce)
+362,problème,problème,problem
+363,choisir,choisir,to choose
+364,possibilité,possibilité,possibility; option
+365,source,source,source
+366,annoncé,annoncer,announced
+367,cours,cours,course; class; price
+368,oui,oui,yes
+369,super,super,great; super
+370,simplement,simplement,simply
+371,malgré,malgré,despite
+372,stockage,stockage,storage
+373,autonomie,autonomie,battery life; autonomy
+374,clients,client,customers; clients
+375,ensuite,ensuite,then; next
+376,genre,genre,genre; type
+377,puissance,puissance,power; performance
+378,forme,forme,form; shape
+379,succès,succès,success; hit
+380,quel,quel,which; what
+381,différentes,différent,different; various (fem. pl.)
+382,interface,interface,interface
+383,autour,autour,around (autour de)
+384,pouces,pouce,inches (screen size)
+385,améliorer,améliorer,to improve
+386,me,me,me; to me
+387,particulièrement,particulièrement,particularly
+388,éléments,élément,elements; components
+389,prise,prise,socket; grip; taking
+390,capacité,capacité,capacity; ability
+391,outil,outil,tool
+392,obtenir,obtenir,to get; to obtain
+393,ordinateur,ordinateur,computer
+394,aura,aura,will have (he/she/it)
+395,septembre,septembre,September
+396,processeur,processeur,processor; CPU
+397,mis,mis,put; placed (past part.)
+398,liste,liste,list
+399,étant,être,being
+400,occasion,occasion,occasion; chance
+401,vidéos,vidéo,videos
+402,dollars,dollar,dollars
+403,coup,coup,blow; shot; time
+404,numérique,numérique,digital
+405,mini,mini,mini; small
+406,titres,titre,titles; games (titles)
+407,eu,eu,had (past part.)
+408,quatre,quatre,four
+409,attention,attention,attention; care
+410,profiter,profiter,to enjoy; take advantage
+411,technique,technique,technical; technique
+412,espace,espace,space; storage space
+413,rôle,rôle,role
+414,films,film,films; movies
+415,pourrez,pouvoir,you will be able to
+416,plateformes,plateforme,platforms
+417,faudra,falloir,will be necessary; you'll need
+418,contrôle,contrôle,control
+419,stratégie,stratégie,strategy
+420,mars,mars,March
+421,solution,solution,solution
+422,mises,mise,updates (mises à jour); placings
+423,question,question,question
+424,loin,loin,far
+425,travers,travers,through (à travers)
+426,héros,héros,hero; heroes
+427,petite,petit,small (fem.)
+428,édition,édition,edition
+429,capteur,capteur,sensor
+430,final,final,final
+431,fonctionnalité,fonctionnalité,feature; function
+432,audio,audio,audio
+433,options,option,options
+434,important,important,important
+435,objets,objet,objects; items
+436,tv,TV,TV
+437,façon,façon,way; manner
+438,propre,propre,own; clean
+439,français,français,French; French (people)
+440,aucun,aucun,no; none; any
+441,minutes,minute,minutes
+442,objectif,objectif,lens; goal
+443,personnes,personne,people; persons
+444,juste,juste,just; fair; only
+445,long,long,long
+446,télécharger,télécharger,to download
+447,rendre,rendre,to make; to return
+448,montre,montre,watch
+449,octobre,octobre,October
+450,tandis,tandis,whereas (tandis que)
+451,avis,avis,opinion; review
+452,trouve,trouver,finds; is found (he/she/it)
+453,artificielle,artificiel,artificial (fem.)
+454,aurait,avoir,would have (he/she/it)
+455,mal,mal,badly; bad
+456,cloud,cloud,cloud (computing)
+457,support,support,support; medium; stand
+458,véritable,véritable,real; true
+459,épisode,épisode,episode
+460,gaming,gaming,gaming
+461,ennemis,ennemi,enemies
+462,port,port,port (USB etc.)
+463,groupe,groupe,group
+464,durée,durée,duration; battery life
+465,app,app,app
+466,donne,donner,gives (he/she/it)
+467,juin,juin,June
+468,toutefois,toutefois,however; nevertheless
+469,réel,réel,real; actual
+470,acheter,acheter,to buy
+471,performance,performance,performance (speed/power)
+472,font,faire,do; make (they)
+473,lancer,lancer,to launch
+474,mesure,mesure,measure; measurement
+475,meilleurs,meilleur,"best (plural, masc.)"
+476,meilleure,meilleur,best (fem.)
+477,vu,voir,seen
+478,photos,photo,photos
+479,arrivée,arrivée,arrival; release
+480,offrir,offrir,to offer; to give
+481,environ,environ,about; approximately
+482,logiciel,logiciel,software
+483,usage,usage,use; usage
+484,note,note,note; rating (score)
+485,approche,approche,approach
+486,changement,changement,change
+487,devient,devenir,becomes (it)
+488,retrouve,retrouver,finds again; is found (it)
+489,maison,maison,house; home
+490,page,page,page
+491,eux,eux,them (masc.)
+492,lire,lire,to read
+493,ni,ni,nor; neither
+494,caméra,caméra,camera
+495,production,production,production
+496,droit,droit,right; law
+497,détails,détail,details
+498,aide,aide,help; aid
+499,principal,principal,main; primary
+500,option,option,option
+,,,Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/ - sources and credits: https://apera.me/sources#reading-lists
